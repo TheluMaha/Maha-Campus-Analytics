@@ -1,0 +1,4075 @@
+student_id,skill_id,skill_name
+1001,9,Machine Learning
+1001,12,AWS
+1001,6,JavaScript
+1001,14,Data Structures
+1002,4,Power BI
+1002,3,Excel
+1003,13,Git
+1003,10,Deep Learning
+1003,8,CSS
+1003,3,Excel
+1004,6,JavaScript
+1004,8,CSS
+1004,3,Excel
+1005,1,Python
+1005,9,Machine Learning
+1005,12,AWS
+1006,11,Tableau
+1006,9,Machine Learning
+1006,2,SQL
+1007,14,Data Structures
+1007,1,Python
+1007,2,SQL
+1007,9,Machine Learning
+1008,2,SQL
+1008,9,Machine Learning
+1008,7,HTML
+1008,3,Excel
+1008,1,Python
+1008,4,Power BI
+1009,4,Power BI
+1009,7,HTML
+1010,3,Excel
+1010,6,JavaScript
+1010,11,Tableau
+1011,4,Power BI
+1011,11,Tableau
+1011,7,HTML
+1011,14,Data Structures
+1011,2,SQL
+1011,8,CSS
+1012,2,SQL
+1012,4,Power BI
+1012,15,Communication
+1012,5,Java
+1012,6,JavaScript
+1013,10,Deep Learning
+1013,6,JavaScript
+1013,2,SQL
+1013,14,Data Structures
+1014,15,Communication
+1014,1,Python
+1014,10,Deep Learning
+1015,3,Excel
+1015,7,HTML
+1015,9,Machine Learning
+1016,10,Deep Learning
+1016,3,Excel
+1016,11,Tableau
+1016,7,HTML
+1017,15,Communication
+1017,11,Tableau
+1017,14,Data Structures
+1017,5,Java
+1017,10,Deep Learning
+1018,6,JavaScript
+1018,2,SQL
+1018,5,Java
+1019,11,Tableau
+1019,6,JavaScript
+1019,5,Java
+1019,12,AWS
+1020,13,Git
+1020,1,Python
+1020,3,Excel
+1020,11,Tableau
+1021,6,JavaScript
+1021,3,Excel
+1021,7,HTML
+1022,12,AWS
+1022,13,Git
+1022,14,Data Structures
+1022,8,CSS
+1023,2,SQL
+1023,10,Deep Learning
+1023,7,HTML
+1024,3,Excel
+1024,2,SQL
+1024,6,JavaScript
+1024,15,Communication
+1024,12,AWS
+1024,7,HTML
+1025,6,JavaScript
+1025,8,CSS
+1025,7,HTML
+1026,12,AWS
+1026,7,HTML
+1026,10,Deep Learning
+1027,3,Excel
+1027,13,Git
+1027,11,Tableau
+1027,4,Power BI
+1027,7,HTML
+1027,14,Data Structures
+1028,8,CSS
+1028,9,Machine Learning
+1028,14,Data Structures
+1028,15,Communication
+1029,7,HTML
+1029,2,SQL
+1029,10,Deep Learning
+1029,12,AWS
+1029,15,Communication
+1030,10,Deep Learning
+1030,13,Git
+1030,12,AWS
+1030,14,Data Structures
+1030,4,Power BI
+1031,2,SQL
+1031,4,Power BI
+1031,6,JavaScript
+1031,1,Python
+1032,14,Data Structures
+1032,1,Python
+1033,9,Machine Learning
+1033,8,CSS
+1033,3,Excel
+1033,2,SQL
+1034,15,Communication
+1034,6,JavaScript
+1034,14,Data Structures
+1035,5,Java
+1035,8,CSS
+1035,3,Excel
+1035,9,Machine Learning
+1035,7,HTML
+1036,4,Power BI
+1036,14,Data Structures
+1036,15,Communication
+1037,12,AWS
+1037,3,Excel
+1037,2,SQL
+1037,15,Communication
+1038,3,Excel
+1038,7,HTML
+1038,12,AWS
+1038,1,Python
+1039,7,HTML
+1039,6,JavaScript
+1039,1,Python
+1039,12,AWS
+1040,11,Tableau
+1040,10,Deep Learning
+1040,2,SQL
+1041,14,Data Structures
+1041,10,Deep Learning
+1041,3,Excel
+1041,1,Python
+1041,13,Git
+1041,6,JavaScript
+1041,11,Tableau
+1042,4,Power BI
+1042,2,SQL
+1043,10,Deep Learning
+1043,14,Data Structures
+1043,7,HTML
+1044,13,Git
+1044,3,Excel
+1045,12,AWS
+1045,3,Excel
+1045,15,Communication
+1046,12,AWS
+1046,5,Java
+1046,8,CSS
+1046,7,HTML
+1047,8,CSS
+1047,13,Git
+1047,11,Tableau
+1047,12,AWS
+1047,1,Python
+1047,5,Java
+1048,3,Excel
+1048,1,Python
+1049,1,Python
+1049,10,Deep Learning
+1049,13,Git
+1049,3,Excel
+1050,1,Python
+1050,7,HTML
+1050,14,Data Structures
+1050,11,Tableau
+1050,8,CSS
+1051,15,Communication
+1051,10,Deep Learning
+1051,9,Machine Learning
+1051,5,Java
+1051,4,Power BI
+1051,7,HTML
+1052,5,Java
+1052,2,SQL
+1052,9,Machine Learning
+1053,3,Excel
+1053,12,AWS
+1053,4,Power BI
+1054,10,Deep Learning
+1054,1,Python
+1054,4,Power BI
+1055,3,Excel
+1055,14,Data Structures
+1055,12,AWS
+1055,9,Machine Learning
+1056,14,Data Structures
+1056,12,AWS
+1056,8,CSS
+1056,13,Git
+1057,11,Tableau
+1057,15,Communication
+1057,7,HTML
+1058,3,Excel
+1058,1,Python
+1058,13,Git
+1059,11,Tableau
+1059,7,HTML
+1059,4,Power BI
+1059,5,Java
+1060,2,SQL
+1060,15,Communication
+1060,6,JavaScript
+1060,10,Deep Learning
+1061,1,Python
+1061,4,Power BI
+1061,5,Java
+1062,9,Machine Learning
+1062,2,SQL
+1063,4,Power BI
+1063,10,Deep Learning
+1063,1,Python
+1064,4,Power BI
+1064,9,Machine Learning
+1064,15,Communication
+1064,11,Tableau
+1064,1,Python
+1064,13,Git
+1065,2,SQL
+1065,10,Deep Learning
+1065,14,Data Structures
+1066,10,Deep Learning
+1066,13,Git
+1067,1,Python
+1067,15,Communication
+1067,6,JavaScript
+1068,5,Java
+1068,1,Python
+1068,6,JavaScript
+1069,7,HTML
+1069,9,Machine Learning
+1069,4,Power BI
+1069,6,JavaScript
+1069,15,Communication
+1069,12,AWS
+1070,12,AWS
+1070,11,Tableau
+1071,6,JavaScript
+1071,7,HTML
+1071,12,AWS
+1071,9,Machine Learning
+1072,9,Machine Learning
+1072,13,Git
+1072,14,Data Structures
+1073,1,Python
+1073,10,Deep Learning
+1073,13,Git
+1073,7,HTML
+1073,8,CSS
+1074,14,Data Structures
+1074,15,Communication
+1074,1,Python
+1074,5,Java
+1074,3,Excel
+1075,11,Tableau
+1075,8,CSS
+1075,2,SQL
+1075,15,Communication
+1075,13,Git
+1076,4,Power BI
+1076,15,Communication
+1076,13,Git
+1076,11,Tableau
+1076,12,AWS
+1077,13,Git
+1077,12,AWS
+1078,9,Machine Learning
+1078,15,Communication
+1078,12,AWS
+1078,10,Deep Learning
+1078,11,Tableau
+1079,8,CSS
+1079,13,Git
+1079,3,Excel
+1079,6,JavaScript
+1079,5,Java
+1079,12,AWS
+1080,14,Data Structures
+1080,7,HTML
+1080,1,Python
+1080,12,AWS
+1080,11,Tableau
+1081,4,Power BI
+1081,15,Communication
+1081,10,Deep Learning
+1082,3,Excel
+1082,10,Deep Learning
+1082,11,Tableau
+1082,8,CSS
+1083,13,Git
+1083,1,Python
+1083,3,Excel
+1084,9,Machine Learning
+1084,14,Data Structures
+1084,13,Git
+1085,8,CSS
+1085,2,SQL
+1085,15,Communication
+1086,3,Excel
+1086,5,Java
+1086,15,Communication
+1086,2,SQL
+1087,10,Deep Learning
+1087,6,JavaScript
+1087,14,Data Structures
+1087,2,SQL
+1087,12,AWS
+1087,3,Excel
+1088,13,Git
+1088,8,CSS
+1088,5,Java
+1088,14,Data Structures
+1089,13,Git
+1089,8,CSS
+1089,11,Tableau
+1089,3,Excel
+1090,10,Deep Learning
+1090,8,CSS
+1091,6,JavaScript
+1091,14,Data Structures
+1091,5,Java
+1092,7,HTML
+1092,14,Data Structures
+1092,10,Deep Learning
+1093,3,Excel
+1093,8,CSS
+1093,6,JavaScript
+1093,9,Machine Learning
+1094,6,JavaScript
+1094,2,SQL
+1094,11,Tableau
+1094,7,HTML
+1094,9,Machine Learning
+1094,8,CSS
+1095,15,Communication
+1095,11,Tableau
+1095,1,Python
+1096,11,Tableau
+1096,1,Python
+1096,12,AWS
+1096,4,Power BI
+1096,9,Machine Learning
+1097,3,Excel
+1097,14,Data Structures
+1097,2,SQL
+1098,7,HTML
+1098,3,Excel
+1098,10,Deep Learning
+1098,15,Communication
+1098,2,SQL
+1098,4,Power BI
+1099,14,Data Structures
+1099,8,CSS
+1099,11,Tableau
+1100,6,JavaScript
+1100,8,CSS
+1101,11,Tableau
+1101,9,Machine Learning
+1101,8,CSS
+1101,2,SQL
+1101,12,AWS
+1101,3,Excel
+1101,15,Communication
+1102,13,Git
+1102,7,HTML
+1102,4,Power BI
+1102,14,Data Structures
+1103,2,SQL
+1103,6,JavaScript
+1103,14,Data Structures
+1104,8,CSS
+1104,4,Power BI
+1104,12,AWS
+1104,13,Git
+1105,2,SQL
+1105,5,Java
+1105,8,CSS
+1105,1,Python
+1106,8,CSS
+1106,3,Excel
+1106,11,Tableau
+1106,4,Power BI
+1106,6,JavaScript
+1107,1,Python
+1107,10,Deep Learning
+1107,13,Git
+1107,7,HTML
+1107,15,Communication
+1108,13,Git
+1108,7,HTML
+1108,8,CSS
+1108,4,Power BI
+1108,1,Python
+1108,12,AWS
+1109,13,Git
+1109,11,Tableau
+1109,7,HTML
+1109,5,Java
+1110,11,Tableau
+1110,3,Excel
+1110,2,SQL
+1110,14,Data Structures
+1111,5,Java
+1111,7,HTML
+1111,2,SQL
+1112,14,Data Structures
+1112,12,AWS
+1112,8,CSS
+1113,9,Machine Learning
+1113,4,Power BI
+1113,11,Tableau
+1113,5,Java
+1114,14,Data Structures
+1114,1,Python
+1114,2,SQL
+1114,7,HTML
+1114,6,JavaScript
+1115,3,Excel
+1115,4,Power BI
+1115,6,JavaScript
+1115,7,HTML
+1115,8,CSS
+1115,11,Tableau
+1116,12,AWS
+1116,13,Git
+1116,3,Excel
+1116,15,Communication
+1117,6,JavaScript
+1117,12,AWS
+1117,10,Deep Learning
+1117,7,HTML
+1117,1,Python
+1117,9,Machine Learning
+1117,4,Power BI
+1118,12,AWS
+1118,11,Tableau
+1119,6,JavaScript
+1119,11,Tableau
+1119,12,AWS
+1119,13,Git
+1119,15,Communication
+1120,3,Excel
+1120,8,CSS
+1121,8,CSS
+1121,14,Data Structures
+1122,2,SQL
+1122,13,Git
+1122,11,Tableau
+1123,5,Java
+1123,9,Machine Learning
+1123,12,AWS
+1124,8,CSS
+1124,14,Data Structures
+1124,3,Excel
+1125,8,CSS
+1125,11,Tableau
+1125,10,Deep Learning
+1125,2,SQL
+1125,1,Python
+1126,12,AWS
+1126,4,Power BI
+1126,7,HTML
+1126,15,Communication
+1126,9,Machine Learning
+1127,10,Deep Learning
+1127,7,HTML
+1128,6,JavaScript
+1128,4,Power BI
+1129,11,Tableau
+1129,10,Deep Learning
+1129,1,Python
+1129,6,JavaScript
+1129,12,AWS
+1130,5,Java
+1130,15,Communication
+1130,9,Machine Learning
+1131,12,AWS
+1131,8,CSS
+1131,11,Tableau
+1132,7,HTML
+1132,15,Communication
+1132,6,JavaScript
+1133,14,Data Structures
+1133,9,Machine Learning
+1133,7,HTML
+1133,15,Communication
+1134,2,SQL
+1134,3,Excel
+1134,8,CSS
+1134,7,HTML
+1135,3,Excel
+1135,9,Machine Learning
+1135,10,Deep Learning
+1135,15,Communication
+1136,7,HTML
+1136,15,Communication
+1136,5,Java
+1136,11,Tableau
+1136,12,AWS
+1137,11,Tableau
+1137,5,Java
+1137,12,AWS
+1137,10,Deep Learning
+1138,2,SQL
+1138,13,Git
+1139,2,SQL
+1139,11,Tableau
+1139,1,Python
+1140,15,Communication
+1140,7,HTML
+1140,2,SQL
+1140,8,CSS
+1140,10,Deep Learning
+1141,2,SQL
+1141,11,Tableau
+1141,8,CSS
+1141,9,Machine Learning
+1142,13,Git
+1142,1,Python
+1142,11,Tableau
+1142,5,Java
+1142,7,HTML
+1143,4,Power BI
+1143,13,Git
+1143,8,CSS
+1144,7,HTML
+1144,2,SQL
+1144,4,Power BI
+1144,8,CSS
+1145,6,JavaScript
+1145,13,Git
+1146,7,HTML
+1146,14,Data Structures
+1146,11,Tableau
+1147,13,Git
+1147,12,AWS
+1147,7,HTML
+1147,1,Python
+1148,13,Git
+1148,4,Power BI
+1148,9,Machine Learning
+1148,5,Java
+1149,15,Communication
+1149,11,Tableau
+1149,5,Java
+1149,13,Git
+1150,11,Tableau
+1150,4,Power BI
+1150,1,Python
+1150,7,HTML
+1150,13,Git
+1150,15,Communication
+1150,10,Deep Learning
+1151,13,Git
+1151,6,JavaScript
+1151,9,Machine Learning
+1152,6,JavaScript
+1152,3,Excel
+1152,10,Deep Learning
+1152,7,HTML
+1152,4,Power BI
+1152,9,Machine Learning
+1153,4,Power BI
+1153,10,Deep Learning
+1153,11,Tableau
+1154,14,Data Structures
+1154,1,Python
+1154,13,Git
+1155,7,HTML
+1155,3,Excel
+1155,11,Tableau
+1155,15,Communication
+1155,14,Data Structures
+1156,15,Communication
+1156,6,JavaScript
+1156,9,Machine Learning
+1156,3,Excel
+1156,7,HTML
+1156,4,Power BI
+1156,2,SQL
+1157,9,Machine Learning
+1157,2,SQL
+1157,11,Tableau
+1157,10,Deep Learning
+1157,7,HTML
+1158,14,Data Structures
+1158,9,Machine Learning
+1158,3,Excel
+1158,6,JavaScript
+1158,4,Power BI
+1158,2,SQL
+1159,1,Python
+1159,7,HTML
+1160,11,Tableau
+1160,13,Git
+1160,10,Deep Learning
+1160,3,Excel
+1161,10,Deep Learning
+1161,12,AWS
+1161,9,Machine Learning
+1162,10,Deep Learning
+1162,7,HTML
+1163,12,AWS
+1163,15,Communication
+1164,8,CSS
+1164,11,Tableau
+1165,13,Git
+1165,6,JavaScript
+1165,3,Excel
+1165,4,Power BI
+1165,11,Tableau
+1166,5,Java
+1166,4,Power BI
+1166,9,Machine Learning
+1167,12,AWS
+1167,13,Git
+1167,14,Data Structures
+1168,13,Git
+1168,5,Java
+1168,11,Tableau
+1168,1,Python
+1169,2,SQL
+1169,3,Excel
+1169,11,Tableau
+1169,1,Python
+1169,13,Git
+1169,10,Deep Learning
+1170,2,SQL
+1170,8,CSS
+1170,10,Deep Learning
+1171,2,SQL
+1171,3,Excel
+1171,5,Java
+1171,13,Git
+1172,2,SQL
+1172,15,Communication
+1172,8,CSS
+1173,15,Communication
+1173,14,Data Structures
+1173,4,Power BI
+1173,7,HTML
+1174,8,CSS
+1174,13,Git
+1174,1,Python
+1175,2,SQL
+1175,8,CSS
+1175,11,Tableau
+1175,15,Communication
+1175,4,Power BI
+1175,7,HTML
+1175,10,Deep Learning
+1176,11,Tableau
+1176,8,CSS
+1176,13,Git
+1176,3,Excel
+1176,12,AWS
+1176,5,Java
+1177,15,Communication
+1177,3,Excel
+1178,2,SQL
+1178,6,JavaScript
+1178,14,Data Structures
+1178,8,CSS
+1179,10,Deep Learning
+1179,9,Machine Learning
+1179,1,Python
+1179,3,Excel
+1180,12,AWS
+1180,5,Java
+1180,2,SQL
+1180,4,Power BI
+1180,10,Deep Learning
+1181,9,Machine Learning
+1181,1,Python
+1182,4,Power BI
+1182,14,Data Structures
+1182,6,JavaScript
+1182,2,SQL
+1182,15,Communication
+1183,6,JavaScript
+1183,3,Excel
+1183,4,Power BI
+1183,2,SQL
+1184,12,AWS
+1184,3,Excel
+1184,5,Java
+1184,13,Git
+1185,4,Power BI
+1185,2,SQL
+1185,6,JavaScript
+1185,12,AWS
+1185,9,Machine Learning
+1185,5,Java
+1185,8,CSS
+1186,7,HTML
+1186,9,Machine Learning
+1186,15,Communication
+1186,4,Power BI
+1186,5,Java
+1186,3,Excel
+1186,12,AWS
+1187,14,Data Structures
+1187,12,AWS
+1187,5,Java
+1187,7,HTML
+1188,10,Deep Learning
+1188,13,Git
+1188,14,Data Structures
+1189,3,Excel
+1189,13,Git
+1189,4,Power BI
+1189,12,AWS
+1189,8,CSS
+1189,7,HTML
+1190,7,HTML
+1190,10,Deep Learning
+1190,12,AWS
+1190,5,Java
+1191,10,Deep Learning
+1191,2,SQL
+1191,15,Communication
+1191,7,HTML
+1191,12,AWS
+1191,4,Power BI
+1192,6,JavaScript
+1192,11,Tableau
+1192,2,SQL
+1192,8,CSS
+1192,3,Excel
+1192,1,Python
+1193,5,Java
+1193,10,Deep Learning
+1193,7,HTML
+1193,15,Communication
+1193,14,Data Structures
+1194,9,Machine Learning
+1194,6,JavaScript
+1194,7,HTML
+1194,1,Python
+1194,2,SQL
+1195,13,Git
+1195,6,JavaScript
+1195,7,HTML
+1195,3,Excel
+1195,14,Data Structures
+1196,2,SQL
+1196,4,Power BI
+1196,11,Tableau
+1196,6,JavaScript
+1196,12,AWS
+1197,13,Git
+1197,6,JavaScript
+1198,1,Python
+1198,6,JavaScript
+1199,12,AWS
+1199,6,JavaScript
+1199,4,Power BI
+1199,8,CSS
+1200,13,Git
+1200,6,JavaScript
+1200,4,Power BI
+1200,9,Machine Learning
+1200,2,SQL
+1201,5,Java
+1201,10,Deep Learning
+1201,4,Power BI
+1201,9,Machine Learning
+1201,13,Git
+1201,2,SQL
+1201,12,AWS
+1202,12,AWS
+1202,10,Deep Learning
+1202,13,Git
+1202,11,Tableau
+1202,2,SQL
+1202,14,Data Structures
+1203,7,HTML
+1203,11,Tableau
+1203,13,Git
+1203,15,Communication
+1203,6,JavaScript
+1204,4,Power BI
+1204,15,Communication
+1204,1,Python
+1205,8,CSS
+1205,1,Python
+1205,5,Java
+1206,2,SQL
+1206,15,Communication
+1206,8,CSS
+1206,3,Excel
+1206,10,Deep Learning
+1206,6,JavaScript
+1206,7,HTML
+1207,10,Deep Learning
+1207,1,Python
+1208,1,Python
+1208,11,Tableau
+1208,13,Git
+1209,15,Communication
+1209,8,CSS
+1209,5,Java
+1209,3,Excel
+1210,1,Python
+1210,9,Machine Learning
+1210,14,Data Structures
+1210,15,Communication
+1210,6,JavaScript
+1210,12,AWS
+1210,2,SQL
+1211,2,SQL
+1211,14,Data Structures
+1211,13,Git
+1211,7,HTML
+1212,5,Java
+1212,15,Communication
+1212,6,JavaScript
+1212,13,Git
+1213,2,SQL
+1213,9,Machine Learning
+1213,13,Git
+1213,6,JavaScript
+1214,10,Deep Learning
+1214,1,Python
+1214,7,HTML
+1214,5,Java
+1215,8,CSS
+1215,14,Data Structures
+1215,11,Tableau
+1215,2,SQL
+1215,6,JavaScript
+1215,10,Deep Learning
+1215,12,AWS
+1216,4,Power BI
+1216,1,Python
+1217,3,Excel
+1217,2,SQL
+1217,6,JavaScript
+1218,12,AWS
+1218,7,HTML
+1218,4,Power BI
+1218,3,Excel
+1218,2,SQL
+1219,12,AWS
+1219,13,Git
+1219,6,JavaScript
+1219,9,Machine Learning
+1219,1,Python
+1220,14,Data Structures
+1220,1,Python
+1220,5,Java
+1220,15,Communication
+1220,2,SQL
+1221,5,Java
+1221,2,SQL
+1222,6,JavaScript
+1222,12,AWS
+1222,10,Deep Learning
+1222,7,HTML
+1222,5,Java
+1222,3,Excel
+1223,10,Deep Learning
+1223,8,CSS
+1223,2,SQL
+1223,3,Excel
+1223,6,JavaScript
+1224,13,Git
+1224,10,Deep Learning
+1225,11,Tableau
+1225,8,CSS
+1225,15,Communication
+1225,2,SQL
+1225,9,Machine Learning
+1225,13,Git
+1225,4,Power BI
+1226,11,Tableau
+1226,8,CSS
+1226,5,Java
+1226,6,JavaScript
+1226,14,Data Structures
+1226,4,Power BI
+1226,2,SQL
+1227,13,Git
+1227,5,Java
+1227,12,AWS
+1228,6,JavaScript
+1228,9,Machine Learning
+1229,11,Tableau
+1229,15,Communication
+1230,12,AWS
+1230,2,SQL
+1230,14,Data Structures
+1230,8,CSS
+1230,1,Python
+1231,1,Python
+1231,11,Tableau
+1232,8,CSS
+1232,14,Data Structures
+1232,7,HTML
+1233,8,CSS
+1233,2,SQL
+1234,4,Power BI
+1234,14,Data Structures
+1234,10,Deep Learning
+1234,9,Machine Learning
+1234,12,AWS
+1234,6,JavaScript
+1235,12,AWS
+1235,8,CSS
+1235,11,Tableau
+1235,3,Excel
+1235,9,Machine Learning
+1235,2,SQL
+1236,4,Power BI
+1236,6,JavaScript
+1237,8,CSS
+1237,14,Data Structures
+1237,10,Deep Learning
+1238,4,Power BI
+1238,13,Git
+1238,7,HTML
+1238,15,Communication
+1239,5,Java
+1239,7,HTML
+1239,3,Excel
+1240,14,Data Structures
+1240,10,Deep Learning
+1240,11,Tableau
+1240,2,SQL
+1240,3,Excel
+1240,8,CSS
+1241,12,AWS
+1241,2,SQL
+1241,4,Power BI
+1241,1,Python
+1242,3,Excel
+1242,5,Java
+1242,1,Python
+1243,11,Tableau
+1243,9,Machine Learning
+1243,8,CSS
+1243,6,JavaScript
+1244,2,SQL
+1244,9,Machine Learning
+1244,15,Communication
+1244,6,JavaScript
+1245,4,Power BI
+1245,3,Excel
+1245,7,HTML
+1246,7,HTML
+1246,9,Machine Learning
+1246,6,JavaScript
+1246,1,Python
+1247,5,Java
+1247,6,JavaScript
+1247,2,SQL
+1247,1,Python
+1248,7,HTML
+1248,12,AWS
+1248,15,Communication
+1248,4,Power BI
+1249,4,Power BI
+1249,7,HTML
+1249,3,Excel
+1249,10,Deep Learning
+1249,5,Java
+1249,9,Machine Learning
+1250,8,CSS
+1250,9,Machine Learning
+1250,7,HTML
+1250,2,SQL
+1250,11,Tableau
+1251,11,Tableau
+1251,4,Power BI
+1251,2,SQL
+1252,2,SQL
+1252,1,Python
+1252,14,Data Structures
+1253,5,Java
+1253,4,Power BI
+1253,2,SQL
+1253,9,Machine Learning
+1254,5,Java
+1254,4,Power BI
+1254,10,Deep Learning
+1255,12,AWS
+1255,7,HTML
+1255,14,Data Structures
+1255,13,Git
+1255,2,SQL
+1256,12,AWS
+1256,14,Data Structures
+1256,15,Communication
+1256,5,Java
+1256,8,CSS
+1257,3,Excel
+1257,13,Git
+1257,4,Power BI
+1258,11,Tableau
+1258,5,Java
+1258,12,AWS
+1258,10,Deep Learning
+1258,14,Data Structures
+1258,1,Python
+1259,3,Excel
+1259,9,Machine Learning
+1260,12,AWS
+1260,5,Java
+1260,15,Communication
+1260,4,Power BI
+1260,3,Excel
+1260,6,JavaScript
+1260,2,SQL
+1261,3,Excel
+1261,6,JavaScript
+1261,8,CSS
+1261,15,Communication
+1261,1,Python
+1262,8,CSS
+1262,7,HTML
+1262,6,JavaScript
+1262,1,Python
+1262,3,Excel
+1263,15,Communication
+1263,2,SQL
+1263,3,Excel
+1264,13,Git
+1264,14,Data Structures
+1264,1,Python
+1264,10,Deep Learning
+1264,6,JavaScript
+1265,10,Deep Learning
+1265,1,Python
+1265,8,CSS
+1265,4,Power BI
+1266,2,SQL
+1266,1,Python
+1266,14,Data Structures
+1267,11,Tableau
+1267,5,Java
+1267,4,Power BI
+1267,9,Machine Learning
+1268,3,Excel
+1268,13,Git
+1268,15,Communication
+1268,2,SQL
+1268,12,AWS
+1269,13,Git
+1269,12,AWS
+1269,6,JavaScript
+1269,8,CSS
+1270,12,AWS
+1270,6,JavaScript
+1270,9,Machine Learning
+1271,11,Tableau
+1271,8,CSS
+1271,5,Java
+1271,6,JavaScript
+1272,1,Python
+1272,14,Data Structures
+1272,6,JavaScript
+1272,5,Java
+1273,6,JavaScript
+1273,9,Machine Learning
+1273,13,Git
+1273,11,Tableau
+1273,10,Deep Learning
+1274,2,SQL
+1274,5,Java
+1274,11,Tableau
+1274,9,Machine Learning
+1274,13,Git
+1274,1,Python
+1274,3,Excel
+1275,14,Data Structures
+1275,4,Power BI
+1275,11,Tableau
+1275,3,Excel
+1276,8,CSS
+1276,1,Python
+1276,4,Power BI
+1276,10,Deep Learning
+1276,7,HTML
+1276,6,JavaScript
+1277,12,AWS
+1277,2,SQL
+1278,15,Communication
+1278,7,HTML
+1278,11,Tableau
+1278,2,SQL
+1278,5,Java
+1279,11,Tableau
+1279,9,Machine Learning
+1279,8,CSS
+1279,14,Data Structures
+1279,3,Excel
+1280,15,Communication
+1280,11,Tableau
+1280,6,JavaScript
+1280,13,Git
+1280,7,HTML
+1280,10,Deep Learning
+1281,5,Java
+1281,15,Communication
+1281,4,Power BI
+1281,1,Python
+1281,10,Deep Learning
+1281,9,Machine Learning
+1281,6,JavaScript
+1282,7,HTML
+1282,13,Git
+1282,8,CSS
+1282,10,Deep Learning
+1283,5,Java
+1283,2,SQL
+1283,1,Python
+1283,8,CSS
+1284,3,Excel
+1284,8,CSS
+1284,11,Tableau
+1284,15,Communication
+1285,5,Java
+1285,10,Deep Learning
+1285,9,Machine Learning
+1285,11,Tableau
+1285,3,Excel
+1286,8,CSS
+1286,5,Java
+1286,2,SQL
+1286,14,Data Structures
+1286,1,Python
+1286,15,Communication
+1287,4,Power BI
+1287,5,Java
+1288,1,Python
+1288,8,CSS
+1288,5,Java
+1288,15,Communication
+1289,6,JavaScript
+1289,11,Tableau
+1289,1,Python
+1289,13,Git
+1289,5,Java
+1289,3,Excel
+1289,15,Communication
+1290,13,Git
+1290,14,Data Structures
+1290,9,Machine Learning
+1290,11,Tableau
+1290,15,Communication
+1290,3,Excel
+1291,12,AWS
+1291,5,Java
+1292,12,AWS
+1292,4,Power BI
+1292,7,HTML
+1293,5,Java
+1293,4,Power BI
+1293,1,Python
+1293,8,CSS
+1294,4,Power BI
+1294,13,Git
+1294,11,Tableau
+1295,7,HTML
+1295,15,Communication
+1295,14,Data Structures
+1295,2,SQL
+1296,15,Communication
+1296,5,Java
+1296,10,Deep Learning
+1296,14,Data Structures
+1297,10,Deep Learning
+1297,7,HTML
+1297,11,Tableau
+1297,6,JavaScript
+1297,15,Communication
+1298,11,Tableau
+1298,13,Git
+1298,4,Power BI
+1298,5,Java
+1298,3,Excel
+1299,9,Machine Learning
+1299,4,Power BI
+1299,5,Java
+1299,13,Git
+1300,5,Java
+1300,10,Deep Learning
+1300,11,Tableau
+1300,8,CSS
+1301,3,Excel
+1301,7,HTML
+1301,13,Git
+1301,14,Data Structures
+1302,3,Excel
+1302,9,Machine Learning
+1302,8,CSS
+1303,9,Machine Learning
+1303,11,Tableau
+1303,12,AWS
+1303,6,JavaScript
+1303,8,CSS
+1303,13,Git
+1304,8,CSS
+1304,7,HTML
+1304,14,Data Structures
+1304,15,Communication
+1304,1,Python
+1304,9,Machine Learning
+1304,11,Tableau
+1305,2,SQL
+1305,13,Git
+1305,3,Excel
+1305,10,Deep Learning
+1306,13,Git
+1306,4,Power BI
+1306,10,Deep Learning
+1306,9,Machine Learning
+1306,6,JavaScript
+1306,3,Excel
+1307,1,Python
+1307,13,Git
+1307,7,HTML
+1307,3,Excel
+1307,14,Data Structures
+1307,15,Communication
+1308,13,Git
+1308,15,Communication
+1308,9,Machine Learning
+1309,14,Data Structures
+1309,1,Python
+1309,2,SQL
+1310,5,Java
+1310,14,Data Structures
+1310,11,Tableau
+1311,6,JavaScript
+1311,10,Deep Learning
+1312,14,Data Structures
+1312,5,Java
+1313,8,CSS
+1313,12,AWS
+1313,6,JavaScript
+1313,1,Python
+1313,2,SQL
+1314,12,AWS
+1314,4,Power BI
+1314,9,Machine Learning
+1314,3,Excel
+1315,12,AWS
+1315,8,CSS
+1315,3,Excel
+1315,4,Power BI
+1315,11,Tableau
+1316,14,Data Structures
+1316,3,Excel
+1316,5,Java
+1316,11,Tableau
+1317,12,AWS
+1317,1,Python
+1317,13,Git
+1317,8,CSS
+1317,10,Deep Learning
+1317,4,Power BI
+1318,2,SQL
+1318,1,Python
+1319,10,Deep Learning
+1319,2,SQL
+1319,9,Machine Learning
+1320,4,Power BI
+1320,15,Communication
+1320,2,SQL
+1321,1,Python
+1321,14,Data Structures
+1321,9,Machine Learning
+1321,8,CSS
+1321,7,HTML
+1321,15,Communication
+1321,2,SQL
+1322,7,HTML
+1322,8,CSS
+1322,3,Excel
+1323,14,Data Structures
+1323,15,Communication
+1323,9,Machine Learning
+1324,14,Data Structures
+1324,10,Deep Learning
+1324,11,Tableau
+1324,8,CSS
+1324,13,Git
+1324,15,Communication
+1325,7,HTML
+1325,3,Excel
+1326,3,Excel
+1326,15,Communication
+1326,12,AWS
+1326,11,Tableau
+1327,3,Excel
+1327,9,Machine Learning
+1327,12,AWS
+1328,9,Machine Learning
+1328,4,Power BI
+1328,8,CSS
+1328,13,Git
+1328,5,Java
+1329,11,Tableau
+1329,2,SQL
+1329,10,Deep Learning
+1329,8,CSS
+1330,11,Tableau
+1330,5,Java
+1330,7,HTML
+1330,13,Git
+1330,2,SQL
+1330,8,CSS
+1331,14,Data Structures
+1331,7,HTML
+1331,3,Excel
+1331,1,Python
+1331,5,Java
+1331,8,CSS
+1331,2,SQL
+1332,1,Python
+1332,10,Deep Learning
+1332,5,Java
+1332,15,Communication
+1332,11,Tableau
+1332,14,Data Structures
+1332,8,CSS
+1333,15,Communication
+1333,6,JavaScript
+1334,8,CSS
+1334,12,AWS
+1335,5,Java
+1335,1,Python
+1335,3,Excel
+1335,6,JavaScript
+1336,14,Data Structures
+1336,15,Communication
+1336,9,Machine Learning
+1336,4,Power BI
+1337,15,Communication
+1337,12,AWS
+1337,9,Machine Learning
+1337,7,HTML
+1337,13,Git
+1337,2,SQL
+1338,11,Tableau
+1338,3,Excel
+1338,6,JavaScript
+1339,8,CSS
+1339,12,AWS
+1339,13,Git
+1339,3,Excel
+1339,5,Java
+1339,11,Tableau
+1340,2,SQL
+1340,14,Data Structures
+1340,11,Tableau
+1340,8,CSS
+1340,7,HTML
+1340,12,AWS
+1340,3,Excel
+1341,12,AWS
+1341,9,Machine Learning
+1341,13,Git
+1341,11,Tableau
+1342,5,Java
+1342,3,Excel
+1342,12,AWS
+1342,6,JavaScript
+1343,10,Deep Learning
+1343,6,JavaScript
+1343,15,Communication
+1343,13,Git
+1343,7,HTML
+1344,1,Python
+1344,15,Communication
+1344,12,AWS
+1344,3,Excel
+1345,2,SQL
+1345,11,Tableau
+1345,15,Communication
+1346,15,Communication
+1346,11,Tableau
+1346,8,CSS
+1346,6,JavaScript
+1347,13,Git
+1347,15,Communication
+1347,12,AWS
+1347,4,Power BI
+1347,2,SQL
+1348,12,AWS
+1348,7,HTML
+1348,13,Git
+1349,15,Communication
+1349,2,SQL
+1349,1,Python
+1349,10,Deep Learning
+1350,2,SQL
+1350,1,Python
+1350,12,AWS
+1351,8,CSS
+1351,13,Git
+1351,6,JavaScript
+1351,10,Deep Learning
+1352,14,Data Structures
+1352,1,Python
+1352,3,Excel
+1352,6,JavaScript
+1353,12,AWS
+1353,8,CSS
+1353,7,HTML
+1354,11,Tableau
+1354,10,Deep Learning
+1354,9,Machine Learning
+1355,4,Power BI
+1355,5,Java
+1355,8,CSS
+1356,11,Tableau
+1356,5,Java
+1356,4,Power BI
+1356,13,Git
+1356,3,Excel
+1356,7,HTML
+1356,9,Machine Learning
+1357,2,SQL
+1357,10,Deep Learning
+1357,1,Python
+1358,11,Tableau
+1358,2,SQL
+1358,4,Power BI
+1358,1,Python
+1358,3,Excel
+1359,6,JavaScript
+1359,13,Git
+1360,10,Deep Learning
+1360,9,Machine Learning
+1360,2,SQL
+1361,3,Excel
+1361,11,Tableau
+1361,12,AWS
+1361,13,Git
+1361,14,Data Structures
+1361,9,Machine Learning
+1362,4,Power BI
+1362,14,Data Structures
+1362,15,Communication
+1362,10,Deep Learning
+1363,9,Machine Learning
+1363,6,JavaScript
+1363,14,Data Structures
+1364,13,Git
+1364,2,SQL
+1364,8,CSS
+1364,7,HTML
+1364,11,Tableau
+1365,14,Data Structures
+1365,2,SQL
+1365,10,Deep Learning
+1366,3,Excel
+1366,13,Git
+1366,9,Machine Learning
+1367,2,SQL
+1367,15,Communication
+1367,8,CSS
+1367,4,Power BI
+1367,1,Python
+1367,10,Deep Learning
+1368,6,JavaScript
+1368,1,Python
+1368,4,Power BI
+1368,5,Java
+1369,7,HTML
+1369,12,AWS
+1369,6,JavaScript
+1369,2,SQL
+1370,5,Java
+1370,2,SQL
+1370,9,Machine Learning
+1371,4,Power BI
+1371,14,Data Structures
+1371,9,Machine Learning
+1371,10,Deep Learning
+1372,5,Java
+1372,7,HTML
+1372,10,Deep Learning
+1372,1,Python
+1373,12,AWS
+1373,2,SQL
+1373,10,Deep Learning
+1373,8,CSS
+1374,11,Tableau
+1374,1,Python
+1374,14,Data Structures
+1374,6,JavaScript
+1374,7,HTML
+1374,5,Java
+1375,6,JavaScript
+1375,13,Git
+1375,1,Python
+1375,3,Excel
+1375,4,Power BI
+1376,14,Data Structures
+1376,12,AWS
+1376,6,JavaScript
+1376,11,Tableau
+1376,1,Python
+1377,8,CSS
+1377,2,SQL
+1377,13,Git
+1377,10,Deep Learning
+1377,12,AWS
+1378,14,Data Structures
+1378,13,Git
+1378,15,Communication
+1378,1,Python
+1378,6,JavaScript
+1379,7,HTML
+1379,10,Deep Learning
+1379,12,AWS
+1379,14,Data Structures
+1380,15,Communication
+1380,9,Machine Learning
+1380,8,CSS
+1381,5,Java
+1381,12,AWS
+1382,2,SQL
+1382,1,Python
+1382,8,CSS
+1383,4,Power BI
+1383,11,Tableau
+1383,6,JavaScript
+1383,7,HTML
+1384,5,Java
+1384,13,Git
+1384,4,Power BI
+1384,1,Python
+1385,1,Python
+1385,13,Git
+1385,14,Data Structures
+1386,9,Machine Learning
+1386,10,Deep Learning
+1387,11,Tableau
+1387,15,Communication
+1387,12,AWS
+1387,1,Python
+1388,8,CSS
+1388,1,Python
+1388,7,HTML
+1388,13,Git
+1389,3,Excel
+1389,7,HTML
+1389,12,AWS
+1389,14,Data Structures
+1389,9,Machine Learning
+1390,2,SQL
+1390,8,CSS
+1390,15,Communication
+1391,6,JavaScript
+1391,4,Power BI
+1391,15,Communication
+1391,7,HTML
+1391,1,Python
+1391,14,Data Structures
+1392,2,SQL
+1392,10,Deep Learning
+1393,4,Power BI
+1393,7,HTML
+1393,12,AWS
+1394,10,Deep Learning
+1394,1,Python
+1394,13,Git
+1394,14,Data Structures
+1394,4,Power BI
+1395,2,SQL
+1395,1,Python
+1395,3,Excel
+1396,3,Excel
+1396,5,Java
+1396,1,Python
+1396,6,JavaScript
+1396,12,AWS
+1396,10,Deep Learning
+1396,4,Power BI
+1397,3,Excel
+1397,10,Deep Learning
+1397,7,HTML
+1397,8,CSS
+1397,11,Tableau
+1397,2,SQL
+1398,2,SQL
+1398,15,Communication
+1398,5,Java
+1398,9,Machine Learning
+1398,4,Power BI
+1399,12,AWS
+1399,15,Communication
+1399,6,JavaScript
+1400,8,CSS
+1400,12,AWS
+1400,5,Java
+1400,6,JavaScript
+1400,9,Machine Learning
+1401,14,Data Structures
+1401,11,Tableau
+1401,4,Power BI
+1402,6,JavaScript
+1402,12,AWS
+1402,9,Machine Learning
+1402,13,Git
+1402,2,SQL
+1402,1,Python
+1403,15,Communication
+1403,7,HTML
+1403,12,AWS
+1403,10,Deep Learning
+1404,5,Java
+1404,2,SQL
+1404,4,Power BI
+1405,14,Data Structures
+1405,9,Machine Learning
+1405,4,Power BI
+1406,12,AWS
+1406,9,Machine Learning
+1406,4,Power BI
+1406,2,SQL
+1407,12,AWS
+1407,14,Data Structures
+1407,13,Git
+1408,1,Python
+1408,4,Power BI
+1408,12,AWS
+1408,8,CSS
+1408,11,Tableau
+1409,2,SQL
+1409,1,Python
+1409,8,CSS
+1409,14,Data Structures
+1410,5,Java
+1410,10,Deep Learning
+1410,7,HTML
+1410,15,Communication
+1411,1,Python
+1411,5,Java
+1411,10,Deep Learning
+1411,7,HTML
+1412,1,Python
+1412,14,Data Structures
+1412,7,HTML
+1412,13,Git
+1412,8,CSS
+1412,15,Communication
+1412,4,Power BI
+1413,7,HTML
+1413,3,Excel
+1414,7,HTML
+1414,9,Machine Learning
+1414,1,Python
+1414,11,Tableau
+1414,5,Java
+1415,9,Machine Learning
+1415,13,Git
+1416,15,Communication
+1416,1,Python
+1416,10,Deep Learning
+1417,15,Communication
+1417,14,Data Structures
+1417,5,Java
+1417,10,Deep Learning
+1418,13,Git
+1418,1,Python
+1418,6,JavaScript
+1419,14,Data Structures
+1419,10,Deep Learning
+1419,7,HTML
+1419,13,Git
+1420,15,Communication
+1420,12,AWS
+1420,13,Git
+1420,1,Python
+1421,9,Machine Learning
+1421,7,HTML
+1421,12,AWS
+1421,11,Tableau
+1422,14,Data Structures
+1422,9,Machine Learning
+1422,8,CSS
+1423,10,Deep Learning
+1423,12,AWS
+1423,15,Communication
+1423,9,Machine Learning
+1423,5,Java
+1423,3,Excel
+1423,7,HTML
+1424,12,AWS
+1424,4,Power BI
+1424,3,Excel
+1424,1,Python
+1425,13,Git
+1425,11,Tableau
+1425,5,Java
+1426,4,Power BI
+1426,13,Git
+1427,5,Java
+1427,6,JavaScript
+1427,10,Deep Learning
+1427,7,HTML
+1427,1,Python
+1428,6,JavaScript
+1428,5,Java
+1428,11,Tableau
+1428,14,Data Structures
+1428,13,Git
+1428,10,Deep Learning
+1429,2,SQL
+1429,5,Java
+1430,11,Tableau
+1430,6,JavaScript
+1430,5,Java
+1430,3,Excel
+1431,8,CSS
+1431,1,Python
+1431,15,Communication
+1431,14,Data Structures
+1431,13,Git
+1431,12,AWS
+1431,6,JavaScript
+1432,11,Tableau
+1432,14,Data Structures
+1432,9,Machine Learning
+1432,4,Power BI
+1433,1,Python
+1433,10,Deep Learning
+1433,2,SQL
+1433,5,Java
+1434,9,Machine Learning
+1434,6,JavaScript
+1434,2,SQL
+1434,8,CSS
+1434,3,Excel
+1435,13,Git
+1435,15,Communication
+1435,5,Java
+1436,14,Data Structures
+1436,8,CSS
+1436,3,Excel
+1436,4,Power BI
+1437,3,Excel
+1437,14,Data Structures
+1437,10,Deep Learning
+1437,11,Tableau
+1437,1,Python
+1438,2,SQL
+1438,11,Tableau
+1438,1,Python
+1438,3,Excel
+1438,14,Data Structures
+1439,14,Data Structures
+1439,8,CSS
+1439,10,Deep Learning
+1439,6,JavaScript
+1440,9,Machine Learning
+1440,12,AWS
+1441,1,Python
+1441,12,AWS
+1442,5,Java
+1442,1,Python
+1442,11,Tableau
+1442,6,JavaScript
+1442,9,Machine Learning
+1442,14,Data Structures
+1443,4,Power BI
+1443,6,JavaScript
+1443,2,SQL
+1443,13,Git
+1443,9,Machine Learning
+1444,2,SQL
+1444,9,Machine Learning
+1444,15,Communication
+1444,4,Power BI
+1444,12,AWS
+1444,6,JavaScript
+1444,10,Deep Learning
+1445,7,HTML
+1445,2,SQL
+1445,11,Tableau
+1445,15,Communication
+1445,5,Java
+1446,1,Python
+1446,6,JavaScript
+1446,10,Deep Learning
+1447,6,JavaScript
+1447,7,HTML
+1447,11,Tableau
+1447,15,Communication
+1448,5,Java
+1448,10,Deep Learning
+1448,1,Python
+1448,3,Excel
+1449,1,Python
+1449,5,Java
+1449,3,Excel
+1449,10,Deep Learning
+1450,2,SQL
+1450,10,Deep Learning
+1450,4,Power BI
+1451,9,Machine Learning
+1451,12,AWS
+1451,13,Git
+1451,14,Data Structures
+1452,13,Git
+1452,10,Deep Learning
+1452,12,AWS
+1452,6,JavaScript
+1452,4,Power BI
+1453,14,Data Structures
+1453,10,Deep Learning
+1453,1,Python
+1454,7,HTML
+1454,13,Git
+1454,11,Tableau
+1454,2,SQL
+1454,12,AWS
+1455,10,Deep Learning
+1455,9,Machine Learning
+1455,15,Communication
+1455,11,Tableau
+1455,14,Data Structures
+1456,7,HTML
+1456,9,Machine Learning
+1456,12,AWS
+1456,2,SQL
+1456,14,Data Structures
+1457,10,Deep Learning
+1457,8,CSS
+1458,9,Machine Learning
+1458,15,Communication
+1458,8,CSS
+1458,6,JavaScript
+1458,5,Java
+1459,14,Data Structures
+1459,10,Deep Learning
+1459,5,Java
+1460,6,JavaScript
+1460,4,Power BI
+1460,13,Git
+1461,4,Power BI
+1461,8,CSS
+1461,6,JavaScript
+1461,12,AWS
+1461,2,SQL
+1461,15,Communication
+1462,12,AWS
+1462,7,HTML
+1462,6,JavaScript
+1463,6,JavaScript
+1463,9,Machine Learning
+1464,2,SQL
+1464,6,JavaScript
+1464,11,Tableau
+1464,8,CSS
+1465,8,CSS
+1465,13,Git
+1465,7,HTML
+1465,4,Power BI
+1465,10,Deep Learning
+1466,15,Communication
+1466,9,Machine Learning
+1467,13,Git
+1467,7,HTML
+1467,11,Tableau
+1468,11,Tableau
+1468,3,Excel
+1468,10,Deep Learning
+1468,5,Java
+1468,12,AWS
+1469,6,JavaScript
+1469,2,SQL
+1469,14,Data Structures
+1469,7,HTML
+1470,9,Machine Learning
+1470,3,Excel
+1470,10,Deep Learning
+1471,11,Tableau
+1471,13,Git
+1471,4,Power BI
+1471,3,Excel
+1471,8,CSS
+1471,1,Python
+1471,12,AWS
+1472,7,HTML
+1472,5,Java
+1473,12,AWS
+1473,8,CSS
+1473,15,Communication
+1473,2,SQL
+1474,14,Data Structures
+1474,1,Python
+1474,7,HTML
+1475,12,AWS
+1475,3,Excel
+1475,2,SQL
+1476,9,Machine Learning
+1476,14,Data Structures
+1477,15,Communication
+1477,7,HTML
+1477,6,JavaScript
+1477,3,Excel
+1477,14,Data Structures
+1477,9,Machine Learning
+1477,4,Power BI
+1478,5,Java
+1478,2,SQL
+1478,6,JavaScript
+1478,13,Git
+1478,10,Deep Learning
+1479,10,Deep Learning
+1479,2,SQL
+1479,12,AWS
+1479,1,Python
+1479,14,Data Structures
+1480,15,Communication
+1480,6,JavaScript
+1480,8,CSS
+1480,7,HTML
+1480,11,Tableau
+1481,12,AWS
+1481,14,Data Structures
+1481,7,HTML
+1481,5,Java
+1481,8,CSS
+1481,3,Excel
+1481,10,Deep Learning
+1482,13,Git
+1482,10,Deep Learning
+1482,9,Machine Learning
+1482,2,SQL
+1482,3,Excel
+1483,10,Deep Learning
+1483,15,Communication
+1483,6,JavaScript
+1484,11,Tableau
+1484,8,CSS
+1484,7,HTML
+1484,6,JavaScript
+1484,14,Data Structures
+1485,9,Machine Learning
+1485,12,AWS
+1485,10,Deep Learning
+1485,5,Java
+1485,2,SQL
+1486,5,Java
+1486,8,CSS
+1486,6,JavaScript
+1486,1,Python
+1486,10,Deep Learning
+1487,5,Java
+1487,6,JavaScript
+1487,7,HTML
+1487,14,Data Structures
+1487,3,Excel
+1487,11,Tableau
+1487,1,Python
+1488,7,HTML
+1488,9,Machine Learning
+1488,5,Java
+1488,10,Deep Learning
+1488,12,AWS
+1489,2,SQL
+1489,6,JavaScript
+1489,5,Java
+1490,2,SQL
+1490,5,Java
+1490,14,Data Structures
+1491,8,CSS
+1491,4,Power BI
+1491,3,Excel
+1491,5,Java
+1491,12,AWS
+1491,10,Deep Learning
+1491,2,SQL
+1492,11,Tableau
+1492,5,Java
+1492,3,Excel
+1492,2,SQL
+1492,4,Power BI
+1493,14,Data Structures
+1493,9,Machine Learning
+1493,13,Git
+1493,3,Excel
+1493,1,Python
+1494,15,Communication
+1494,1,Python
+1494,9,Machine Learning
+1494,13,Git
+1495,1,Python
+1495,8,CSS
+1496,6,JavaScript
+1496,4,Power BI
+1496,5,Java
+1496,10,Deep Learning
+1497,12,AWS
+1497,8,CSS
+1497,9,Machine Learning
+1498,14,Data Structures
+1498,8,CSS
+1498,5,Java
+1499,12,AWS
+1499,15,Communication
+1499,2,SQL
+1500,15,Communication
+1500,7,HTML
+1500,8,CSS
+1501,2,SQL
+1501,14,Data Structures
+1501,3,Excel
+1501,5,Java
+1502,11,Tableau
+1502,2,SQL
+1502,6,JavaScript
+1502,14,Data Structures
+1503,13,Git
+1503,4,Power BI
+1503,12,AWS
+1503,2,SQL
+1504,3,Excel
+1504,9,Machine Learning
+1504,6,JavaScript
+1504,5,Java
+1505,11,Tableau
+1505,12,AWS
+1505,9,Machine Learning
+1506,13,Git
+1506,2,SQL
+1506,12,AWS
+1506,15,Communication
+1506,6,JavaScript
+1507,7,HTML
+1507,2,SQL
+1507,12,AWS
+1507,9,Machine Learning
+1508,4,Power BI
+1508,14,Data Structures
+1508,9,Machine Learning
+1509,14,Data Structures
+1509,11,Tableau
+1509,1,Python
+1509,15,Communication
+1509,12,AWS
+1510,4,Power BI
+1510,3,Excel
+1510,10,Deep Learning
+1511,14,Data Structures
+1511,4,Power BI
+1511,11,Tableau
+1511,15,Communication
+1511,5,Java
+1511,8,CSS
+1511,3,Excel
+1512,14,Data Structures
+1512,3,Excel
+1512,12,AWS
+1512,8,CSS
+1513,3,Excel
+1513,4,Power BI
+1513,11,Tableau
+1513,2,SQL
+1514,1,Python
+1514,7,HTML
+1514,2,SQL
+1514,8,CSS
+1514,9,Machine Learning
+1515,4,Power BI
+1515,12,AWS
+1515,3,Excel
+1515,1,Python
+1516,12,AWS
+1516,5,Java
+1516,10,Deep Learning
+1517,11,Tableau
+1517,10,Deep Learning
+1517,4,Power BI
+1517,15,Communication
+1517,6,JavaScript
+1517,8,CSS
+1517,9,Machine Learning
+1518,15,Communication
+1518,5,Java
+1518,4,Power BI
+1518,14,Data Structures
+1518,11,Tableau
+1519,8,CSS
+1519,13,Git
+1519,11,Tableau
+1519,7,HTML
+1519,10,Deep Learning
+1519,6,JavaScript
+1519,9,Machine Learning
+1520,5,Java
+1520,2,SQL
+1520,4,Power BI
+1521,15,Communication
+1521,13,Git
+1521,14,Data Structures
+1521,5,Java
+1522,8,CSS
+1522,6,JavaScript
+1522,4,Power BI
+1522,11,Tableau
+1522,7,HTML
+1522,2,SQL
+1522,3,Excel
+1523,6,JavaScript
+1523,11,Tableau
+1523,2,SQL
+1523,15,Communication
+1523,7,HTML
+1523,3,Excel
+1523,8,CSS
+1524,10,Deep Learning
+1524,7,HTML
+1524,11,Tableau
+1525,1,Python
+1525,5,Java
+1525,14,Data Structures
+1526,4,Power BI
+1526,14,Data Structures
+1526,13,Git
+1526,7,HTML
+1527,9,Machine Learning
+1527,13,Git
+1527,6,JavaScript
+1527,5,Java
+1528,6,JavaScript
+1528,7,HTML
+1528,14,Data Structures
+1528,8,CSS
+1529,7,HTML
+1529,5,Java
+1529,1,Python
+1529,14,Data Structures
+1530,12,AWS
+1530,4,Power BI
+1530,6,JavaScript
+1530,11,Tableau
+1530,1,Python
+1530,5,Java
+1530,8,CSS
+1531,4,Power BI
+1531,10,Deep Learning
+1531,3,Excel
+1531,9,Machine Learning
+1532,13,Git
+1532,11,Tableau
+1533,10,Deep Learning
+1533,15,Communication
+1533,6,JavaScript
+1534,10,Deep Learning
+1534,9,Machine Learning
+1534,1,Python
+1535,1,Python
+1535,13,Git
+1535,7,HTML
+1535,2,SQL
+1535,6,JavaScript
+1536,13,Git
+1536,15,Communication
+1536,9,Machine Learning
+1537,11,Tableau
+1537,1,Python
+1538,4,Power BI
+1538,6,JavaScript
+1538,9,Machine Learning
+1538,15,Communication
+1538,3,Excel
+1539,7,HTML
+1539,14,Data Structures
+1539,12,AWS
+1539,4,Power BI
+1539,5,Java
+1540,15,Communication
+1540,6,JavaScript
+1541,7,HTML
+1541,4,Power BI
+1541,9,Machine Learning
+1542,1,Python
+1542,15,Communication
+1542,14,Data Structures
+1542,9,Machine Learning
+1542,2,SQL
+1543,7,HTML
+1543,13,Git
+1543,8,CSS
+1543,1,Python
+1543,3,Excel
+1544,5,Java
+1544,1,Python
+1544,4,Power BI
+1544,11,Tableau
+1545,4,Power BI
+1545,1,Python
+1545,5,Java
+1545,12,AWS
+1545,2,SQL
+1546,11,Tableau
+1546,7,HTML
+1546,3,Excel
+1546,12,AWS
+1547,14,Data Structures
+1547,2,SQL
+1547,15,Communication
+1547,13,Git
+1548,12,AWS
+1548,15,Communication
+1548,13,Git
+1548,14,Data Structures
+1549,1,Python
+1549,15,Communication
+1549,12,AWS
+1549,9,Machine Learning
+1550,15,Communication
+1550,3,Excel
+1550,2,SQL
+1550,12,AWS
+1551,13,Git
+1551,7,HTML
+1551,4,Power BI
+1551,10,Deep Learning
+1552,13,Git
+1552,6,JavaScript
+1552,7,HTML
+1552,9,Machine Learning
+1553,1,Python
+1553,5,Java
+1553,14,Data Structures
+1553,8,CSS
+1554,2,SQL
+1554,5,Java
+1555,7,HTML
+1555,5,Java
+1555,15,Communication
+1555,2,SQL
+1555,4,Power BI
+1555,13,Git
+1555,9,Machine Learning
+1556,8,CSS
+1556,5,Java
+1556,12,AWS
+1556,9,Machine Learning
+1556,13,Git
+1556,4,Power BI
+1557,1,Python
+1557,8,CSS
+1557,12,AWS
+1557,7,HTML
+1557,6,JavaScript
+1557,9,Machine Learning
+1557,2,SQL
+1558,4,Power BI
+1558,10,Deep Learning
+1558,1,Python
+1558,7,HTML
+1558,15,Communication
+1558,8,CSS
+1558,6,JavaScript
+1559,10,Deep Learning
+1559,2,SQL
+1559,11,Tableau
+1560,6,JavaScript
+1560,3,Excel
+1560,13,Git
+1561,2,SQL
+1561,15,Communication
+1561,9,Machine Learning
+1561,3,Excel
+1561,4,Power BI
+1562,10,Deep Learning
+1562,4,Power BI
+1562,2,SQL
+1562,3,Excel
+1563,10,Deep Learning
+1563,14,Data Structures
+1563,8,CSS
+1563,9,Machine Learning
+1564,14,Data Structures
+1564,10,Deep Learning
+1564,13,Git
+1564,4,Power BI
+1565,13,Git
+1565,8,CSS
+1565,5,Java
+1565,7,HTML
+1566,12,AWS
+1566,6,JavaScript
+1566,3,Excel
+1567,6,JavaScript
+1567,12,AWS
+1567,10,Deep Learning
+1568,7,HTML
+1568,14,Data Structures
+1568,1,Python
+1568,5,Java
+1569,13,Git
+1569,9,Machine Learning
+1569,15,Communication
+1569,8,CSS
+1569,14,Data Structures
+1570,6,JavaScript
+1570,11,Tableau
+1570,4,Power BI
+1570,15,Communication
+1571,12,AWS
+1571,8,CSS
+1571,9,Machine Learning
+1571,13,Git
+1572,12,AWS
+1572,2,SQL
+1572,14,Data Structures
+1572,7,HTML
+1573,7,HTML
+1573,3,Excel
+1573,13,Git
+1573,1,Python
+1574,9,Machine Learning
+1574,12,AWS
+1574,2,SQL
+1574,3,Excel
+1574,4,Power BI
+1575,14,Data Structures
+1575,2,SQL
+1575,1,Python
+1575,7,HTML
+1576,3,Excel
+1576,11,Tableau
+1576,13,Git
+1577,8,CSS
+1577,3,Excel
+1577,12,AWS
+1577,9,Machine Learning
+1577,7,HTML
+1578,1,Python
+1578,5,Java
+1578,2,SQL
+1579,5,Java
+1579,12,AWS
+1579,11,Tableau
+1579,15,Communication
+1579,9,Machine Learning
+1579,6,JavaScript
+1579,10,Deep Learning
+1580,3,Excel
+1580,5,Java
+1580,9,Machine Learning
+1580,11,Tableau
+1580,4,Power BI
+1581,12,AWS
+1581,6,JavaScript
+1581,9,Machine Learning
+1581,10,Deep Learning
+1582,8,CSS
+1582,15,Communication
+1582,4,Power BI
+1582,6,JavaScript
+1583,12,AWS
+1583,14,Data Structures
+1583,3,Excel
+1583,13,Git
+1583,9,Machine Learning
+1584,1,Python
+1584,6,JavaScript
+1584,7,HTML
+1584,3,Excel
+1584,12,AWS
+1584,8,CSS
+1584,2,SQL
+1585,5,Java
+1585,12,AWS
+1585,4,Power BI
+1586,12,AWS
+1586,2,SQL
+1587,8,CSS
+1587,6,JavaScript
+1587,2,SQL
+1587,1,Python
+1587,10,Deep Learning
+1588,10,Deep Learning
+1588,3,Excel
+1588,2,SQL
+1588,6,JavaScript
+1589,9,Machine Learning
+1589,4,Power BI
+1589,6,JavaScript
+1589,11,Tableau
+1590,15,Communication
+1590,4,Power BI
+1591,5,Java
+1591,14,Data Structures
+1591,7,HTML
+1591,10,Deep Learning
+1591,15,Communication
+1591,6,JavaScript
+1592,13,Git
+1592,7,HTML
+1592,5,Java
+1592,9,Machine Learning
+1592,12,AWS
+1593,11,Tableau
+1593,4,Power BI
+1593,2,SQL
+1593,10,Deep Learning
+1594,2,SQL
+1594,12,AWS
+1594,4,Power BI
+1595,3,Excel
+1595,5,Java
+1595,10,Deep Learning
+1596,3,Excel
+1596,13,Git
+1597,6,JavaScript
+1597,10,Deep Learning
+1597,13,Git
+1597,14,Data Structures
+1597,12,AWS
+1597,5,Java
+1597,8,CSS
+1598,3,Excel
+1598,1,Python
+1598,13,Git
+1598,4,Power BI
+1598,12,AWS
+1599,15,Communication
+1599,13,Git
+1599,10,Deep Learning
+1600,3,Excel
+1600,15,Communication
+1601,14,Data Structures
+1601,1,Python
+1601,6,JavaScript
+1601,2,SQL
+1601,15,Communication
+1601,3,Excel
+1601,9,Machine Learning
+1602,7,HTML
+1602,11,Tableau
+1602,8,CSS
+1603,5,Java
+1603,9,Machine Learning
+1603,13,Git
+1603,2,SQL
+1604,9,Machine Learning
+1604,7,HTML
+1604,14,Data Structures
+1605,12,AWS
+1605,8,CSS
+1605,6,JavaScript
+1606,14,Data Structures
+1606,9,Machine Learning
+1606,6,JavaScript
+1606,15,Communication
+1606,2,SQL
+1606,10,Deep Learning
+1607,3,Excel
+1607,11,Tableau
+1607,5,Java
+1608,3,Excel
+1608,14,Data Structures
+1608,7,HTML
+1608,9,Machine Learning
+1608,8,CSS
+1609,12,AWS
+1609,13,Git
+1609,5,Java
+1609,11,Tableau
+1610,9,Machine Learning
+1610,7,HTML
+1610,11,Tableau
+1610,6,JavaScript
+1611,1,Python
+1611,14,Data Structures
+1612,14,Data Structures
+1612,8,CSS
+1612,13,Git
+1612,11,Tableau
+1613,12,AWS
+1613,7,HTML
+1613,4,Power BI
+1613,10,Deep Learning
+1613,9,Machine Learning
+1613,13,Git
+1614,6,JavaScript
+1614,3,Excel
+1614,12,AWS
+1614,1,Python
+1615,8,CSS
+1615,6,JavaScript
+1616,4,Power BI
+1616,1,Python
+1616,10,Deep Learning
+1616,5,Java
+1616,6,JavaScript
+1617,15,Communication
+1617,6,JavaScript
+1618,9,Machine Learning
+1618,1,Python
+1618,10,Deep Learning
+1619,1,Python
+1619,11,Tableau
+1619,5,Java
+1619,14,Data Structures
+1620,7,HTML
+1620,1,Python
+1620,12,AWS
+1620,13,Git
+1620,5,Java
+1620,11,Tableau
+1620,14,Data Structures
+1621,14,Data Structures
+1621,12,AWS
+1621,8,CSS
+1621,10,Deep Learning
+1622,8,CSS
+1622,15,Communication
+1622,3,Excel
+1622,14,Data Structures
+1622,11,Tableau
+1623,1,Python
+1623,6,JavaScript
+1623,15,Communication
+1623,10,Deep Learning
+1624,3,Excel
+1624,12,AWS
+1624,14,Data Structures
+1624,15,Communication
+1625,2,SQL
+1625,7,HTML
+1625,15,Communication
+1625,1,Python
+1625,8,CSS
+1626,12,AWS
+1626,1,Python
+1626,6,JavaScript
+1626,2,SQL
+1627,5,Java
+1627,14,Data Structures
+1627,4,Power BI
+1627,11,Tableau
+1628,12,AWS
+1628,1,Python
+1628,6,JavaScript
+1628,11,Tableau
+1628,13,Git
+1629,3,Excel
+1629,10,Deep Learning
+1629,12,AWS
+1629,6,JavaScript
+1630,1,Python
+1630,11,Tableau
+1630,7,HTML
+1630,13,Git
+1631,11,Tableau
+1631,1,Python
+1631,2,SQL
+1631,4,Power BI
+1631,9,Machine Learning
+1632,12,AWS
+1632,5,Java
+1632,2,SQL
+1632,3,Excel
+1632,8,CSS
+1633,5,Java
+1633,10,Deep Learning
+1633,4,Power BI
+1634,3,Excel
+1634,11,Tableau
+1634,12,AWS
+1634,1,Python
+1634,5,Java
+1634,14,Data Structures
+1634,9,Machine Learning
+1635,2,SQL
+1635,6,JavaScript
+1635,8,CSS
+1636,10,Deep Learning
+1636,8,CSS
+1636,2,SQL
+1636,13,Git
+1637,3,Excel
+1637,12,AWS
+1637,2,SQL
+1638,6,JavaScript
+1638,10,Deep Learning
+1639,1,Python
+1639,13,Git
+1639,3,Excel
+1639,15,Communication
+1639,4,Power BI
+1640,8,CSS
+1640,2,SQL
+1640,12,AWS
+1640,4,Power BI
+1640,5,Java
+1640,13,Git
+1641,13,Git
+1641,12,AWS
+1641,3,Excel
+1641,5,Java
+1642,7,HTML
+1642,12,AWS
+1643,3,Excel
+1643,5,Java
+1643,15,Communication
+1643,10,Deep Learning
+1643,6,JavaScript
+1643,7,HTML
+1644,14,Data Structures
+1644,4,Power BI
+1644,5,Java
+1644,15,Communication
+1644,3,Excel
+1645,5,Java
+1645,12,AWS
+1645,8,CSS
+1646,2,SQL
+1646,8,CSS
+1646,6,JavaScript
+1646,10,Deep Learning
+1646,13,Git
+1646,11,Tableau
+1647,9,Machine Learning
+1647,8,CSS
+1647,11,Tableau
+1647,13,Git
+1648,1,Python
+1648,14,Data Structures
+1648,10,Deep Learning
+1648,7,HTML
+1648,3,Excel
+1649,10,Deep Learning
+1649,4,Power BI
+1649,12,AWS
+1649,7,HTML
+1650,11,Tableau
+1650,13,Git
+1650,15,Communication
+1651,4,Power BI
+1651,6,JavaScript
+1651,12,AWS
+1651,9,Machine Learning
+1652,14,Data Structures
+1652,12,AWS
+1652,13,Git
+1652,5,Java
+1652,2,SQL
+1653,13,Git
+1653,4,Power BI
+1653,5,Java
+1653,14,Data Structures
+1653,8,CSS
+1654,1,Python
+1654,2,SQL
+1654,9,Machine Learning
+1654,11,Tableau
+1654,12,AWS
+1654,3,Excel
+1655,3,Excel
+1655,8,CSS
+1655,10,Deep Learning
+1655,6,JavaScript
+1656,10,Deep Learning
+1656,7,HTML
+1656,11,Tableau
+1656,15,Communication
+1657,6,JavaScript
+1657,12,AWS
+1658,11,Tableau
+1658,6,JavaScript
+1658,1,Python
+1659,7,HTML
+1659,8,CSS
+1659,6,JavaScript
+1659,13,Git
+1659,11,Tableau
+1660,3,Excel
+1660,6,JavaScript
+1660,5,Java
+1660,15,Communication
+1661,9,Machine Learning
+1661,3,Excel
+1661,13,Git
+1661,1,Python
+1661,8,CSS
+1661,10,Deep Learning
+1661,11,Tableau
+1662,10,Deep Learning
+1662,12,AWS
+1662,7,HTML
+1662,14,Data Structures
+1663,8,CSS
+1663,14,Data Structures
+1663,4,Power BI
+1664,12,AWS
+1664,6,JavaScript
+1664,10,Deep Learning
+1664,14,Data Structures
+1664,8,CSS
+1664,7,HTML
+1665,1,Python
+1665,4,Power BI
+1665,13,Git
+1665,9,Machine Learning
+1666,7,HTML
+1666,15,Communication
+1666,13,Git
+1666,5,Java
+1667,7,HTML
+1667,10,Deep Learning
+1667,1,Python
+1667,3,Excel
+1668,3,Excel
+1668,5,Java
+1668,10,Deep Learning
+1668,12,AWS
+1669,10,Deep Learning
+1669,13,Git
+1669,3,Excel
+1669,14,Data Structures
+1669,11,Tableau
+1670,13,Git
+1670,1,Python
+1670,2,SQL
+1670,5,Java
+1670,3,Excel
+1670,6,JavaScript
+1671,7,HTML
+1671,3,Excel
+1671,8,CSS
+1672,11,Tableau
+1672,3,Excel
+1672,4,Power BI
+1673,5,Java
+1673,15,Communication
+1673,2,SQL
+1674,4,Power BI
+1674,14,Data Structures
+1674,15,Communication
+1675,2,SQL
+1675,12,AWS
+1675,4,Power BI
+1676,11,Tableau
+1676,9,Machine Learning
+1676,13,Git
+1676,6,JavaScript
+1676,1,Python
+1677,3,Excel
+1677,6,JavaScript
+1677,2,SQL
+1677,8,CSS
+1678,11,Tableau
+1678,7,HTML
+1678,12,AWS
+1678,4,Power BI
+1679,11,Tableau
+1679,7,HTML
+1679,8,CSS
+1680,4,Power BI
+1680,13,Git
+1680,2,SQL
+1680,7,HTML
+1681,6,JavaScript
+1681,13,Git
+1681,3,Excel
+1682,13,Git
+1682,6,JavaScript
+1682,5,Java
+1682,11,Tableau
+1683,14,Data Structures
+1683,7,HTML
+1683,10,Deep Learning
+1683,15,Communication
+1683,9,Machine Learning
+1684,6,JavaScript
+1684,8,CSS
+1684,11,Tableau
+1685,4,Power BI
+1685,10,Deep Learning
+1685,3,Excel
+1685,15,Communication
+1686,6,JavaScript
+1686,15,Communication
+1686,9,Machine Learning
+1686,1,Python
+1687,10,Deep Learning
+1687,13,Git
+1687,7,HTML
+1687,2,SQL
+1687,11,Tableau
+1688,3,Excel
+1688,8,CSS
+1689,1,Python
+1689,4,Power BI
+1690,7,HTML
+1690,2,SQL
+1690,6,JavaScript
+1690,15,Communication
+1691,3,Excel
+1691,7,HTML
+1691,15,Communication
+1691,5,Java
+1692,7,HTML
+1692,11,Tableau
+1692,8,CSS
+1693,5,Java
+1693,7,HTML
+1694,3,Excel
+1694,7,HTML
+1694,11,Tableau
+1694,9,Machine Learning
+1694,2,SQL
+1695,13,Git
+1695,2,SQL
+1695,6,JavaScript
+1695,11,Tableau
+1696,2,SQL
+1696,11,Tableau
+1696,7,HTML
+1696,1,Python
+1696,3,Excel
+1697,3,Excel
+1697,10,Deep Learning
+1697,9,Machine Learning
+1697,7,HTML
+1698,8,CSS
+1698,1,Python
+1698,15,Communication
+1698,11,Tableau
+1698,12,AWS
+1699,7,HTML
+1699,13,Git
+1699,1,Python
+1700,7,HTML
+1700,5,Java
+1700,12,AWS
+1700,11,Tableau
+1700,2,SQL
+1700,10,Deep Learning
+1701,9,Machine Learning
+1701,6,JavaScript
+1701,13,Git
+1702,12,AWS
+1702,6,JavaScript
+1702,9,Machine Learning
+1702,14,Data Structures
+1702,2,SQL
+1702,3,Excel
+1702,7,HTML
+1703,14,Data Structures
+1703,11,Tableau
+1703,2,SQL
+1703,3,Excel
+1703,1,Python
+1703,6,JavaScript
+1703,5,Java
+1704,9,Machine Learning
+1704,14,Data Structures
+1704,10,Deep Learning
+1704,12,AWS
+1704,8,CSS
+1705,1,Python
+1705,8,CSS
+1705,5,Java
+1706,2,SQL
+1706,14,Data Structures
+1706,8,CSS
+1707,6,JavaScript
+1707,1,Python
+1707,10,Deep Learning
+1708,6,JavaScript
+1708,5,Java
+1708,7,HTML
+1708,15,Communication
+1708,11,Tableau
+1709,13,Git
+1709,14,Data Structures
+1709,1,Python
+1709,9,Machine Learning
+1709,5,Java
+1709,3,Excel
+1710,6,JavaScript
+1710,7,HTML
+1710,1,Python
+1710,8,CSS
+1711,5,Java
+1711,11,Tableau
+1711,1,Python
+1711,10,Deep Learning
+1712,6,JavaScript
+1712,12,AWS
+1712,1,Python
+1713,12,AWS
+1713,7,HTML
+1713,4,Power BI
+1713,3,Excel
+1714,9,Machine Learning
+1714,2,SQL
+1714,3,Excel
+1714,12,AWS
+1715,11,Tableau
+1715,8,CSS
+1716,15,Communication
+1716,5,Java
+1716,6,JavaScript
+1716,8,CSS
+1717,10,Deep Learning
+1717,4,Power BI
+1717,12,AWS
+1717,9,Machine Learning
+1718,8,CSS
+1718,1,Python
+1718,2,SQL
+1718,6,JavaScript
+1718,12,AWS
+1719,3,Excel
+1719,10,Deep Learning
+1719,12,AWS
+1719,11,Tableau
+1720,7,HTML
+1720,9,Machine Learning
+1720,12,AWS
+1721,6,JavaScript
+1721,11,Tableau
+1721,12,AWS
+1721,5,Java
+1722,7,HTML
+1722,1,Python
+1722,3,Excel
+1722,12,AWS
+1723,12,AWS
+1723,11,Tableau
+1723,15,Communication
+1724,14,Data Structures
+1724,7,HTML
+1724,2,SQL
+1725,10,Deep Learning
+1725,5,Java
+1725,14,Data Structures
+1726,9,Machine Learning
+1726,15,Communication
+1726,13,Git
+1726,4,Power BI
+1726,1,Python
+1727,10,Deep Learning
+1727,8,CSS
+1727,4,Power BI
+1728,5,Java
+1728,12,AWS
+1728,14,Data Structures
+1728,3,Excel
+1728,15,Communication
+1728,9,Machine Learning
+1728,1,Python
+1729,7,HTML
+1729,3,Excel
+1729,11,Tableau
+1729,5,Java
+1729,12,AWS
+1730,7,HTML
+1730,4,Power BI
+1731,13,Git
+1731,7,HTML
+1732,5,Java
+1732,15,Communication
+1732,8,CSS
+1732,10,Deep Learning
+1732,11,Tableau
+1733,2,SQL
+1733,4,Power BI
+1733,14,Data Structures
+1733,1,Python
+1733,6,JavaScript
+1733,13,Git
+1734,10,Deep Learning
+1734,5,Java
+1734,12,AWS
+1734,13,Git
+1735,14,Data Structures
+1735,8,CSS
+1735,10,Deep Learning
+1735,7,HTML
+1735,11,Tableau
+1736,6,JavaScript
+1736,9,Machine Learning
+1736,7,HTML
+1736,8,CSS
+1737,6,JavaScript
+1737,15,Communication
+1737,14,Data Structures
+1737,13,Git
+1738,3,Excel
+1738,8,CSS
+1738,12,AWS
+1739,4,Power BI
+1739,9,Machine Learning
+1739,12,AWS
+1739,3,Excel
+1739,11,Tableau
+1739,7,HTML
+1739,5,Java
+1740,1,Python
+1740,11,Tableau
+1740,10,Deep Learning
+1740,2,SQL
+1741,9,Machine Learning
+1741,6,JavaScript
+1741,2,SQL
+1741,4,Power BI
+1741,15,Communication
+1741,14,Data Structures
+1741,5,Java
+1742,13,Git
+1742,6,JavaScript
+1742,8,CSS
+1742,11,Tableau
+1742,15,Communication
+1742,1,Python
+1743,10,Deep Learning
+1743,15,Communication
+1743,3,Excel
+1743,14,Data Structures
+1743,6,JavaScript
+1744,7,HTML
+1744,15,Communication
+1744,13,Git
+1744,1,Python
+1744,5,Java
+1745,4,Power BI
+1745,7,HTML
+1745,9,Machine Learning
+1745,3,Excel
+1745,14,Data Structures
+1745,10,Deep Learning
+1745,2,SQL
+1746,7,HTML
+1746,4,Power BI
+1746,14,Data Structures
+1747,10,Deep Learning
+1747,5,Java
+1748,14,Data Structures
+1748,3,Excel
+1748,13,Git
+1749,9,Machine Learning
+1749,7,HTML
+1749,6,JavaScript
+1749,4,Power BI
+1749,14,Data Structures
+1749,10,Deep Learning
+1749,5,Java
+1750,13,Git
+1750,6,JavaScript
+1750,11,Tableau
+1750,2,SQL
+1751,9,Machine Learning
+1751,15,Communication
+1751,14,Data Structures
+1751,7,HTML
+1751,4,Power BI
+1751,12,AWS
+1752,13,Git
+1752,8,CSS
+1752,5,Java
+1752,14,Data Structures
+1753,15,Communication
+1753,14,Data Structures
+1754,7,HTML
+1754,5,Java
+1755,9,Machine Learning
+1755,14,Data Structures
+1755,6,JavaScript
+1756,11,Tableau
+1756,3,Excel
+1756,15,Communication
+1756,2,SQL
+1756,7,HTML
+1756,10,Deep Learning
+1756,13,Git
+1757,7,HTML
+1757,4,Power BI
+1757,11,Tableau
+1757,1,Python
+1758,4,Power BI
+1758,3,Excel
+1758,10,Deep Learning
+1758,13,Git
+1759,2,SQL
+1759,10,Deep Learning
+1759,14,Data Structures
+1759,12,AWS
+1760,1,Python
+1760,6,JavaScript
+1760,10,Deep Learning
+1760,4,Power BI
+1761,10,Deep Learning
+1761,11,Tableau
+1761,8,CSS
+1761,14,Data Structures
+1761,2,SQL
+1762,1,Python
+1762,12,AWS
+1762,10,Deep Learning
+1762,11,Tableau
+1762,7,HTML
+1762,9,Machine Learning
+1763,14,Data Structures
+1763,3,Excel
+1763,8,CSS
+1763,6,JavaScript
+1763,4,Power BI
+1764,8,CSS
+1764,12,AWS
+1764,4,Power BI
+1765,3,Excel
+1765,5,Java
+1765,2,SQL
+1765,1,Python
+1766,10,Deep Learning
+1766,8,CSS
+1766,14,Data Structures
+1767,11,Tableau
+1767,10,Deep Learning
+1767,8,CSS
+1768,13,Git
+1768,3,Excel
+1769,9,Machine Learning
+1769,11,Tableau
+1769,2,SQL
+1770,14,Data Structures
+1770,6,JavaScript
+1770,3,Excel
+1770,4,Power BI
+1771,12,AWS
+1771,2,SQL
+1771,1,Python
+1772,11,Tableau
+1772,15,Communication
+1772,7,HTML
+1772,9,Machine Learning
+1773,14,Data Structures
+1773,7,HTML
+1773,2,SQL
+1774,5,Java
+1774,12,AWS
+1774,9,Machine Learning
+1774,2,SQL
+1775,13,Git
+1775,10,Deep Learning
+1775,11,Tableau
+1775,9,Machine Learning
+1775,1,Python
+1776,8,CSS
+1776,14,Data Structures
+1776,12,AWS
+1777,5,Java
+1777,13,Git
+1777,7,HTML
+1778,6,JavaScript
+1778,7,HTML
+1778,12,AWS
+1778,9,Machine Learning
+1779,7,HTML
+1779,13,Git
+1779,2,SQL
+1779,14,Data Structures
+1779,3,Excel
+1779,5,Java
+1779,12,AWS
+1780,6,JavaScript
+1780,7,HTML
+1780,11,Tableau
+1780,15,Communication
+1780,3,Excel
+1781,13,Git
+1781,8,CSS
+1782,5,Java
+1782,2,SQL
+1783,11,Tableau
+1783,12,AWS
+1783,2,SQL
+1783,8,CSS
+1783,14,Data Structures
+1783,4,Power BI
+1784,6,JavaScript
+1784,5,Java
+1784,12,AWS
+1785,6,JavaScript
+1785,13,Git
+1785,8,CSS
+1785,12,AWS
+1785,5,Java
+1785,10,Deep Learning
+1785,11,Tableau
+1786,13,Git
+1786,3,Excel
+1786,14,Data Structures
+1786,9,Machine Learning
+1787,1,Python
+1787,4,Power BI
+1787,6,JavaScript
+1788,6,JavaScript
+1788,12,AWS
+1788,5,Java
+1788,13,Git
+1788,3,Excel
+1789,11,Tableau
+1789,5,Java
+1789,8,CSS
+1789,12,AWS
+1789,13,Git
+1790,5,Java
+1790,3,Excel
+1790,12,AWS
+1790,13,Git
+1790,14,Data Structures
+1791,10,Deep Learning
+1791,5,Java
+1792,5,Java
+1792,11,Tableau
+1792,4,Power BI
+1793,14,Data Structures
+1793,4,Power BI
+1793,10,Deep Learning
+1793,5,Java
+1794,10,Deep Learning
+1794,1,Python
+1794,5,Java
+1795,12,AWS
+1795,9,Machine Learning
+1795,15,Communication
+1796,7,HTML
+1796,8,CSS
+1796,10,Deep Learning
+1796,3,Excel
+1796,6,JavaScript
+1797,3,Excel
+1797,10,Deep Learning
+1797,9,Machine Learning
+1797,6,JavaScript
+1798,7,HTML
+1798,14,Data Structures
+1798,8,CSS
+1798,11,Tableau
+1798,3,Excel
+1798,9,Machine Learning
+1799,3,Excel
+1799,8,CSS
+1799,7,HTML
+1800,11,Tableau
+1800,2,SQL
+1800,6,JavaScript
+1800,4,Power BI
+1801,4,Power BI
+1801,15,Communication
+1801,3,Excel
+1802,10,Deep Learning
+1802,13,Git
+1802,12,AWS
+1802,2,SQL
+1803,4,Power BI
+1803,6,JavaScript
+1803,8,CSS
+1803,13,Git
+1804,15,Communication
+1804,11,Tableau
+1804,1,Python
+1804,12,AWS
+1804,9,Machine Learning
+1805,12,AWS
+1805,4,Power BI
+1806,11,Tableau
+1806,1,Python
+1806,7,HTML
+1806,15,Communication
+1807,6,JavaScript
+1807,9,Machine Learning
+1807,2,SQL
+1807,5,Java
+1808,9,Machine Learning
+1808,14,Data Structures
+1808,12,AWS
+1808,15,Communication
+1808,2,SQL
+1809,8,CSS
+1809,10,Deep Learning
+1809,9,Machine Learning
+1810,4,Power BI
+1810,5,Java
+1811,3,Excel
+1811,12,AWS
+1811,11,Tableau
+1811,4,Power BI
+1812,12,AWS
+1812,15,Communication
+1813,3,Excel
+1813,1,Python
+1813,10,Deep Learning
+1814,9,Machine Learning
+1814,5,Java
+1814,2,SQL
+1815,4,Power BI
+1815,12,AWS
+1815,2,SQL
+1815,3,Excel
+1815,9,Machine Learning
+1816,1,Python
+1816,4,Power BI
+1816,14,Data Structures
+1817,10,Deep Learning
+1817,13,Git
+1817,15,Communication
+1817,8,CSS
+1817,12,AWS
+1818,9,Machine Learning
+1818,13,Git
+1818,1,Python
+1818,6,JavaScript
+1819,2,SQL
+1819,4,Power BI
+1819,8,CSS
+1819,15,Communication
+1820,2,SQL
+1820,8,CSS
+1820,4,Power BI
+1821,9,Machine Learning
+1821,10,Deep Learning
+1821,4,Power BI
+1822,5,Java
+1822,10,Deep Learning
+1822,1,Python
+1822,14,Data Structures
+1822,7,HTML
+1822,2,SQL
+1822,8,CSS
+1823,10,Deep Learning
+1823,13,Git
+1823,11,Tableau
+1823,15,Communication
+1823,8,CSS
+1824,5,Java
+1824,13,Git
+1824,7,HTML
+1825,5,Java
+1825,8,CSS
+1825,11,Tableau
+1825,3,Excel
+1826,9,Machine Learning
+1826,8,CSS
+1826,15,Communication
+1826,5,Java
+1827,5,Java
+1827,15,Communication
+1827,9,Machine Learning
+1827,4,Power BI
+1827,6,JavaScript
+1828,11,Tableau
+1828,9,Machine Learning
+1828,14,Data Structures
+1828,5,Java
+1828,15,Communication
+1828,8,CSS
+1829,13,Git
+1829,3,Excel
+1829,8,CSS
+1830,6,JavaScript
+1830,9,Machine Learning
+1830,8,CSS
+1830,13,Git
+1831,3,Excel
+1831,2,SQL
+1832,11,Tableau
+1832,5,Java
+1832,2,SQL
+1833,6,JavaScript
+1833,11,Tableau
+1833,14,Data Structures
+1833,9,Machine Learning
+1833,3,Excel
+1833,4,Power BI
+1833,2,SQL
+1834,4,Power BI
+1834,5,Java
+1834,9,Machine Learning
+1834,14,Data Structures
+1834,6,JavaScript
+1835,8,CSS
+1835,2,SQL
+1835,11,Tableau
+1835,5,Java
+1835,10,Deep Learning
+1836,10,Deep Learning
+1836,11,Tableau
+1836,3,Excel
+1836,6,JavaScript
+1836,13,Git
+1837,13,Git
+1837,7,HTML
+1838,14,Data Structures
+1838,3,Excel
+1839,11,Tableau
+1839,3,Excel
+1839,6,JavaScript
+1839,9,Machine Learning
+1839,8,CSS
+1840,13,Git
+1840,12,AWS
+1840,5,Java
+1840,4,Power BI
+1840,15,Communication
+1840,8,CSS
+1840,11,Tableau
+1841,3,Excel
+1841,5,Java
+1841,6,JavaScript
+1842,6,JavaScript
+1842,14,Data Structures
+1842,12,AWS
+1842,15,Communication
+1842,8,CSS
+1843,7,HTML
+1843,10,Deep Learning
+1843,15,Communication
+1843,13,Git
+1844,13,Git
+1844,7,HTML
+1844,1,Python
+1844,14,Data Structures
+1845,11,Tableau
+1845,13,Git
+1845,3,Excel
+1846,13,Git
+1846,5,Java
+1846,1,Python
+1847,4,Power BI
+1847,15,Communication
+1847,11,Tableau
+1847,12,AWS
+1848,5,Java
+1848,14,Data Structures
+1848,6,JavaScript
+1849,6,JavaScript
+1849,7,HTML
+1849,13,Git
+1850,6,JavaScript
+1850,9,Machine Learning
+1850,14,Data Structures
+1851,4,Power BI
+1851,13,Git
+1851,15,Communication
+1851,10,Deep Learning
+1852,8,CSS
+1852,14,Data Structures
+1852,5,Java
+1852,2,SQL
+1853,4,Power BI
+1853,3,Excel
+1853,6,JavaScript
+1854,8,CSS
+1854,12,AWS
+1854,10,Deep Learning
+1854,15,Communication
+1854,1,Python
+1855,7,HTML
+1855,12,AWS
+1855,14,Data Structures
+1855,8,CSS
+1856,5,Java
+1856,10,Deep Learning
+1857,7,HTML
+1857,1,Python
+1857,2,SQL
+1857,14,Data Structures
+1858,6,JavaScript
+1858,5,Java
+1858,9,Machine Learning
+1858,15,Communication
+1859,15,Communication
+1859,5,Java
+1859,2,SQL
+1859,8,CSS
+1860,15,Communication
+1860,12,AWS
+1861,6,JavaScript
+1861,13,Git
+1862,14,Data Structures
+1862,3,Excel
+1862,15,Communication
+1862,10,Deep Learning
+1862,5,Java
+1862,12,AWS
+1862,4,Power BI
+1863,2,SQL
+1863,8,CSS
+1863,4,Power BI
+1863,6,JavaScript
+1863,10,Deep Learning
+1864,13,Git
+1864,11,Tableau
+1864,5,Java
+1864,9,Machine Learning
+1865,14,Data Structures
+1865,5,Java
+1865,12,AWS
+1865,1,Python
+1865,3,Excel
+1866,14,Data Structures
+1866,13,Git
+1866,12,AWS
+1867,14,Data Structures
+1867,6,JavaScript
+1867,13,Git
+1867,8,CSS
+1867,4,Power BI
+1867,3,Excel
+1868,8,CSS
+1868,4,Power BI
+1868,15,Communication
+1868,6,JavaScript
+1868,12,AWS
+1868,14,Data Structures
+1869,12,AWS
+1869,5,Java
+1869,14,Data Structures
+1869,10,Deep Learning
+1869,1,Python
+1870,2,SQL
+1870,11,Tableau
+1871,7,HTML
+1871,15,Communication
+1871,13,Git
+1871,8,CSS
+1872,14,Data Structures
+1872,9,Machine Learning
+1872,1,Python
+1873,6,JavaScript
+1873,1,Python
+1873,10,Deep Learning
+1873,7,HTML
+1873,14,Data Structures
+1874,14,Data Structures
+1874,13,Git
+1874,6,JavaScript
+1874,9,Machine Learning
+1874,8,CSS
+1875,10,Deep Learning
+1875,6,JavaScript
+1875,11,Tableau
+1876,12,AWS
+1876,2,SQL
+1876,10,Deep Learning
+1877,9,Machine Learning
+1877,13,Git
+1877,2,SQL
+1878,13,Git
+1878,9,Machine Learning
+1878,2,SQL
+1878,10,Deep Learning
+1878,8,CSS
+1879,11,Tableau
+1879,4,Power BI
+1879,13,Git
+1879,2,SQL
+1879,15,Communication
+1880,14,Data Structures
+1880,5,Java
+1880,8,CSS
+1880,13,Git
+1880,3,Excel
+1880,6,JavaScript
+1880,2,SQL
+1881,11,Tableau
+1881,10,Deep Learning
+1882,8,CSS
+1882,9,Machine Learning
+1882,13,Git
+1882,12,AWS
+1882,7,HTML
+1882,1,Python
+1883,10,Deep Learning
+1883,5,Java
+1883,1,Python
+1884,14,Data Structures
+1884,7,HTML
+1884,1,Python
+1884,13,Git
+1885,6,JavaScript
+1885,7,HTML
+1885,3,Excel
+1886,14,Data Structures
+1886,4,Power BI
+1886,10,Deep Learning
+1887,13,Git
+1887,6,JavaScript
+1887,9,Machine Learning
+1887,8,CSS
+1887,11,Tableau
+1888,4,Power BI
+1888,13,Git
+1888,10,Deep Learning
+1888,6,JavaScript
+1888,14,Data Structures
+1889,4,Power BI
+1889,13,Git
+1889,3,Excel
+1889,15,Communication
+1889,5,Java
+1890,2,SQL
+1890,1,Python
+1890,9,Machine Learning
+1890,10,Deep Learning
+1890,14,Data Structures
+1891,9,Machine Learning
+1891,6,JavaScript
+1892,6,JavaScript
+1892,14,Data Structures
+1892,15,Communication
+1892,4,Power BI
+1893,4,Power BI
+1893,15,Communication
+1893,5,Java
+1893,3,Excel
+1894,5,Java
+1894,4,Power BI
+1894,14,Data Structures
+1894,6,JavaScript
+1894,1,Python
+1894,3,Excel
+1894,8,CSS
+1895,14,Data Structures
+1895,7,HTML
+1896,8,CSS
+1896,14,Data Structures
+1896,12,AWS
+1896,13,Git
+1897,7,HTML
+1897,1,Python
+1897,8,CSS
+1898,7,HTML
+1898,4,Power BI
+1898,14,Data Structures
+1899,10,Deep Learning
+1899,14,Data Structures
+1899,2,SQL
+1899,13,Git
+1900,9,Machine Learning
+1900,10,Deep Learning
+1901,3,Excel
+1901,13,Git
+1901,4,Power BI
+1901,2,SQL
+1902,12,AWS
+1902,10,Deep Learning
+1902,6,JavaScript
+1903,7,HTML
+1903,4,Power BI
+1903,14,Data Structures
+1903,2,SQL
+1903,9,Machine Learning
+1903,6,JavaScript
+1904,5,Java
+1904,9,Machine Learning
+1904,2,SQL
+1905,1,Python
+1905,15,Communication
+1905,7,HTML
+1905,13,Git
+1906,14,Data Structures
+1906,2,SQL
+1906,6,JavaScript
+1906,13,Git
+1907,14,Data Structures
+1907,2,SQL
+1907,7,HTML
+1907,11,Tableau
+1908,4,Power BI
+1908,12,AWS
+1908,2,SQL
+1908,11,Tableau
+1909,13,Git
+1909,7,HTML
+1909,8,CSS
+1909,1,Python
+1909,5,Java
+1910,1,Python
+1910,3,Excel
+1910,4,Power BI
+1910,14,Data Structures
+1910,10,Deep Learning
+1910,15,Communication
+1911,9,Machine Learning
+1911,3,Excel
+1911,14,Data Structures
+1911,12,AWS
+1911,8,CSS
+1912,1,Python
+1912,10,Deep Learning
+1913,14,Data Structures
+1913,12,AWS
+1913,11,Tableau
+1914,6,JavaScript
+1914,10,Deep Learning
+1914,7,HTML
+1914,3,Excel
+1914,13,Git
+1914,12,AWS
+1915,15,Communication
+1915,9,Machine Learning
+1916,12,AWS
+1916,13,Git
+1917,3,Excel
+1917,6,JavaScript
+1917,2,SQL
+1917,15,Communication
+1917,1,Python
+1918,4,Power BI
+1918,5,Java
+1918,7,HTML
+1918,11,Tableau
+1918,6,JavaScript
+1918,14,Data Structures
+1918,12,AWS
+1919,13,Git
+1919,1,Python
+1920,1,Python
+1920,8,CSS
+1920,15,Communication
+1920,12,AWS
+1921,15,Communication
+1921,7,HTML
+1921,1,Python
+1922,7,HTML
+1922,13,Git
+1922,10,Deep Learning
+1922,12,AWS
+1922,9,Machine Learning
+1923,3,Excel
+1923,2,SQL
+1923,1,Python
+1924,15,Communication
+1924,4,Power BI
+1924,2,SQL
+1925,2,SQL
+1925,15,Communication
+1925,8,CSS
+1926,7,HTML
+1926,14,Data Structures
+1926,9,Machine Learning
+1927,3,Excel
+1927,14,Data Structures
+1927,10,Deep Learning
+1927,11,Tableau
+1927,1,Python
+1927,5,Java
+1927,8,CSS
+1928,15,Communication
+1928,5,Java
+1928,3,Excel
+1928,6,JavaScript
+1929,9,Machine Learning
+1929,6,JavaScript
+1929,10,Deep Learning
+1929,11,Tableau
+1930,2,SQL
+1930,8,CSS
+1930,14,Data Structures
+1930,12,AWS
+1931,4,Power BI
+1931,3,Excel
+1931,15,Communication
+1931,9,Machine Learning
+1931,14,Data Structures
+1932,4,Power BI
+1932,11,Tableau
+1933,12,AWS
+1933,2,SQL
+1933,15,Communication
+1934,5,Java
+1934,10,Deep Learning
+1934,2,SQL
+1934,4,Power BI
+1935,5,Java
+1935,3,Excel
+1935,12,AWS
+1935,11,Tableau
+1935,15,Communication
+1936,12,AWS
+1936,8,CSS
+1936,11,Tableau
+1936,10,Deep Learning
+1936,9,Machine Learning
+1936,13,Git
+1937,15,Communication
+1937,5,Java
+1937,13,Git
+1937,3,Excel
+1938,7,HTML
+1938,6,JavaScript
+1938,11,Tableau
+1938,3,Excel
+1939,12,AWS
+1939,13,Git
+1939,7,HTML
+1939,11,Tableau
+1940,13,Git
+1940,4,Power BI
+1940,3,Excel
+1941,3,Excel
+1941,11,Tableau
+1941,1,Python
+1941,4,Power BI
+1942,7,HTML
+1942,6,JavaScript
+1943,10,Deep Learning
+1943,8,CSS
+1943,14,Data Structures
+1943,6,JavaScript
+1944,11,Tableau
+1944,14,Data Structures
+1944,10,Deep Learning
+1944,7,HTML
+1944,8,CSS
+1945,8,CSS
+1945,10,Deep Learning
+1945,5,Java
+1946,8,CSS
+1946,2,SQL
+1946,12,AWS
+1946,5,Java
+1946,11,Tableau
+1947,6,JavaScript
+1947,3,Excel
+1947,5,Java
+1947,15,Communication
+1947,8,CSS
+1947,9,Machine Learning
+1948,11,Tableau
+1948,2,SQL
+1948,15,Communication
+1948,6,JavaScript
+1949,5,Java
+1949,2,SQL
+1949,13,Git
+1949,6,JavaScript
+1949,7,HTML
+1950,9,Machine Learning
+1950,3,Excel
+1950,2,SQL
+1950,4,Power BI
+1951,14,Data Structures
+1951,2,SQL
+1951,15,Communication
+1951,9,Machine Learning
+1952,5,Java
+1952,3,Excel
+1952,6,JavaScript
+1952,15,Communication
+1953,7,HTML
+1953,9,Machine Learning
+1953,2,SQL
+1953,14,Data Structures
+1954,7,HTML
+1954,14,Data Structures
+1954,9,Machine Learning
+1955,3,Excel
+1955,14,Data Structures
+1955,11,Tableau
+1956,13,Git
+1956,1,Python
+1957,12,AWS
+1957,15,Communication
+1957,6,JavaScript
+1958,10,Deep Learning
+1958,13,Git
+1958,3,Excel
+1958,15,Communication
+1958,9,Machine Learning
+1959,1,Python
+1959,13,Git
+1959,9,Machine Learning
+1959,6,JavaScript
+1960,4,Power BI
+1960,12,AWS
+1960,9,Machine Learning
+1960,3,Excel
+1961,3,Excel
+1961,2,SQL
+1961,11,Tableau
+1962,11,Tableau
+1962,15,Communication
+1963,4,Power BI
+1963,14,Data Structures
+1963,13,Git
+1963,12,AWS
+1964,9,Machine Learning
+1964,10,Deep Learning
+1965,14,Data Structures
+1965,4,Power BI
+1965,5,Java
+1966,7,HTML
+1966,5,Java
+1966,15,Communication
+1966,9,Machine Learning
+1967,15,Communication
+1967,8,CSS
+1967,14,Data Structures
+1968,3,Excel
+1968,12,AWS
+1968,5,Java
+1968,1,Python
+1969,5,Java
+1969,12,AWS
+1969,9,Machine Learning
+1970,5,Java
+1970,4,Power BI
+1970,12,AWS
+1970,10,Deep Learning
+1971,2,SQL
+1971,1,Python
+1971,13,Git
+1971,7,HTML
+1971,3,Excel
+1972,8,CSS
+1972,14,Data Structures
+1972,3,Excel
+1972,4,Power BI
+1972,7,HTML
+1973,11,Tableau
+1973,7,HTML
+1973,14,Data Structures
+1973,10,Deep Learning
+1973,4,Power BI
+1974,14,Data Structures
+1974,6,JavaScript
+1974,2,SQL
+1974,4,Power BI
+1974,5,Java
+1975,15,Communication
+1975,7,HTML
+1976,12,AWS
+1976,15,Communication
+1976,10,Deep Learning
+1976,11,Tableau
+1977,4,Power BI
+1977,8,CSS
+1977,3,Excel
+1978,5,Java
+1978,13,Git
+1978,6,JavaScript
+1978,1,Python
+1979,2,SQL
+1979,9,Machine Learning
+1979,5,Java
+1979,14,Data Structures
+1980,13,Git
+1980,11,Tableau
+1981,8,CSS
+1981,4,Power BI
+1981,11,Tableau
+1981,15,Communication
+1982,14,Data Structures
+1982,2,SQL
+1982,9,Machine Learning
+1982,12,AWS
+1982,10,Deep Learning
+1982,8,CSS
+1983,2,SQL
+1983,13,Git
+1983,12,AWS
+1983,6,JavaScript
+1983,5,Java
+1984,7,HTML
+1984,14,Data Structures
+1985,2,SQL
+1985,11,Tableau
+1985,8,CSS
+1985,7,HTML
+1986,15,Communication
+1986,12,AWS
+1986,14,Data Structures
+1986,8,CSS
+1986,5,Java
+1987,9,Machine Learning
+1987,2,SQL
+1987,14,Data Structures
+1988,4,Power BI
+1988,14,Data Structures
+1988,11,Tableau
+1988,8,CSS
+1988,7,HTML
+1988,13,Git
+1989,11,Tableau
+1989,2,SQL
+1990,14,Data Structures
+1990,12,AWS
+1990,15,Communication
+1991,15,Communication
+1991,5,Java
+1991,11,Tableau
+1991,9,Machine Learning
+1991,6,JavaScript
+1991,7,HTML
+1992,6,JavaScript
+1992,2,SQL
+1992,1,Python
+1992,14,Data Structures
+1992,8,CSS
+1992,4,Power BI
+1993,8,CSS
+1993,4,Power BI
+1993,10,Deep Learning
+1993,7,HTML
+1994,5,Java
+1994,2,SQL
+1994,13,Git
+1994,12,AWS
+1994,8,CSS
+1995,10,Deep Learning
+1995,9,Machine Learning
+1995,11,Tableau
+1995,7,HTML
+1995,1,Python
+1995,15,Communication
+1995,2,SQL
+1996,10,Deep Learning
+1996,2,SQL
+1996,14,Data Structures
+1996,4,Power BI
+1997,10,Deep Learning
+1997,11,Tableau
+1997,12,AWS
+1997,15,Communication
+1997,7,HTML
+1997,14,Data Structures
+1998,6,JavaScript
+1998,11,Tableau
+1998,13,Git
+1998,8,CSS
+1999,10,Deep Learning
+1999,14,Data Structures
+1999,9,Machine Learning
+1999,1,Python
+2000,14,Data Structures
+2000,13,Git
+2000,11,Tableau
+2000,12,AWS

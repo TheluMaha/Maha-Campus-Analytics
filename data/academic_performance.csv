@@ -1,0 +1,5001 @@
+student_id,subject,marks
+1001,Python Programming,81
+1001,DBMS,82
+1001,Mathematics,93
+1001,Machine Learning,83
+1001,Computer Networks,87
+1002,Python Programming,59
+1002,DBMS,64
+1002,Mathematics,65
+1002,Machine Learning,60
+1002,Computer Networks,46
+1003,Python Programming,84
+1003,DBMS,74
+1003,Mathematics,75
+1003,Machine Learning,75
+1003,Computer Networks,96
+1004,Python Programming,45
+1004,DBMS,66
+1004,Mathematics,50
+1004,Machine Learning,60
+1004,Computer Networks,58
+1005,Python Programming,82
+1005,DBMS,75
+1005,Mathematics,89
+1005,Machine Learning,81
+1005,Computer Networks,71
+1006,Python Programming,70
+1006,DBMS,69
+1006,Mathematics,67
+1006,Machine Learning,63
+1006,Computer Networks,51
+1007,Python Programming,93
+1007,DBMS,100
+1007,Mathematics,92
+1007,Machine Learning,86
+1007,Computer Networks,94
+1008,Python Programming,95
+1008,DBMS,84
+1008,Mathematics,88
+1008,Machine Learning,80
+1008,Computer Networks,75
+1009,Python Programming,74
+1009,DBMS,66
+1009,Mathematics,71
+1009,Machine Learning,61
+1009,Computer Networks,59
+1010,Python Programming,56
+1010,DBMS,56
+1010,Mathematics,53
+1010,Machine Learning,62
+1010,Computer Networks,68
+1011,Python Programming,98
+1011,DBMS,89
+1011,Mathematics,88
+1011,Machine Learning,86
+1011,Computer Networks,90
+1012,Python Programming,92
+1012,DBMS,92
+1012,Mathematics,98
+1012,Machine Learning,84
+1012,Computer Networks,100
+1013,Python Programming,95
+1013,DBMS,92
+1013,Mathematics,83
+1013,Machine Learning,90
+1013,Computer Networks,100
+1014,Python Programming,77
+1014,DBMS,73
+1014,Mathematics,91
+1014,Machine Learning,76
+1014,Computer Networks,67
+1015,Python Programming,78
+1015,DBMS,87
+1015,Mathematics,76
+1015,Machine Learning,73
+1015,Computer Networks,71
+1016,Python Programming,84
+1016,DBMS,84
+1016,Mathematics,74
+1016,Machine Learning,92
+1016,Computer Networks,90
+1017,Python Programming,97
+1017,DBMS,94
+1017,Mathematics,99
+1017,Machine Learning,76
+1017,Computer Networks,96
+1018,Python Programming,79
+1018,DBMS,57
+1018,Mathematics,57
+1018,Machine Learning,79
+1018,Computer Networks,57
+1019,Python Programming,60
+1019,DBMS,60
+1019,Mathematics,58
+1019,Machine Learning,64
+1019,Computer Networks,71
+1020,Python Programming,87
+1020,DBMS,84
+1020,Mathematics,100
+1020,Machine Learning,73
+1020,Computer Networks,82
+1021,Python Programming,82
+1021,DBMS,84
+1021,Mathematics,86
+1021,Machine Learning,71
+1021,Computer Networks,80
+1022,Python Programming,71
+1022,DBMS,71
+1022,Mathematics,74
+1022,Machine Learning,74
+1022,Computer Networks,75
+1023,Python Programming,85
+1023,DBMS,100
+1023,Mathematics,96
+1023,Machine Learning,83
+1023,Computer Networks,84
+1024,Python Programming,85
+1024,DBMS,95
+1024,Mathematics,99
+1024,Machine Learning,75
+1024,Computer Networks,83
+1025,Python Programming,74
+1025,DBMS,76
+1025,Mathematics,68
+1025,Machine Learning,65
+1025,Computer Networks,66
+1026,Python Programming,58
+1026,DBMS,63
+1026,Mathematics,69
+1026,Machine Learning,59
+1026,Computer Networks,55
+1027,Python Programming,95
+1027,DBMS,85
+1027,Mathematics,100
+1027,Machine Learning,84
+1027,Computer Networks,100
+1028,Python Programming,69
+1028,DBMS,83
+1028,Mathematics,79
+1028,Machine Learning,62
+1028,Computer Networks,61
+1029,Python Programming,86
+1029,DBMS,76
+1029,Mathematics,80
+1029,Machine Learning,83
+1029,Computer Networks,79
+1030,Python Programming,77
+1030,DBMS,73
+1030,Mathematics,68
+1030,Machine Learning,70
+1030,Computer Networks,92
+1031,Python Programming,60
+1031,DBMS,66
+1031,Mathematics,61
+1031,Machine Learning,52
+1031,Computer Networks,63
+1032,Python Programming,45
+1032,DBMS,78
+1032,Mathematics,62
+1032,Machine Learning,56
+1032,Computer Networks,63
+1033,Python Programming,74
+1033,DBMS,80
+1033,Mathematics,83
+1033,Machine Learning,84
+1033,Computer Networks,68
+1034,Python Programming,71
+1034,DBMS,76
+1034,Mathematics,73
+1034,Machine Learning,78
+1034,Computer Networks,84
+1035,Python Programming,92
+1035,DBMS,88
+1035,Mathematics,87
+1035,Machine Learning,90
+1035,Computer Networks,91
+1036,Python Programming,87
+1036,DBMS,91
+1036,Mathematics,92
+1036,Machine Learning,90
+1036,Computer Networks,91
+1037,Python Programming,91
+1037,DBMS,85
+1037,Mathematics,97
+1037,Machine Learning,100
+1037,Computer Networks,79
+1038,Python Programming,66
+1038,DBMS,78
+1038,Mathematics,65
+1038,Machine Learning,76
+1038,Computer Networks,58
+1039,Python Programming,63
+1039,DBMS,40
+1039,Mathematics,57
+1039,Machine Learning,65
+1039,Computer Networks,46
+1040,Python Programming,78
+1040,DBMS,78
+1040,Mathematics,84
+1040,Machine Learning,83
+1040,Computer Networks,85
+1041,Python Programming,92
+1041,DBMS,80
+1041,Mathematics,86
+1041,Machine Learning,90
+1041,Computer Networks,84
+1042,Python Programming,44
+1042,DBMS,59
+1042,Mathematics,59
+1042,Machine Learning,58
+1042,Computer Networks,64
+1043,Python Programming,90
+1043,DBMS,81
+1043,Mathematics,91
+1043,Machine Learning,74
+1043,Computer Networks,85
+1044,Python Programming,50
+1044,DBMS,67
+1044,Mathematics,75
+1044,Machine Learning,46
+1044,Computer Networks,50
+1045,Python Programming,52
+1045,DBMS,62
+1045,Mathematics,75
+1045,Machine Learning,71
+1045,Computer Networks,73
+1046,Python Programming,52
+1046,DBMS,77
+1046,Mathematics,58
+1046,Machine Learning,55
+1046,Computer Networks,51
+1047,Python Programming,82
+1047,DBMS,100
+1047,Mathematics,94
+1047,Machine Learning,89
+1047,Computer Networks,100
+1048,Python Programming,57
+1048,DBMS,61
+1048,Mathematics,53
+1048,Machine Learning,66
+1048,Computer Networks,44
+1049,Python Programming,71
+1049,DBMS,57
+1049,Mathematics,60
+1049,Machine Learning,69
+1049,Computer Networks,68
+1050,Python Programming,79
+1050,DBMS,100
+1050,Mathematics,100
+1050,Machine Learning,90
+1050,Computer Networks,94
+1051,Python Programming,98
+1051,DBMS,86
+1051,Mathematics,95
+1051,Machine Learning,86
+1051,Computer Networks,78
+1052,Python Programming,72
+1052,DBMS,77
+1052,Mathematics,87
+1052,Machine Learning,70
+1052,Computer Networks,75
+1053,Python Programming,50
+1053,DBMS,64
+1053,Mathematics,59
+1053,Machine Learning,70
+1053,Computer Networks,50
+1054,Python Programming,65
+1054,DBMS,77
+1054,Mathematics,69
+1054,Machine Learning,72
+1054,Computer Networks,79
+1055,Python Programming,75
+1055,DBMS,78
+1055,Mathematics,71
+1055,Machine Learning,76
+1055,Computer Networks,90
+1056,Python Programming,84
+1056,DBMS,86
+1056,Mathematics,77
+1056,Machine Learning,95
+1056,Computer Networks,97
+1057,Python Programming,62
+1057,DBMS,61
+1057,Mathematics,61
+1057,Machine Learning,40
+1057,Computer Networks,65
+1058,Python Programming,63
+1058,DBMS,61
+1058,Mathematics,43
+1058,Machine Learning,48
+1058,Computer Networks,50
+1059,Python Programming,91
+1059,DBMS,86
+1059,Mathematics,74
+1059,Machine Learning,72
+1059,Computer Networks,87
+1060,Python Programming,78
+1060,DBMS,83
+1060,Mathematics,84
+1060,Machine Learning,85
+1060,Computer Networks,93
+1061,Python Programming,55
+1061,DBMS,57
+1061,Mathematics,72
+1061,Machine Learning,61
+1061,Computer Networks,61
+1062,Python Programming,57
+1062,DBMS,65
+1062,Mathematics,62
+1062,Machine Learning,63
+1062,Computer Networks,58
+1063,Python Programming,69
+1063,DBMS,70
+1063,Mathematics,81
+1063,Machine Learning,55
+1063,Computer Networks,64
+1064,Python Programming,91
+1064,DBMS,94
+1064,Mathematics,82
+1064,Machine Learning,88
+1064,Computer Networks,81
+1065,Python Programming,54
+1065,DBMS,50
+1065,Mathematics,45
+1065,Machine Learning,40
+1065,Computer Networks,63
+1066,Python Programming,69
+1066,DBMS,56
+1066,Mathematics,72
+1066,Machine Learning,61
+1066,Computer Networks,68
+1067,Python Programming,73
+1067,DBMS,62
+1067,Mathematics,69
+1067,Machine Learning,56
+1067,Computer Networks,59
+1068,Python Programming,64
+1068,DBMS,68
+1068,Mathematics,71
+1068,Machine Learning,77
+1068,Computer Networks,69
+1069,Python Programming,98
+1069,DBMS,87
+1069,Mathematics,89
+1069,Machine Learning,90
+1069,Computer Networks,94
+1070,Python Programming,65
+1070,DBMS,48
+1070,Mathematics,53
+1070,Machine Learning,55
+1070,Computer Networks,60
+1071,Python Programming,90
+1071,DBMS,96
+1071,Mathematics,82
+1071,Machine Learning,93
+1071,Computer Networks,96
+1072,Python Programming,81
+1072,DBMS,65
+1072,Mathematics,78
+1072,Machine Learning,72
+1072,Computer Networks,79
+1073,Python Programming,94
+1073,DBMS,80
+1073,Mathematics,100
+1073,Machine Learning,82
+1073,Computer Networks,86
+1074,Python Programming,71
+1074,DBMS,60
+1074,Mathematics,80
+1074,Machine Learning,73
+1074,Computer Networks,83
+1075,Python Programming,97
+1075,DBMS,86
+1075,Mathematics,88
+1075,Machine Learning,100
+1075,Computer Networks,92
+1076,Python Programming,67
+1076,DBMS,71
+1076,Mathematics,81
+1076,Machine Learning,73
+1076,Computer Networks,65
+1077,Python Programming,56
+1077,DBMS,60
+1077,Mathematics,59
+1077,Machine Learning,66
+1077,Computer Networks,57
+1078,Python Programming,94
+1078,DBMS,96
+1078,Mathematics,78
+1078,Machine Learning,100
+1078,Computer Networks,100
+1079,Python Programming,87
+1079,DBMS,93
+1079,Mathematics,86
+1079,Machine Learning,92
+1079,Computer Networks,94
+1080,Python Programming,66
+1080,DBMS,71
+1080,Mathematics,91
+1080,Machine Learning,82
+1080,Computer Networks,82
+1081,Python Programming,66
+1081,DBMS,54
+1081,Mathematics,73
+1081,Machine Learning,58
+1081,Computer Networks,72
+1082,Python Programming,87
+1082,DBMS,86
+1082,Mathematics,96
+1082,Machine Learning,100
+1082,Computer Networks,81
+1083,Python Programming,78
+1083,DBMS,81
+1083,Mathematics,89
+1083,Machine Learning,96
+1083,Computer Networks,75
+1084,Python Programming,59
+1084,DBMS,60
+1084,Mathematics,56
+1084,Machine Learning,51
+1084,Computer Networks,58
+1085,Python Programming,81
+1085,DBMS,79
+1085,Mathematics,70
+1085,Machine Learning,92
+1085,Computer Networks,81
+1086,Python Programming,64
+1086,DBMS,80
+1086,Mathematics,79
+1086,Machine Learning,72
+1086,Computer Networks,73
+1087,Python Programming,91
+1087,DBMS,88
+1087,Mathematics,100
+1087,Machine Learning,99
+1087,Computer Networks,98
+1088,Python Programming,61
+1088,DBMS,64
+1088,Mathematics,71
+1088,Machine Learning,72
+1088,Computer Networks,63
+1089,Python Programming,87
+1089,DBMS,91
+1089,Mathematics,72
+1089,Machine Learning,90
+1089,Computer Networks,78
+1090,Python Programming,74
+1090,DBMS,58
+1090,Mathematics,71
+1090,Machine Learning,80
+1090,Computer Networks,67
+1091,Python Programming,79
+1091,DBMS,62
+1091,Mathematics,78
+1091,Machine Learning,65
+1091,Computer Networks,77
+1092,Python Programming,54
+1092,DBMS,62
+1092,Mathematics,45
+1092,Machine Learning,57
+1092,Computer Networks,58
+1093,Python Programming,56
+1093,DBMS,62
+1093,Mathematics,69
+1093,Machine Learning,53
+1093,Computer Networks,53
+1094,Python Programming,91
+1094,DBMS,86
+1094,Mathematics,93
+1094,Machine Learning,94
+1094,Computer Networks,90
+1095,Python Programming,65
+1095,DBMS,64
+1095,Mathematics,63
+1095,Machine Learning,67
+1095,Computer Networks,63
+1096,Python Programming,78
+1096,DBMS,81
+1096,Mathematics,75
+1096,Machine Learning,74
+1096,Computer Networks,89
+1097,Python Programming,86
+1097,DBMS,76
+1097,Mathematics,77
+1097,Machine Learning,87
+1097,Computer Networks,79
+1098,Python Programming,85
+1098,DBMS,84
+1098,Mathematics,89
+1098,Machine Learning,73
+1098,Computer Networks,89
+1099,Python Programming,64
+1099,DBMS,73
+1099,Mathematics,52
+1099,Machine Learning,65
+1099,Computer Networks,63
+1100,Python Programming,67
+1100,DBMS,59
+1100,Mathematics,60
+1100,Machine Learning,82
+1100,Computer Networks,62
+1101,Python Programming,74
+1101,DBMS,71
+1101,Mathematics,76
+1101,Machine Learning,91
+1101,Computer Networks,71
+1102,Python Programming,86
+1102,DBMS,83
+1102,Mathematics,80
+1102,Machine Learning,72
+1102,Computer Networks,87
+1103,Python Programming,56
+1103,DBMS,48
+1103,Mathematics,45
+1103,Machine Learning,69
+1103,Computer Networks,62
+1104,Python Programming,40
+1104,DBMS,56
+1104,Mathematics,47
+1104,Machine Learning,52
+1104,Computer Networks,58
+1105,Python Programming,84
+1105,DBMS,79
+1105,Mathematics,82
+1105,Machine Learning,88
+1105,Computer Networks,81
+1106,Python Programming,73
+1106,DBMS,88
+1106,Mathematics,94
+1106,Machine Learning,100
+1106,Computer Networks,97
+1107,Python Programming,76
+1107,DBMS,79
+1107,Mathematics,80
+1107,Machine Learning,69
+1107,Computer Networks,82
+1108,Python Programming,95
+1108,DBMS,93
+1108,Mathematics,93
+1108,Machine Learning,100
+1108,Computer Networks,92
+1109,Python Programming,92
+1109,DBMS,100
+1109,Mathematics,87
+1109,Machine Learning,92
+1109,Computer Networks,86
+1110,Python Programming,72
+1110,DBMS,80
+1110,Mathematics,75
+1110,Machine Learning,87
+1110,Computer Networks,65
+1111,Python Programming,54
+1111,DBMS,74
+1111,Mathematics,79
+1111,Machine Learning,66
+1111,Computer Networks,83
+1112,Python Programming,78
+1112,DBMS,53
+1112,Mathematics,61
+1112,Machine Learning,51
+1112,Computer Networks,67
+1113,Python Programming,76
+1113,DBMS,64
+1113,Mathematics,63
+1113,Machine Learning,62
+1113,Computer Networks,77
+1114,Python Programming,91
+1114,DBMS,97
+1114,Mathematics,100
+1114,Machine Learning,93
+1114,Computer Networks,100
+1115,Python Programming,92
+1115,DBMS,93
+1115,Mathematics,78
+1115,Machine Learning,90
+1115,Computer Networks,96
+1116,Python Programming,61
+1116,DBMS,44
+1116,Mathematics,53
+1116,Machine Learning,42
+1116,Computer Networks,56
+1117,Python Programming,85
+1117,DBMS,100
+1117,Mathematics,92
+1117,Machine Learning,79
+1117,Computer Networks,92
+1118,Python Programming,52
+1118,DBMS,68
+1118,Mathematics,77
+1118,Machine Learning,56
+1118,Computer Networks,64
+1119,Python Programming,89
+1119,DBMS,81
+1119,Mathematics,95
+1119,Machine Learning,87
+1119,Computer Networks,100
+1120,Python Programming,68
+1120,DBMS,49
+1120,Mathematics,62
+1120,Machine Learning,54
+1120,Computer Networks,55
+1121,Python Programming,66
+1121,DBMS,79
+1121,Mathematics,61
+1121,Machine Learning,66
+1121,Computer Networks,69
+1122,Python Programming,58
+1122,DBMS,58
+1122,Mathematics,58
+1122,Machine Learning,47
+1122,Computer Networks,58
+1123,Python Programming,66
+1123,DBMS,60
+1123,Mathematics,67
+1123,Machine Learning,73
+1123,Computer Networks,70
+1124,Python Programming,69
+1124,DBMS,76
+1124,Mathematics,68
+1124,Machine Learning,76
+1124,Computer Networks,76
+1125,Python Programming,87
+1125,DBMS,84
+1125,Mathematics,89
+1125,Machine Learning,84
+1125,Computer Networks,71
+1126,Python Programming,100
+1126,DBMS,87
+1126,Mathematics,95
+1126,Machine Learning,94
+1126,Computer Networks,93
+1127,Python Programming,74
+1127,DBMS,69
+1127,Mathematics,66
+1127,Machine Learning,67
+1127,Computer Networks,54
+1128,Python Programming,65
+1128,DBMS,66
+1128,Mathematics,75
+1128,Machine Learning,59
+1128,Computer Networks,67
+1129,Python Programming,100
+1129,DBMS,88
+1129,Mathematics,84
+1129,Machine Learning,78
+1129,Computer Networks,92
+1130,Python Programming,80
+1130,DBMS,86
+1130,Mathematics,80
+1130,Machine Learning,80
+1130,Computer Networks,77
+1131,Python Programming,68
+1131,DBMS,66
+1131,Mathematics,55
+1131,Machine Learning,84
+1131,Computer Networks,75
+1132,Python Programming,64
+1132,DBMS,64
+1132,Mathematics,52
+1132,Machine Learning,62
+1132,Computer Networks,64
+1133,Python Programming,70
+1133,DBMS,78
+1133,Mathematics,75
+1133,Machine Learning,79
+1133,Computer Networks,66
+1134,Python Programming,52
+1134,DBMS,71
+1134,Mathematics,79
+1134,Machine Learning,84
+1134,Computer Networks,72
+1135,Python Programming,74
+1135,DBMS,77
+1135,Mathematics,82
+1135,Machine Learning,100
+1135,Computer Networks,71
+1136,Python Programming,70
+1136,DBMS,75
+1136,Mathematics,72
+1136,Machine Learning,77
+1136,Computer Networks,70
+1137,Python Programming,60
+1137,DBMS,72
+1137,Mathematics,61
+1137,Machine Learning,90
+1137,Computer Networks,72
+1138,Python Programming,60
+1138,DBMS,60
+1138,Mathematics,66
+1138,Machine Learning,59
+1138,Computer Networks,62
+1139,Python Programming,74
+1139,DBMS,82
+1139,Mathematics,70
+1139,Machine Learning,77
+1139,Computer Networks,71
+1140,Python Programming,92
+1140,DBMS,78
+1140,Mathematics,76
+1140,Machine Learning,69
+1140,Computer Networks,87
+1141,Python Programming,67
+1141,DBMS,69
+1141,Mathematics,64
+1141,Machine Learning,57
+1141,Computer Networks,58
+1142,Python Programming,72
+1142,DBMS,65
+1142,Mathematics,70
+1142,Machine Learning,70
+1142,Computer Networks,83
+1143,Python Programming,84
+1143,DBMS,69
+1143,Mathematics,80
+1143,Machine Learning,73
+1143,Computer Networks,68
+1144,Python Programming,65
+1144,DBMS,71
+1144,Mathematics,58
+1144,Machine Learning,53
+1144,Computer Networks,71
+1145,Python Programming,45
+1145,DBMS,58
+1145,Mathematics,67
+1145,Machine Learning,51
+1145,Computer Networks,51
+1146,Python Programming,73
+1146,DBMS,63
+1146,Mathematics,67
+1146,Machine Learning,79
+1146,Computer Networks,61
+1147,Python Programming,60
+1147,DBMS,67
+1147,Mathematics,56
+1147,Machine Learning,51
+1147,Computer Networks,54
+1148,Python Programming,89
+1148,DBMS,79
+1148,Mathematics,84
+1148,Machine Learning,80
+1148,Computer Networks,79
+1149,Python Programming,77
+1149,DBMS,70
+1149,Mathematics,76
+1149,Machine Learning,73
+1149,Computer Networks,73
+1150,Python Programming,87
+1150,DBMS,80
+1150,Mathematics,79
+1150,Machine Learning,74
+1150,Computer Networks,86
+1151,Python Programming,70
+1151,DBMS,70
+1151,Mathematics,74
+1151,Machine Learning,84
+1151,Computer Networks,90
+1152,Python Programming,94
+1152,DBMS,83
+1152,Mathematics,78
+1152,Machine Learning,97
+1152,Computer Networks,85
+1153,Python Programming,59
+1153,DBMS,58
+1153,Mathematics,63
+1153,Machine Learning,47
+1153,Computer Networks,70
+1154,Python Programming,44
+1154,DBMS,67
+1154,Mathematics,61
+1154,Machine Learning,44
+1154,Computer Networks,54
+1155,Python Programming,76
+1155,DBMS,71
+1155,Mathematics,76
+1155,Machine Learning,84
+1155,Computer Networks,79
+1156,Python Programming,99
+1156,DBMS,91
+1156,Mathematics,99
+1156,Machine Learning,90
+1156,Computer Networks,87
+1157,Python Programming,100
+1157,DBMS,87
+1157,Mathematics,78
+1157,Machine Learning,85
+1157,Computer Networks,91
+1158,Python Programming,83
+1158,DBMS,87
+1158,Mathematics,82
+1158,Machine Learning,90
+1158,Computer Networks,95
+1159,Python Programming,68
+1159,DBMS,56
+1159,Mathematics,54
+1159,Machine Learning,65
+1159,Computer Networks,55
+1160,Python Programming,85
+1160,DBMS,100
+1160,Mathematics,80
+1160,Machine Learning,62
+1160,Computer Networks,79
+1161,Python Programming,86
+1161,DBMS,75
+1161,Mathematics,71
+1161,Machine Learning,70
+1161,Computer Networks,79
+1162,Python Programming,63
+1162,DBMS,50
+1162,Mathematics,56
+1162,Machine Learning,45
+1162,Computer Networks,54
+1163,Python Programming,61
+1163,DBMS,73
+1163,Mathematics,66
+1163,Machine Learning,66
+1163,Computer Networks,73
+1164,Python Programming,62
+1164,DBMS,65
+1164,Mathematics,61
+1164,Machine Learning,61
+1164,Computer Networks,60
+1165,Python Programming,90
+1165,DBMS,84
+1165,Mathematics,79
+1165,Machine Learning,97
+1165,Computer Networks,98
+1166,Python Programming,67
+1166,DBMS,81
+1166,Mathematics,68
+1166,Machine Learning,63
+1166,Computer Networks,68
+1167,Python Programming,80
+1167,DBMS,77
+1167,Mathematics,76
+1167,Machine Learning,78
+1167,Computer Networks,77
+1168,Python Programming,67
+1168,DBMS,71
+1168,Mathematics,78
+1168,Machine Learning,62
+1168,Computer Networks,67
+1169,Python Programming,92
+1169,DBMS,94
+1169,Mathematics,87
+1169,Machine Learning,99
+1169,Computer Networks,74
+1170,Python Programming,76
+1170,DBMS,71
+1170,Mathematics,61
+1170,Machine Learning,84
+1170,Computer Networks,81
+1171,Python Programming,100
+1171,DBMS,90
+1171,Mathematics,77
+1171,Machine Learning,96
+1171,Computer Networks,93
+1172,Python Programming,72
+1172,DBMS,82
+1172,Mathematics,70
+1172,Machine Learning,79
+1172,Computer Networks,74
+1173,Python Programming,77
+1173,DBMS,62
+1173,Mathematics,86
+1173,Machine Learning,60
+1173,Computer Networks,68
+1174,Python Programming,75
+1174,DBMS,92
+1174,Mathematics,87
+1174,Machine Learning,79
+1174,Computer Networks,93
+1175,Python Programming,85
+1175,DBMS,100
+1175,Mathematics,97
+1175,Machine Learning,100
+1175,Computer Networks,100
+1176,Python Programming,93
+1176,DBMS,94
+1176,Mathematics,83
+1176,Machine Learning,100
+1176,Computer Networks,98
+1177,Python Programming,59
+1177,DBMS,54
+1177,Mathematics,53
+1177,Machine Learning,66
+1177,Computer Networks,58
+1178,Python Programming,82
+1178,DBMS,91
+1178,Mathematics,100
+1178,Machine Learning,80
+1178,Computer Networks,97
+1179,Python Programming,66
+1179,DBMS,57
+1179,Mathematics,68
+1179,Machine Learning,73
+1179,Computer Networks,56
+1180,Python Programming,70
+1180,DBMS,84
+1180,Mathematics,74
+1180,Machine Learning,74
+1180,Computer Networks,80
+1181,Python Programming,55
+1181,DBMS,72
+1181,Mathematics,63
+1181,Machine Learning,65
+1181,Computer Networks,60
+1182,Python Programming,94
+1182,DBMS,93
+1182,Mathematics,97
+1182,Machine Learning,83
+1182,Computer Networks,79
+1183,Python Programming,90
+1183,DBMS,93
+1183,Mathematics,93
+1183,Machine Learning,74
+1183,Computer Networks,81
+1184,Python Programming,58
+1184,DBMS,69
+1184,Mathematics,61
+1184,Machine Learning,62
+1184,Computer Networks,60
+1185,Python Programming,86
+1185,DBMS,84
+1185,Mathematics,87
+1185,Machine Learning,81
+1185,Computer Networks,84
+1186,Python Programming,87
+1186,DBMS,94
+1186,Mathematics,85
+1186,Machine Learning,83
+1186,Computer Networks,100
+1187,Python Programming,62
+1187,DBMS,73
+1187,Mathematics,58
+1187,Machine Learning,76
+1187,Computer Networks,67
+1188,Python Programming,89
+1188,DBMS,79
+1188,Mathematics,69
+1188,Machine Learning,61
+1188,Computer Networks,61
+1189,Python Programming,81
+1189,DBMS,73
+1189,Mathematics,72
+1189,Machine Learning,97
+1189,Computer Networks,79
+1190,Python Programming,80
+1190,DBMS,86
+1190,Mathematics,83
+1190,Machine Learning,79
+1190,Computer Networks,75
+1191,Python Programming,77
+1191,DBMS,100
+1191,Mathematics,100
+1191,Machine Learning,100
+1191,Computer Networks,87
+1192,Python Programming,79
+1192,DBMS,92
+1192,Mathematics,97
+1192,Machine Learning,90
+1192,Computer Networks,100
+1193,Python Programming,55
+1193,DBMS,86
+1193,Mathematics,59
+1193,Machine Learning,71
+1193,Computer Networks,79
+1194,Python Programming,75
+1194,DBMS,77
+1194,Mathematics,78
+1194,Machine Learning,87
+1194,Computer Networks,100
+1195,Python Programming,73
+1195,DBMS,80
+1195,Mathematics,100
+1195,Machine Learning,89
+1195,Computer Networks,81
+1196,Python Programming,97
+1196,DBMS,89
+1196,Mathematics,87
+1196,Machine Learning,86
+1196,Computer Networks,82
+1197,Python Programming,61
+1197,DBMS,95
+1197,Mathematics,76
+1197,Machine Learning,69
+1197,Computer Networks,75
+1198,Python Programming,60
+1198,DBMS,40
+1198,Mathematics,81
+1198,Machine Learning,77
+1198,Computer Networks,56
+1199,Python Programming,96
+1199,DBMS,89
+1199,Mathematics,87
+1199,Machine Learning,98
+1199,Computer Networks,99
+1200,Python Programming,83
+1200,DBMS,61
+1200,Mathematics,72
+1200,Machine Learning,82
+1200,Computer Networks,64
+1201,Python Programming,76
+1201,DBMS,90
+1201,Mathematics,79
+1201,Machine Learning,88
+1201,Computer Networks,78
+1202,Python Programming,81
+1202,DBMS,94
+1202,Mathematics,95
+1202,Machine Learning,75
+1202,Computer Networks,80
+1203,Python Programming,76
+1203,DBMS,79
+1203,Mathematics,68
+1203,Machine Learning,59
+1203,Computer Networks,82
+1204,Python Programming,64
+1204,DBMS,80
+1204,Mathematics,61
+1204,Machine Learning,63
+1204,Computer Networks,60
+1205,Python Programming,68
+1205,DBMS,69
+1205,Mathematics,54
+1205,Machine Learning,64
+1205,Computer Networks,73
+1206,Python Programming,100
+1206,DBMS,88
+1206,Mathematics,88
+1206,Machine Learning,78
+1206,Computer Networks,100
+1207,Python Programming,76
+1207,DBMS,67
+1207,Mathematics,69
+1207,Machine Learning,54
+1207,Computer Networks,60
+1208,Python Programming,52
+1208,DBMS,65
+1208,Mathematics,67
+1208,Machine Learning,64
+1208,Computer Networks,64
+1209,Python Programming,100
+1209,DBMS,88
+1209,Mathematics,80
+1209,Machine Learning,82
+1209,Computer Networks,84
+1210,Python Programming,89
+1210,DBMS,96
+1210,Mathematics,93
+1210,Machine Learning,93
+1210,Computer Networks,88
+1211,Python Programming,82
+1211,DBMS,69
+1211,Mathematics,74
+1211,Machine Learning,73
+1211,Computer Networks,70
+1212,Python Programming,71
+1212,DBMS,68
+1212,Mathematics,70
+1212,Machine Learning,47
+1212,Computer Networks,76
+1213,Python Programming,96
+1213,DBMS,70
+1213,Mathematics,80
+1213,Machine Learning,90
+1213,Computer Networks,80
+1214,Python Programming,87
+1214,DBMS,91
+1214,Mathematics,100
+1214,Machine Learning,72
+1214,Computer Networks,86
+1215,Python Programming,82
+1215,DBMS,74
+1215,Mathematics,95
+1215,Machine Learning,83
+1215,Computer Networks,90
+1216,Python Programming,53
+1216,DBMS,70
+1216,Mathematics,53
+1216,Machine Learning,49
+1216,Computer Networks,76
+1217,Python Programming,74
+1217,DBMS,79
+1217,Mathematics,75
+1217,Machine Learning,73
+1217,Computer Networks,87
+1218,Python Programming,79
+1218,DBMS,62
+1218,Mathematics,83
+1218,Machine Learning,83
+1218,Computer Networks,74
+1219,Python Programming,75
+1219,DBMS,92
+1219,Mathematics,100
+1219,Machine Learning,99
+1219,Computer Networks,99
+1220,Python Programming,49
+1220,DBMS,73
+1220,Mathematics,78
+1220,Machine Learning,80
+1220,Computer Networks,60
+1221,Python Programming,67
+1221,DBMS,72
+1221,Mathematics,63
+1221,Machine Learning,85
+1221,Computer Networks,61
+1222,Python Programming,69
+1222,DBMS,74
+1222,Mathematics,88
+1222,Machine Learning,93
+1222,Computer Networks,91
+1223,Python Programming,91
+1223,DBMS,96
+1223,Mathematics,94
+1223,Machine Learning,80
+1223,Computer Networks,81
+1224,Python Programming,68
+1224,DBMS,72
+1224,Mathematics,65
+1224,Machine Learning,77
+1224,Computer Networks,54
+1225,Python Programming,88
+1225,DBMS,83
+1225,Mathematics,81
+1225,Machine Learning,96
+1225,Computer Networks,85
+1226,Python Programming,92
+1226,DBMS,96
+1226,Mathematics,93
+1226,Machine Learning,94
+1226,Computer Networks,86
+1227,Python Programming,75
+1227,DBMS,71
+1227,Mathematics,61
+1227,Machine Learning,43
+1227,Computer Networks,61
+1228,Python Programming,52
+1228,DBMS,53
+1228,Mathematics,54
+1228,Machine Learning,59
+1228,Computer Networks,61
+1229,Python Programming,77
+1229,DBMS,55
+1229,Mathematics,69
+1229,Machine Learning,70
+1229,Computer Networks,67
+1230,Python Programming,82
+1230,DBMS,80
+1230,Mathematics,97
+1230,Machine Learning,91
+1230,Computer Networks,83
+1231,Python Programming,66
+1231,DBMS,74
+1231,Mathematics,60
+1231,Machine Learning,59
+1231,Computer Networks,59
+1232,Python Programming,73
+1232,DBMS,65
+1232,Mathematics,75
+1232,Machine Learning,79
+1232,Computer Networks,64
+1233,Python Programming,57
+1233,DBMS,63
+1233,Mathematics,58
+1233,Machine Learning,55
+1233,Computer Networks,52
+1234,Python Programming,99
+1234,DBMS,100
+1234,Mathematics,96
+1234,Machine Learning,93
+1234,Computer Networks,100
+1235,Python Programming,92
+1235,DBMS,85
+1235,Mathematics,91
+1235,Machine Learning,92
+1235,Computer Networks,87
+1236,Python Programming,61
+1236,DBMS,68
+1236,Mathematics,60
+1236,Machine Learning,52
+1236,Computer Networks,53
+1237,Python Programming,64
+1237,DBMS,63
+1237,Mathematics,66
+1237,Machine Learning,61
+1237,Computer Networks,58
+1238,Python Programming,70
+1238,DBMS,55
+1238,Mathematics,48
+1238,Machine Learning,40
+1238,Computer Networks,50
+1239,Python Programming,78
+1239,DBMS,71
+1239,Mathematics,92
+1239,Machine Learning,82
+1239,Computer Networks,71
+1240,Python Programming,100
+1240,DBMS,94
+1240,Mathematics,76
+1240,Machine Learning,90
+1240,Computer Networks,85
+1241,Python Programming,90
+1241,DBMS,94
+1241,Mathematics,98
+1241,Machine Learning,88
+1241,Computer Networks,89
+1242,Python Programming,70
+1242,DBMS,68
+1242,Mathematics,70
+1242,Machine Learning,48
+1242,Computer Networks,58
+1243,Python Programming,77
+1243,DBMS,80
+1243,Mathematics,79
+1243,Machine Learning,70
+1243,Computer Networks,84
+1244,Python Programming,69
+1244,DBMS,67
+1244,Mathematics,88
+1244,Machine Learning,81
+1244,Computer Networks,92
+1245,Python Programming,48
+1245,DBMS,48
+1245,Mathematics,54
+1245,Machine Learning,55
+1245,Computer Networks,60
+1246,Python Programming,52
+1246,DBMS,67
+1246,Mathematics,46
+1246,Machine Learning,62
+1246,Computer Networks,68
+1247,Python Programming,85
+1247,DBMS,88
+1247,Mathematics,70
+1247,Machine Learning,87
+1247,Computer Networks,84
+1248,Python Programming,50
+1248,DBMS,50
+1248,Mathematics,50
+1248,Machine Learning,63
+1248,Computer Networks,58
+1249,Python Programming,87
+1249,DBMS,80
+1249,Mathematics,77
+1249,Machine Learning,75
+1249,Computer Networks,85
+1250,Python Programming,87
+1250,DBMS,81
+1250,Mathematics,94
+1250,Machine Learning,85
+1250,Computer Networks,80
+1251,Python Programming,69
+1251,DBMS,80
+1251,Mathematics,54
+1251,Machine Learning,64
+1251,Computer Networks,75
+1252,Python Programming,78
+1252,DBMS,91
+1252,Mathematics,67
+1252,Machine Learning,73
+1252,Computer Networks,83
+1253,Python Programming,62
+1253,DBMS,59
+1253,Mathematics,63
+1253,Machine Learning,65
+1253,Computer Networks,69
+1254,Python Programming,67
+1254,DBMS,66
+1254,Mathematics,84
+1254,Machine Learning,83
+1254,Computer Networks,79
+1255,Python Programming,63
+1255,DBMS,72
+1255,Mathematics,69
+1255,Machine Learning,64
+1255,Computer Networks,84
+1256,Python Programming,86
+1256,DBMS,76
+1256,Mathematics,100
+1256,Machine Learning,85
+1256,Computer Networks,82
+1257,Python Programming,82
+1257,DBMS,86
+1257,Mathematics,69
+1257,Machine Learning,80
+1257,Computer Networks,69
+1258,Python Programming,92
+1258,DBMS,89
+1258,Mathematics,90
+1258,Machine Learning,100
+1258,Computer Networks,100
+1259,Python Programming,50
+1259,DBMS,70
+1259,Mathematics,54
+1259,Machine Learning,49
+1259,Computer Networks,70
+1260,Python Programming,100
+1260,DBMS,87
+1260,Mathematics,100
+1260,Machine Learning,94
+1260,Computer Networks,100
+1261,Python Programming,91
+1261,DBMS,94
+1261,Mathematics,93
+1261,Machine Learning,89
+1261,Computer Networks,95
+1262,Python Programming,82
+1262,DBMS,82
+1262,Mathematics,60
+1262,Machine Learning,81
+1262,Computer Networks,83
+1263,Python Programming,46
+1263,DBMS,64
+1263,Mathematics,60
+1263,Machine Learning,69
+1263,Computer Networks,63
+1264,Python Programming,78
+1264,DBMS,91
+1264,Mathematics,81
+1264,Machine Learning,87
+1264,Computer Networks,82
+1265,Python Programming,82
+1265,DBMS,77
+1265,Mathematics,77
+1265,Machine Learning,72
+1265,Computer Networks,74
+1266,Python Programming,71
+1266,DBMS,78
+1266,Mathematics,55
+1266,Machine Learning,60
+1266,Computer Networks,83
+1267,Python Programming,80
+1267,DBMS,77
+1267,Mathematics,69
+1267,Machine Learning,67
+1267,Computer Networks,69
+1268,Python Programming,72
+1268,DBMS,84
+1268,Mathematics,88
+1268,Machine Learning,81
+1268,Computer Networks,93
+1269,Python Programming,76
+1269,DBMS,62
+1269,Mathematics,73
+1269,Machine Learning,79
+1269,Computer Networks,89
+1270,Python Programming,82
+1270,DBMS,65
+1270,Mathematics,67
+1270,Machine Learning,59
+1270,Computer Networks,66
+1271,Python Programming,80
+1271,DBMS,100
+1271,Mathematics,86
+1271,Machine Learning,73
+1271,Computer Networks,86
+1272,Python Programming,78
+1272,DBMS,80
+1272,Mathematics,66
+1272,Machine Learning,74
+1272,Computer Networks,73
+1273,Python Programming,83
+1273,DBMS,80
+1273,Mathematics,79
+1273,Machine Learning,84
+1273,Computer Networks,72
+1274,Python Programming,95
+1274,DBMS,96
+1274,Mathematics,80
+1274,Machine Learning,84
+1274,Computer Networks,79
+1275,Python Programming,74
+1275,DBMS,84
+1275,Mathematics,82
+1275,Machine Learning,91
+1275,Computer Networks,79
+1276,Python Programming,89
+1276,DBMS,100
+1276,Mathematics,86
+1276,Machine Learning,89
+1276,Computer Networks,91
+1277,Python Programming,60
+1277,DBMS,44
+1277,Mathematics,61
+1277,Machine Learning,60
+1277,Computer Networks,47
+1278,Python Programming,74
+1278,DBMS,66
+1278,Mathematics,89
+1278,Machine Learning,96
+1278,Computer Networks,98
+1279,Python Programming,78
+1279,DBMS,86
+1279,Mathematics,85
+1279,Machine Learning,95
+1279,Computer Networks,71
+1280,Python Programming,100
+1280,DBMS,93
+1280,Mathematics,100
+1280,Machine Learning,100
+1280,Computer Networks,99
+1281,Python Programming,80
+1281,DBMS,97
+1281,Mathematics,94
+1281,Machine Learning,100
+1281,Computer Networks,87
+1282,Python Programming,90
+1282,DBMS,84
+1282,Mathematics,100
+1282,Machine Learning,100
+1282,Computer Networks,100
+1283,Python Programming,79
+1283,DBMS,75
+1283,Mathematics,62
+1283,Machine Learning,75
+1283,Computer Networks,73
+1284,Python Programming,71
+1284,DBMS,70
+1284,Mathematics,73
+1284,Machine Learning,70
+1284,Computer Networks,67
+1285,Python Programming,68
+1285,DBMS,63
+1285,Mathematics,81
+1285,Machine Learning,70
+1285,Computer Networks,64
+1286,Python Programming,100
+1286,DBMS,97
+1286,Mathematics,100
+1286,Machine Learning,91
+1286,Computer Networks,79
+1287,Python Programming,71
+1287,DBMS,66
+1287,Mathematics,63
+1287,Machine Learning,65
+1287,Computer Networks,76
+1288,Python Programming,95
+1288,DBMS,87
+1288,Mathematics,97
+1288,Machine Learning,80
+1288,Computer Networks,83
+1289,Python Programming,78
+1289,DBMS,82
+1289,Mathematics,85
+1289,Machine Learning,100
+1289,Computer Networks,96
+1290,Python Programming,94
+1290,DBMS,98
+1290,Mathematics,100
+1290,Machine Learning,92
+1290,Computer Networks,77
+1291,Python Programming,70
+1291,DBMS,58
+1291,Mathematics,63
+1291,Machine Learning,71
+1291,Computer Networks,63
+1292,Python Programming,68
+1292,DBMS,79
+1292,Mathematics,90
+1292,Machine Learning,70
+1292,Computer Networks,88
+1293,Python Programming,89
+1293,DBMS,81
+1293,Mathematics,100
+1293,Machine Learning,92
+1293,Computer Networks,100
+1294,Python Programming,52
+1294,DBMS,55
+1294,Mathematics,59
+1294,Machine Learning,49
+1294,Computer Networks,63
+1295,Python Programming,70
+1295,DBMS,66
+1295,Mathematics,85
+1295,Machine Learning,56
+1295,Computer Networks,78
+1296,Python Programming,71
+1296,DBMS,75
+1296,Mathematics,71
+1296,Machine Learning,71
+1296,Computer Networks,73
+1297,Python Programming,86
+1297,DBMS,100
+1297,Mathematics,87
+1297,Machine Learning,87
+1297,Computer Networks,89
+1298,Python Programming,97
+1298,DBMS,93
+1298,Mathematics,97
+1298,Machine Learning,98
+1298,Computer Networks,100
+1299,Python Programming,81
+1299,DBMS,71
+1299,Mathematics,71
+1299,Machine Learning,80
+1299,Computer Networks,80
+1300,Python Programming,83
+1300,DBMS,97
+1300,Mathematics,86
+1300,Machine Learning,96
+1300,Computer Networks,99
+1301,Python Programming,46
+1301,DBMS,40
+1301,Mathematics,61
+1301,Machine Learning,61
+1301,Computer Networks,63
+1302,Python Programming,66
+1302,DBMS,91
+1302,Mathematics,74
+1302,Machine Learning,91
+1302,Computer Networks,77
+1303,Python Programming,83
+1303,DBMS,93
+1303,Mathematics,94
+1303,Machine Learning,84
+1303,Computer Networks,92
+1304,Python Programming,100
+1304,DBMS,100
+1304,Mathematics,96
+1304,Machine Learning,94
+1304,Computer Networks,83
+1305,Python Programming,79
+1305,DBMS,99
+1305,Mathematics,79
+1305,Machine Learning,80
+1305,Computer Networks,90
+1306,Python Programming,100
+1306,DBMS,90
+1306,Mathematics,100
+1306,Machine Learning,100
+1306,Computer Networks,97
+1307,Python Programming,95
+1307,DBMS,87
+1307,Mathematics,100
+1307,Machine Learning,86
+1307,Computer Networks,95
+1308,Python Programming,71
+1308,DBMS,51
+1308,Mathematics,60
+1308,Machine Learning,62
+1308,Computer Networks,73
+1309,Python Programming,50
+1309,DBMS,46
+1309,Mathematics,52
+1309,Machine Learning,47
+1309,Computer Networks,47
+1310,Python Programming,65
+1310,DBMS,78
+1310,Mathematics,64
+1310,Machine Learning,79
+1310,Computer Networks,70
+1311,Python Programming,74
+1311,DBMS,59
+1311,Mathematics,61
+1311,Machine Learning,72
+1311,Computer Networks,72
+1312,Python Programming,61
+1312,DBMS,68
+1312,Mathematics,73
+1312,Machine Learning,56
+1312,Computer Networks,58
+1313,Python Programming,82
+1313,DBMS,75
+1313,Mathematics,74
+1313,Machine Learning,73
+1313,Computer Networks,71
+1314,Python Programming,89
+1314,DBMS,90
+1314,Mathematics,100
+1314,Machine Learning,100
+1314,Computer Networks,95
+1315,Python Programming,77
+1315,DBMS,77
+1315,Mathematics,76
+1315,Machine Learning,68
+1315,Computer Networks,70
+1316,Python Programming,61
+1316,DBMS,65
+1316,Mathematics,79
+1316,Machine Learning,52
+1316,Computer Networks,55
+1317,Python Programming,92
+1317,DBMS,82
+1317,Mathematics,90
+1317,Machine Learning,97
+1317,Computer Networks,94
+1318,Python Programming,52
+1318,DBMS,62
+1318,Mathematics,67
+1318,Machine Learning,80
+1318,Computer Networks,62
+1319,Python Programming,93
+1319,DBMS,80
+1319,Mathematics,89
+1319,Machine Learning,68
+1319,Computer Networks,82
+1320,Python Programming,66
+1320,DBMS,65
+1320,Mathematics,82
+1320,Machine Learning,73
+1320,Computer Networks,69
+1321,Python Programming,84
+1321,DBMS,90
+1321,Mathematics,100
+1321,Machine Learning,100
+1321,Computer Networks,99
+1322,Python Programming,62
+1322,DBMS,56
+1322,Mathematics,67
+1322,Machine Learning,45
+1322,Computer Networks,68
+1323,Python Programming,84
+1323,DBMS,76
+1323,Mathematics,76
+1323,Machine Learning,72
+1323,Computer Networks,78
+1324,Python Programming,100
+1324,DBMS,91
+1324,Mathematics,99
+1324,Machine Learning,99
+1324,Computer Networks,89
+1325,Python Programming,51
+1325,DBMS,64
+1325,Mathematics,58
+1325,Machine Learning,54
+1325,Computer Networks,47
+1326,Python Programming,89
+1326,DBMS,96
+1326,Mathematics,81
+1326,Machine Learning,87
+1326,Computer Networks,85
+1327,Python Programming,79
+1327,DBMS,95
+1327,Mathematics,80
+1327,Machine Learning,91
+1327,Computer Networks,69
+1328,Python Programming,85
+1328,DBMS,83
+1328,Mathematics,94
+1328,Machine Learning,83
+1328,Computer Networks,72
+1329,Python Programming,73
+1329,DBMS,61
+1329,Mathematics,83
+1329,Machine Learning,85
+1329,Computer Networks,87
+1330,Python Programming,93
+1330,DBMS,85
+1330,Mathematics,98
+1330,Machine Learning,90
+1330,Computer Networks,86
+1331,Python Programming,87
+1331,DBMS,82
+1331,Mathematics,99
+1331,Machine Learning,91
+1331,Computer Networks,98
+1332,Python Programming,90
+1332,DBMS,90
+1332,Mathematics,83
+1332,Machine Learning,83
+1332,Computer Networks,84
+1333,Python Programming,72
+1333,DBMS,68
+1333,Mathematics,62
+1333,Machine Learning,64
+1333,Computer Networks,70
+1334,Python Programming,52
+1334,DBMS,65
+1334,Mathematics,58
+1334,Machine Learning,67
+1334,Computer Networks,66
+1335,Python Programming,74
+1335,DBMS,89
+1335,Mathematics,85
+1335,Machine Learning,81
+1335,Computer Networks,91
+1336,Python Programming,65
+1336,DBMS,61
+1336,Mathematics,54
+1336,Machine Learning,66
+1336,Computer Networks,59
+1337,Python Programming,88
+1337,DBMS,80
+1337,Mathematics,94
+1337,Machine Learning,90
+1337,Computer Networks,93
+1338,Python Programming,74
+1338,DBMS,77
+1338,Mathematics,70
+1338,Machine Learning,95
+1338,Computer Networks,84
+1339,Python Programming,89
+1339,DBMS,95
+1339,Mathematics,85
+1339,Machine Learning,84
+1339,Computer Networks,79
+1340,Python Programming,94
+1340,DBMS,93
+1340,Mathematics,94
+1340,Machine Learning,90
+1340,Computer Networks,98
+1341,Python Programming,61
+1341,DBMS,59
+1341,Mathematics,56
+1341,Machine Learning,45
+1341,Computer Networks,68
+1342,Python Programming,67
+1342,DBMS,66
+1342,Mathematics,66
+1342,Machine Learning,74
+1342,Computer Networks,68
+1343,Python Programming,74
+1343,DBMS,76
+1343,Mathematics,70
+1343,Machine Learning,71
+1343,Computer Networks,67
+1344,Python Programming,77
+1344,DBMS,82
+1344,Mathematics,91
+1344,Machine Learning,88
+1344,Computer Networks,75
+1345,Python Programming,89
+1345,DBMS,86
+1345,Mathematics,74
+1345,Machine Learning,92
+1345,Computer Networks,84
+1346,Python Programming,77
+1346,DBMS,57
+1346,Mathematics,76
+1346,Machine Learning,78
+1346,Computer Networks,87
+1347,Python Programming,100
+1347,DBMS,100
+1347,Mathematics,89
+1347,Machine Learning,88
+1347,Computer Networks,98
+1348,Python Programming,76
+1348,DBMS,89
+1348,Mathematics,70
+1348,Machine Learning,80
+1348,Computer Networks,87
+1349,Python Programming,63
+1349,DBMS,75
+1349,Mathematics,79
+1349,Machine Learning,77
+1349,Computer Networks,79
+1350,Python Programming,59
+1350,DBMS,53
+1350,Mathematics,48
+1350,Machine Learning,63
+1350,Computer Networks,51
+1351,Python Programming,98
+1351,DBMS,99
+1351,Mathematics,100
+1351,Machine Learning,100
+1351,Computer Networks,98
+1352,Python Programming,73
+1352,DBMS,68
+1352,Mathematics,54
+1352,Machine Learning,44
+1352,Computer Networks,65
+1353,Python Programming,79
+1353,DBMS,52
+1353,Mathematics,78
+1353,Machine Learning,72
+1353,Computer Networks,65
+1354,Python Programming,91
+1354,DBMS,75
+1354,Mathematics,83
+1354,Machine Learning,74
+1354,Computer Networks,72
+1355,Python Programming,98
+1355,DBMS,77
+1355,Mathematics,70
+1355,Machine Learning,80
+1355,Computer Networks,83
+1356,Python Programming,98
+1356,DBMS,94
+1356,Mathematics,86
+1356,Machine Learning,100
+1356,Computer Networks,97
+1357,Python Programming,80
+1357,DBMS,80
+1357,Mathematics,83
+1357,Machine Learning,83
+1357,Computer Networks,73
+1358,Python Programming,61
+1358,DBMS,75
+1358,Mathematics,70
+1358,Machine Learning,62
+1358,Computer Networks,64
+1359,Python Programming,72
+1359,DBMS,65
+1359,Mathematics,67
+1359,Machine Learning,66
+1359,Computer Networks,57
+1360,Python Programming,55
+1360,DBMS,59
+1360,Mathematics,64
+1360,Machine Learning,64
+1360,Computer Networks,46
+1361,Python Programming,93
+1361,DBMS,98
+1361,Mathematics,92
+1361,Machine Learning,87
+1361,Computer Networks,87
+1362,Python Programming,100
+1362,DBMS,84
+1362,Mathematics,85
+1362,Machine Learning,84
+1362,Computer Networks,86
+1363,Python Programming,55
+1363,DBMS,70
+1363,Mathematics,60
+1363,Machine Learning,63
+1363,Computer Networks,60
+1364,Python Programming,100
+1364,DBMS,93
+1364,Mathematics,95
+1364,Machine Learning,100
+1364,Computer Networks,86
+1365,Python Programming,54
+1365,DBMS,61
+1365,Mathematics,60
+1365,Machine Learning,55
+1365,Computer Networks,76
+1366,Python Programming,81
+1366,DBMS,77
+1366,Mathematics,69
+1366,Machine Learning,77
+1366,Computer Networks,92
+1367,Python Programming,90
+1367,DBMS,79
+1367,Mathematics,91
+1367,Machine Learning,91
+1367,Computer Networks,87
+1368,Python Programming,75
+1368,DBMS,67
+1368,Mathematics,71
+1368,Machine Learning,63
+1368,Computer Networks,56
+1369,Python Programming,75
+1369,DBMS,67
+1369,Mathematics,90
+1369,Machine Learning,86
+1369,Computer Networks,75
+1370,Python Programming,91
+1370,DBMS,78
+1370,Mathematics,81
+1370,Machine Learning,100
+1370,Computer Networks,81
+1371,Python Programming,43
+1371,DBMS,44
+1371,Mathematics,65
+1371,Machine Learning,54
+1371,Computer Networks,44
+1372,Python Programming,58
+1372,DBMS,56
+1372,Mathematics,58
+1372,Machine Learning,59
+1372,Computer Networks,58
+1373,Python Programming,70
+1373,DBMS,45
+1373,Mathematics,55
+1373,Machine Learning,60
+1373,Computer Networks,62
+1374,Python Programming,85
+1374,DBMS,83
+1374,Mathematics,91
+1374,Machine Learning,87
+1374,Computer Networks,98
+1375,Python Programming,95
+1375,DBMS,82
+1375,Mathematics,90
+1375,Machine Learning,90
+1375,Computer Networks,83
+1376,Python Programming,73
+1376,DBMS,83
+1376,Mathematics,76
+1376,Machine Learning,79
+1376,Computer Networks,76
+1377,Python Programming,76
+1377,DBMS,89
+1377,Mathematics,74
+1377,Machine Learning,92
+1377,Computer Networks,90
+1378,Python Programming,71
+1378,DBMS,79
+1378,Mathematics,78
+1378,Machine Learning,75
+1378,Computer Networks,82
+1379,Python Programming,100
+1379,DBMS,100
+1379,Mathematics,100
+1379,Machine Learning,100
+1379,Computer Networks,100
+1380,Python Programming,87
+1380,DBMS,86
+1380,Mathematics,95
+1380,Machine Learning,87
+1380,Computer Networks,91
+1381,Python Programming,53
+1381,DBMS,59
+1381,Mathematics,54
+1381,Machine Learning,63
+1381,Computer Networks,57
+1382,Python Programming,82
+1382,DBMS,75
+1382,Mathematics,78
+1382,Machine Learning,88
+1382,Computer Networks,86
+1383,Python Programming,55
+1383,DBMS,73
+1383,Mathematics,68
+1383,Machine Learning,73
+1383,Computer Networks,74
+1384,Python Programming,83
+1384,DBMS,88
+1384,Mathematics,66
+1384,Machine Learning,62
+1384,Computer Networks,66
+1385,Python Programming,75
+1385,DBMS,82
+1385,Mathematics,58
+1385,Machine Learning,72
+1385,Computer Networks,76
+1386,Python Programming,68
+1386,DBMS,57
+1386,Mathematics,59
+1386,Machine Learning,44
+1386,Computer Networks,66
+1387,Python Programming,73
+1387,DBMS,82
+1387,Mathematics,76
+1387,Machine Learning,91
+1387,Computer Networks,90
+1388,Python Programming,63
+1388,DBMS,76
+1388,Mathematics,64
+1388,Machine Learning,93
+1388,Computer Networks,76
+1389,Python Programming,71
+1389,DBMS,63
+1389,Mathematics,65
+1389,Machine Learning,76
+1389,Computer Networks,77
+1390,Python Programming,61
+1390,DBMS,81
+1390,Mathematics,78
+1390,Machine Learning,84
+1390,Computer Networks,80
+1391,Python Programming,93
+1391,DBMS,88
+1391,Mathematics,97
+1391,Machine Learning,100
+1391,Computer Networks,98
+1392,Python Programming,88
+1392,DBMS,70
+1392,Mathematics,60
+1392,Machine Learning,63
+1392,Computer Networks,66
+1393,Python Programming,64
+1393,DBMS,69
+1393,Mathematics,82
+1393,Machine Learning,72
+1393,Computer Networks,81
+1394,Python Programming,88
+1394,DBMS,85
+1394,Mathematics,93
+1394,Machine Learning,70
+1394,Computer Networks,69
+1395,Python Programming,95
+1395,DBMS,83
+1395,Mathematics,74
+1395,Machine Learning,91
+1395,Computer Networks,77
+1396,Python Programming,91
+1396,DBMS,92
+1396,Mathematics,80
+1396,Machine Learning,84
+1396,Computer Networks,85
+1397,Python Programming,99
+1397,DBMS,100
+1397,Mathematics,91
+1397,Machine Learning,91
+1397,Computer Networks,100
+1398,Python Programming,66
+1398,DBMS,76
+1398,Mathematics,66
+1398,Machine Learning,77
+1398,Computer Networks,72
+1399,Python Programming,59
+1399,DBMS,62
+1399,Mathematics,53
+1399,Machine Learning,70
+1399,Computer Networks,58
+1400,Python Programming,81
+1400,DBMS,92
+1400,Mathematics,87
+1400,Machine Learning,86
+1400,Computer Networks,99
+1401,Python Programming,52
+1401,DBMS,49
+1401,Mathematics,60
+1401,Machine Learning,43
+1401,Computer Networks,55
+1402,Python Programming,76
+1402,DBMS,90
+1402,Mathematics,82
+1402,Machine Learning,97
+1402,Computer Networks,84
+1403,Python Programming,78
+1403,DBMS,82
+1403,Mathematics,75
+1403,Machine Learning,87
+1403,Computer Networks,66
+1404,Python Programming,62
+1404,DBMS,53
+1404,Mathematics,64
+1404,Machine Learning,70
+1404,Computer Networks,47
+1405,Python Programming,62
+1405,DBMS,72
+1405,Mathematics,64
+1405,Machine Learning,59
+1405,Computer Networks,86
+1406,Python Programming,77
+1406,DBMS,85
+1406,Mathematics,94
+1406,Machine Learning,86
+1406,Computer Networks,83
+1407,Python Programming,69
+1407,DBMS,79
+1407,Mathematics,65
+1407,Machine Learning,63
+1407,Computer Networks,64
+1408,Python Programming,90
+1408,DBMS,90
+1408,Mathematics,91
+1408,Machine Learning,88
+1408,Computer Networks,86
+1409,Python Programming,62
+1409,DBMS,79
+1409,Mathematics,81
+1409,Machine Learning,69
+1409,Computer Networks,61
+1410,Python Programming,77
+1410,DBMS,76
+1410,Mathematics,71
+1410,Machine Learning,85
+1410,Computer Networks,72
+1411,Python Programming,97
+1411,DBMS,84
+1411,Mathematics,87
+1411,Machine Learning,100
+1411,Computer Networks,85
+1412,Python Programming,75
+1412,DBMS,75
+1412,Mathematics,88
+1412,Machine Learning,77
+1412,Computer Networks,85
+1413,Python Programming,56
+1413,DBMS,69
+1413,Mathematics,72
+1413,Machine Learning,62
+1413,Computer Networks,68
+1414,Python Programming,75
+1414,DBMS,76
+1414,Mathematics,85
+1414,Machine Learning,83
+1414,Computer Networks,77
+1415,Python Programming,60
+1415,DBMS,83
+1415,Mathematics,60
+1415,Machine Learning,61
+1415,Computer Networks,59
+1416,Python Programming,68
+1416,DBMS,75
+1416,Mathematics,80
+1416,Machine Learning,81
+1416,Computer Networks,61
+1417,Python Programming,86
+1417,DBMS,87
+1417,Mathematics,94
+1417,Machine Learning,83
+1417,Computer Networks,77
+1418,Python Programming,80
+1418,DBMS,81
+1418,Mathematics,89
+1418,Machine Learning,66
+1418,Computer Networks,58
+1419,Python Programming,69
+1419,DBMS,71
+1419,Mathematics,74
+1419,Machine Learning,62
+1419,Computer Networks,65
+1420,Python Programming,56
+1420,DBMS,67
+1420,Mathematics,49
+1420,Machine Learning,72
+1420,Computer Networks,49
+1421,Python Programming,99
+1421,DBMS,100
+1421,Mathematics,78
+1421,Machine Learning,85
+1421,Computer Networks,83
+1422,Python Programming,63
+1422,DBMS,85
+1422,Mathematics,56
+1422,Machine Learning,69
+1422,Computer Networks,43
+1423,Python Programming,79
+1423,DBMS,74
+1423,Mathematics,84
+1423,Machine Learning,69
+1423,Computer Networks,85
+1424,Python Programming,74
+1424,DBMS,69
+1424,Mathematics,71
+1424,Machine Learning,69
+1424,Computer Networks,67
+1425,Python Programming,69
+1425,DBMS,59
+1425,Mathematics,59
+1425,Machine Learning,65
+1425,Computer Networks,53
+1426,Python Programming,65
+1426,DBMS,59
+1426,Mathematics,65
+1426,Machine Learning,58
+1426,Computer Networks,42
+1427,Python Programming,80
+1427,DBMS,82
+1427,Mathematics,86
+1427,Machine Learning,70
+1427,Computer Networks,100
+1428,Python Programming,79
+1428,DBMS,78
+1428,Mathematics,91
+1428,Machine Learning,77
+1428,Computer Networks,79
+1429,Python Programming,71
+1429,DBMS,64
+1429,Mathematics,49
+1429,Machine Learning,67
+1429,Computer Networks,52
+1430,Python Programming,65
+1430,DBMS,69
+1430,Mathematics,62
+1430,Machine Learning,59
+1430,Computer Networks,70
+1431,Python Programming,85
+1431,DBMS,88
+1431,Mathematics,100
+1431,Machine Learning,82
+1431,Computer Networks,83
+1432,Python Programming,78
+1432,DBMS,80
+1432,Mathematics,84
+1432,Machine Learning,84
+1432,Computer Networks,66
+1433,Python Programming,60
+1433,DBMS,81
+1433,Mathematics,70
+1433,Machine Learning,71
+1433,Computer Networks,65
+1434,Python Programming,94
+1434,DBMS,64
+1434,Mathematics,70
+1434,Machine Learning,81
+1434,Computer Networks,67
+1435,Python Programming,63
+1435,DBMS,65
+1435,Mathematics,60
+1435,Machine Learning,59
+1435,Computer Networks,68
+1436,Python Programming,84
+1436,DBMS,60
+1436,Mathematics,69
+1436,Machine Learning,81
+1436,Computer Networks,91
+1437,Python Programming,91
+1437,DBMS,100
+1437,Mathematics,96
+1437,Machine Learning,87
+1437,Computer Networks,85
+1438,Python Programming,81
+1438,DBMS,85
+1438,Mathematics,80
+1438,Machine Learning,87
+1438,Computer Networks,81
+1439,Python Programming,55
+1439,DBMS,70
+1439,Mathematics,56
+1439,Machine Learning,56
+1439,Computer Networks,56
+1440,Python Programming,56
+1440,DBMS,69
+1440,Mathematics,78
+1440,Machine Learning,61
+1440,Computer Networks,60
+1441,Python Programming,63
+1441,DBMS,53
+1441,Mathematics,73
+1441,Machine Learning,60
+1441,Computer Networks,56
+1442,Python Programming,94
+1442,DBMS,81
+1442,Mathematics,89
+1442,Machine Learning,78
+1442,Computer Networks,67
+1443,Python Programming,87
+1443,DBMS,77
+1443,Mathematics,84
+1443,Machine Learning,82
+1443,Computer Networks,83
+1444,Python Programming,100
+1444,DBMS,97
+1444,Mathematics,99
+1444,Machine Learning,89
+1444,Computer Networks,85
+1445,Python Programming,81
+1445,DBMS,76
+1445,Mathematics,60
+1445,Machine Learning,58
+1445,Computer Networks,80
+1446,Python Programming,84
+1446,DBMS,80
+1446,Mathematics,79
+1446,Machine Learning,85
+1446,Computer Networks,92
+1447,Python Programming,71
+1447,DBMS,59
+1447,Mathematics,73
+1447,Machine Learning,76
+1447,Computer Networks,63
+1448,Python Programming,89
+1448,DBMS,76
+1448,Mathematics,68
+1448,Machine Learning,72
+1448,Computer Networks,67
+1449,Python Programming,63
+1449,DBMS,69
+1449,Mathematics,73
+1449,Machine Learning,74
+1449,Computer Networks,68
+1450,Python Programming,96
+1450,DBMS,67
+1450,Mathematics,92
+1450,Machine Learning,85
+1450,Computer Networks,87
+1451,Python Programming,59
+1451,DBMS,74
+1451,Mathematics,77
+1451,Machine Learning,65
+1451,Computer Networks,67
+1452,Python Programming,55
+1452,DBMS,81
+1452,Mathematics,63
+1452,Machine Learning,70
+1452,Computer Networks,60
+1453,Python Programming,53
+1453,DBMS,77
+1453,Mathematics,71
+1453,Machine Learning,71
+1453,Computer Networks,76
+1454,Python Programming,97
+1454,DBMS,94
+1454,Mathematics,92
+1454,Machine Learning,74
+1454,Computer Networks,100
+1455,Python Programming,68
+1455,DBMS,86
+1455,Mathematics,93
+1455,Machine Learning,95
+1455,Computer Networks,89
+1456,Python Programming,72
+1456,DBMS,85
+1456,Mathematics,85
+1456,Machine Learning,74
+1456,Computer Networks,70
+1457,Python Programming,71
+1457,DBMS,87
+1457,Mathematics,53
+1457,Machine Learning,71
+1457,Computer Networks,66
+1458,Python Programming,78
+1458,DBMS,69
+1458,Mathematics,78
+1458,Machine Learning,78
+1458,Computer Networks,79
+1459,Python Programming,64
+1459,DBMS,61
+1459,Mathematics,53
+1459,Machine Learning,73
+1459,Computer Networks,77
+1460,Python Programming,74
+1460,DBMS,76
+1460,Mathematics,72
+1460,Machine Learning,80
+1460,Computer Networks,80
+1461,Python Programming,84
+1461,DBMS,86
+1461,Mathematics,87
+1461,Machine Learning,87
+1461,Computer Networks,96
+1462,Python Programming,79
+1462,DBMS,67
+1462,Mathematics,79
+1462,Machine Learning,59
+1462,Computer Networks,81
+1463,Python Programming,69
+1463,DBMS,56
+1463,Mathematics,64
+1463,Machine Learning,67
+1463,Computer Networks,72
+1464,Python Programming,56
+1464,DBMS,56
+1464,Mathematics,67
+1464,Machine Learning,74
+1464,Computer Networks,68
+1465,Python Programming,94
+1465,DBMS,93
+1465,Mathematics,91
+1465,Machine Learning,76
+1465,Computer Networks,100
+1466,Python Programming,53
+1466,DBMS,48
+1466,Mathematics,62
+1466,Machine Learning,65
+1466,Computer Networks,71
+1467,Python Programming,90
+1467,DBMS,88
+1467,Mathematics,87
+1467,Machine Learning,78
+1467,Computer Networks,70
+1468,Python Programming,83
+1468,DBMS,84
+1468,Mathematics,76
+1468,Machine Learning,74
+1468,Computer Networks,85
+1469,Python Programming,75
+1469,DBMS,82
+1469,Mathematics,79
+1469,Machine Learning,95
+1469,Computer Networks,90
+1470,Python Programming,60
+1470,DBMS,49
+1470,Mathematics,61
+1470,Machine Learning,54
+1470,Computer Networks,43
+1471,Python Programming,99
+1471,DBMS,91
+1471,Mathematics,76
+1471,Machine Learning,100
+1471,Computer Networks,81
+1472,Python Programming,70
+1472,DBMS,74
+1472,Mathematics,54
+1472,Machine Learning,70
+1472,Computer Networks,60
+1473,Python Programming,70
+1473,DBMS,59
+1473,Mathematics,54
+1473,Machine Learning,51
+1473,Computer Networks,46
+1474,Python Programming,81
+1474,DBMS,89
+1474,Mathematics,88
+1474,Machine Learning,76
+1474,Computer Networks,62
+1475,Python Programming,79
+1475,DBMS,63
+1475,Mathematics,84
+1475,Machine Learning,87
+1475,Computer Networks,82
+1476,Python Programming,67
+1476,DBMS,67
+1476,Mathematics,56
+1476,Machine Learning,63
+1476,Computer Networks,71
+1477,Python Programming,72
+1477,DBMS,86
+1477,Mathematics,87
+1477,Machine Learning,75
+1477,Computer Networks,86
+1478,Python Programming,56
+1478,DBMS,77
+1478,Mathematics,68
+1478,Machine Learning,60
+1478,Computer Networks,53
+1479,Python Programming,90
+1479,DBMS,80
+1479,Mathematics,86
+1479,Machine Learning,88
+1479,Computer Networks,87
+1480,Python Programming,84
+1480,DBMS,80
+1480,Mathematics,96
+1480,Machine Learning,90
+1480,Computer Networks,80
+1481,Python Programming,98
+1481,DBMS,85
+1481,Mathematics,98
+1481,Machine Learning,94
+1481,Computer Networks,88
+1482,Python Programming,79
+1482,DBMS,80
+1482,Mathematics,94
+1482,Machine Learning,84
+1482,Computer Networks,72
+1483,Python Programming,65
+1483,DBMS,73
+1483,Mathematics,68
+1483,Machine Learning,76
+1483,Computer Networks,65
+1484,Python Programming,76
+1484,DBMS,62
+1484,Mathematics,72
+1484,Machine Learning,75
+1484,Computer Networks,76
+1485,Python Programming,92
+1485,DBMS,65
+1485,Mathematics,93
+1485,Machine Learning,87
+1485,Computer Networks,75
+1486,Python Programming,97
+1486,DBMS,90
+1486,Mathematics,93
+1486,Machine Learning,97
+1486,Computer Networks,100
+1487,Python Programming,95
+1487,DBMS,76
+1487,Mathematics,96
+1487,Machine Learning,99
+1487,Computer Networks,89
+1488,Python Programming,92
+1488,DBMS,86
+1488,Mathematics,75
+1488,Machine Learning,75
+1488,Computer Networks,86
+1489,Python Programming,58
+1489,DBMS,65
+1489,Mathematics,62
+1489,Machine Learning,65
+1489,Computer Networks,73
+1490,Python Programming,76
+1490,DBMS,67
+1490,Mathematics,70
+1490,Machine Learning,68
+1490,Computer Networks,62
+1491,Python Programming,90
+1491,DBMS,93
+1491,Mathematics,87
+1491,Machine Learning,88
+1491,Computer Networks,80
+1492,Python Programming,100
+1492,DBMS,78
+1492,Mathematics,83
+1492,Machine Learning,84
+1492,Computer Networks,84
+1493,Python Programming,50
+1493,DBMS,83
+1493,Mathematics,70
+1493,Machine Learning,74
+1493,Computer Networks,73
+1494,Python Programming,70
+1494,DBMS,63
+1494,Mathematics,68
+1494,Machine Learning,58
+1494,Computer Networks,50
+1495,Python Programming,68
+1495,DBMS,67
+1495,Mathematics,62
+1495,Machine Learning,64
+1495,Computer Networks,60
+1496,Python Programming,84
+1496,DBMS,82
+1496,Mathematics,90
+1496,Machine Learning,100
+1496,Computer Networks,92
+1497,Python Programming,67
+1497,DBMS,61
+1497,Mathematics,54
+1497,Machine Learning,57
+1497,Computer Networks,68
+1498,Python Programming,90
+1498,DBMS,82
+1498,Mathematics,79
+1498,Machine Learning,70
+1498,Computer Networks,85
+1499,Python Programming,71
+1499,DBMS,70
+1499,Mathematics,67
+1499,Machine Learning,94
+1499,Computer Networks,77
+1500,Python Programming,66
+1500,DBMS,58
+1500,Mathematics,55
+1500,Machine Learning,59
+1500,Computer Networks,51
+1501,Python Programming,77
+1501,DBMS,85
+1501,Mathematics,65
+1501,Machine Learning,72
+1501,Computer Networks,64
+1502,Python Programming,45
+1502,DBMS,57
+1502,Mathematics,49
+1502,Machine Learning,54
+1502,Computer Networks,56
+1503,Python Programming,58
+1503,DBMS,63
+1503,Mathematics,61
+1503,Machine Learning,71
+1503,Computer Networks,81
+1504,Python Programming,80
+1504,DBMS,66
+1504,Mathematics,72
+1504,Machine Learning,69
+1504,Computer Networks,67
+1505,Python Programming,52
+1505,DBMS,60
+1505,Mathematics,45
+1505,Machine Learning,56
+1505,Computer Networks,41
+1506,Python Programming,77
+1506,DBMS,75
+1506,Mathematics,75
+1506,Machine Learning,85
+1506,Computer Networks,90
+1507,Python Programming,77
+1507,DBMS,73
+1507,Mathematics,91
+1507,Machine Learning,83
+1507,Computer Networks,76
+1508,Python Programming,44
+1508,DBMS,65
+1508,Mathematics,41
+1508,Machine Learning,66
+1508,Computer Networks,49
+1509,Python Programming,84
+1509,DBMS,81
+1509,Mathematics,73
+1509,Machine Learning,80
+1509,Computer Networks,79
+1510,Python Programming,63
+1510,DBMS,82
+1510,Mathematics,70
+1510,Machine Learning,88
+1510,Computer Networks,63
+1511,Python Programming,85
+1511,DBMS,84
+1511,Mathematics,95
+1511,Machine Learning,100
+1511,Computer Networks,100
+1512,Python Programming,82
+1512,DBMS,72
+1512,Mathematics,77
+1512,Machine Learning,72
+1512,Computer Networks,73
+1513,Python Programming,84
+1513,DBMS,75
+1513,Mathematics,57
+1513,Machine Learning,84
+1513,Computer Networks,66
+1514,Python Programming,95
+1514,DBMS,88
+1514,Mathematics,93
+1514,Machine Learning,100
+1514,Computer Networks,89
+1515,Python Programming,68
+1515,DBMS,79
+1515,Mathematics,68
+1515,Machine Learning,67
+1515,Computer Networks,67
+1516,Python Programming,46
+1516,DBMS,76
+1516,Mathematics,66
+1516,Machine Learning,58
+1516,Computer Networks,66
+1517,Python Programming,100
+1517,DBMS,97
+1517,Mathematics,99
+1517,Machine Learning,82
+1517,Computer Networks,96
+1518,Python Programming,91
+1518,DBMS,100
+1518,Mathematics,84
+1518,Machine Learning,98
+1518,Computer Networks,100
+1519,Python Programming,85
+1519,DBMS,89
+1519,Mathematics,84
+1519,Machine Learning,80
+1519,Computer Networks,91
+1520,Python Programming,46
+1520,DBMS,53
+1520,Mathematics,56
+1520,Machine Learning,45
+1520,Computer Networks,48
+1521,Python Programming,83
+1521,DBMS,100
+1521,Mathematics,87
+1521,Machine Learning,74
+1521,Computer Networks,88
+1522,Python Programming,76
+1522,DBMS,95
+1522,Mathematics,98
+1522,Machine Learning,96
+1522,Computer Networks,100
+1523,Python Programming,84
+1523,DBMS,100
+1523,Mathematics,100
+1523,Machine Learning,100
+1523,Computer Networks,96
+1524,Python Programming,62
+1524,DBMS,57
+1524,Mathematics,63
+1524,Machine Learning,66
+1524,Computer Networks,72
+1525,Python Programming,71
+1525,DBMS,65
+1525,Mathematics,62
+1525,Machine Learning,71
+1525,Computer Networks,66
+1526,Python Programming,77
+1526,DBMS,68
+1526,Mathematics,65
+1526,Machine Learning,65
+1526,Computer Networks,52
+1527,Python Programming,100
+1527,DBMS,99
+1527,Mathematics,90
+1527,Machine Learning,87
+1527,Computer Networks,84
+1528,Python Programming,77
+1528,DBMS,64
+1528,Mathematics,53
+1528,Machine Learning,65
+1528,Computer Networks,60
+1529,Python Programming,85
+1529,DBMS,93
+1529,Mathematics,100
+1529,Machine Learning,85
+1529,Computer Networks,100
+1530,Python Programming,81
+1530,DBMS,83
+1530,Mathematics,100
+1530,Machine Learning,89
+1530,Computer Networks,82
+1531,Python Programming,76
+1531,DBMS,69
+1531,Mathematics,67
+1531,Machine Learning,76
+1531,Computer Networks,77
+1532,Python Programming,58
+1532,DBMS,70
+1532,Mathematics,62
+1532,Machine Learning,80
+1532,Computer Networks,75
+1533,Python Programming,70
+1533,DBMS,84
+1533,Mathematics,89
+1533,Machine Learning,80
+1533,Computer Networks,67
+1534,Python Programming,89
+1534,DBMS,84
+1534,Mathematics,83
+1534,Machine Learning,80
+1534,Computer Networks,83
+1535,Python Programming,73
+1535,DBMS,90
+1535,Mathematics,77
+1535,Machine Learning,82
+1535,Computer Networks,80
+1536,Python Programming,44
+1536,DBMS,53
+1536,Mathematics,52
+1536,Machine Learning,46
+1536,Computer Networks,60
+1537,Python Programming,72
+1537,DBMS,66
+1537,Mathematics,63
+1537,Machine Learning,76
+1537,Computer Networks,71
+1538,Python Programming,87
+1538,DBMS,80
+1538,Mathematics,70
+1538,Machine Learning,81
+1538,Computer Networks,80
+1539,Python Programming,70
+1539,DBMS,72
+1539,Mathematics,85
+1539,Machine Learning,73
+1539,Computer Networks,80
+1540,Python Programming,58
+1540,DBMS,66
+1540,Mathematics,70
+1540,Machine Learning,58
+1540,Computer Networks,66
+1541,Python Programming,63
+1541,DBMS,60
+1541,Mathematics,50
+1541,Machine Learning,61
+1541,Computer Networks,61
+1542,Python Programming,79
+1542,DBMS,90
+1542,Mathematics,88
+1542,Machine Learning,78
+1542,Computer Networks,84
+1543,Python Programming,71
+1543,DBMS,74
+1543,Mathematics,65
+1543,Machine Learning,72
+1543,Computer Networks,73
+1544,Python Programming,78
+1544,DBMS,73
+1544,Mathematics,73
+1544,Machine Learning,92
+1544,Computer Networks,97
+1545,Python Programming,75
+1545,DBMS,80
+1545,Mathematics,80
+1545,Machine Learning,71
+1545,Computer Networks,73
+1546,Python Programming,59
+1546,DBMS,82
+1546,Mathematics,69
+1546,Machine Learning,78
+1546,Computer Networks,83
+1547,Python Programming,96
+1547,DBMS,78
+1547,Mathematics,81
+1547,Machine Learning,96
+1547,Computer Networks,76
+1548,Python Programming,61
+1548,DBMS,57
+1548,Mathematics,61
+1548,Machine Learning,61
+1548,Computer Networks,44
+1549,Python Programming,79
+1549,DBMS,81
+1549,Mathematics,77
+1549,Machine Learning,75
+1549,Computer Networks,83
+1550,Python Programming,65
+1550,DBMS,60
+1550,Mathematics,68
+1550,Machine Learning,56
+1550,Computer Networks,60
+1551,Python Programming,71
+1551,DBMS,68
+1551,Mathematics,79
+1551,Machine Learning,48
+1551,Computer Networks,59
+1552,Python Programming,88
+1552,DBMS,78
+1552,Mathematics,90
+1552,Machine Learning,82
+1552,Computer Networks,83
+1553,Python Programming,57
+1553,DBMS,59
+1553,Mathematics,68
+1553,Machine Learning,56
+1553,Computer Networks,53
+1554,Python Programming,71
+1554,DBMS,55
+1554,Mathematics,49
+1554,Machine Learning,58
+1554,Computer Networks,48
+1555,Python Programming,99
+1555,DBMS,90
+1555,Mathematics,73
+1555,Machine Learning,100
+1555,Computer Networks,87
+1556,Python Programming,81
+1556,DBMS,87
+1556,Mathematics,84
+1556,Machine Learning,87
+1556,Computer Networks,89
+1557,Python Programming,86
+1557,DBMS,93
+1557,Mathematics,89
+1557,Machine Learning,93
+1557,Computer Networks,91
+1558,Python Programming,80
+1558,DBMS,88
+1558,Mathematics,96
+1558,Machine Learning,98
+1558,Computer Networks,87
+1559,Python Programming,66
+1559,DBMS,59
+1559,Mathematics,54
+1559,Machine Learning,66
+1559,Computer Networks,65
+1560,Python Programming,61
+1560,DBMS,73
+1560,Mathematics,49
+1560,Machine Learning,56
+1560,Computer Networks,64
+1561,Python Programming,77
+1561,DBMS,81
+1561,Mathematics,50
+1561,Machine Learning,71
+1561,Computer Networks,53
+1562,Python Programming,68
+1562,DBMS,69
+1562,Mathematics,68
+1562,Machine Learning,76
+1562,Computer Networks,77
+1563,Python Programming,84
+1563,DBMS,89
+1563,Mathematics,85
+1563,Machine Learning,88
+1563,Computer Networks,93
+1564,Python Programming,79
+1564,DBMS,59
+1564,Mathematics,68
+1564,Machine Learning,78
+1564,Computer Networks,67
+1565,Python Programming,84
+1565,DBMS,89
+1565,Mathematics,87
+1565,Machine Learning,83
+1565,Computer Networks,84
+1566,Python Programming,64
+1566,DBMS,57
+1566,Mathematics,75
+1566,Machine Learning,60
+1566,Computer Networks,45
+1567,Python Programming,63
+1567,DBMS,69
+1567,Mathematics,80
+1567,Machine Learning,100
+1567,Computer Networks,87
+1568,Python Programming,60
+1568,DBMS,68
+1568,Mathematics,76
+1568,Machine Learning,60
+1568,Computer Networks,69
+1569,Python Programming,93
+1569,DBMS,91
+1569,Mathematics,83
+1569,Machine Learning,100
+1569,Computer Networks,93
+1570,Python Programming,81
+1570,DBMS,80
+1570,Mathematics,74
+1570,Machine Learning,75
+1570,Computer Networks,78
+1571,Python Programming,65
+1571,DBMS,80
+1571,Mathematics,66
+1571,Machine Learning,78
+1571,Computer Networks,75
+1572,Python Programming,73
+1572,DBMS,60
+1572,Mathematics,64
+1572,Machine Learning,55
+1572,Computer Networks,55
+1573,Python Programming,100
+1573,DBMS,84
+1573,Mathematics,100
+1573,Machine Learning,87
+1573,Computer Networks,100
+1574,Python Programming,100
+1574,DBMS,93
+1574,Mathematics,85
+1574,Machine Learning,95
+1574,Computer Networks,78
+1575,Python Programming,71
+1575,DBMS,79
+1575,Mathematics,87
+1575,Machine Learning,85
+1575,Computer Networks,83
+1576,Python Programming,74
+1576,DBMS,59
+1576,Mathematics,61
+1576,Machine Learning,62
+1576,Computer Networks,68
+1577,Python Programming,67
+1577,DBMS,83
+1577,Mathematics,81
+1577,Machine Learning,75
+1577,Computer Networks,72
+1578,Python Programming,76
+1578,DBMS,60
+1578,Mathematics,44
+1578,Machine Learning,71
+1578,Computer Networks,56
+1579,Python Programming,88
+1579,DBMS,93
+1579,Mathematics,87
+1579,Machine Learning,95
+1579,Computer Networks,83
+1580,Python Programming,93
+1580,DBMS,89
+1580,Mathematics,100
+1580,Machine Learning,97
+1580,Computer Networks,95
+1581,Python Programming,53
+1581,DBMS,60
+1581,Mathematics,54
+1581,Machine Learning,54
+1581,Computer Networks,40
+1582,Python Programming,81
+1582,DBMS,77
+1582,Mathematics,72
+1582,Machine Learning,78
+1582,Computer Networks,64
+1583,Python Programming,70
+1583,DBMS,79
+1583,Mathematics,89
+1583,Machine Learning,86
+1583,Computer Networks,94
+1584,Python Programming,100
+1584,DBMS,86
+1584,Mathematics,100
+1584,Machine Learning,90
+1584,Computer Networks,87
+1585,Python Programming,82
+1585,DBMS,91
+1585,Mathematics,73
+1585,Machine Learning,78
+1585,Computer Networks,90
+1586,Python Programming,60
+1586,DBMS,57
+1586,Mathematics,64
+1586,Machine Learning,53
+1586,Computer Networks,68
+1587,Python Programming,77
+1587,DBMS,67
+1587,Mathematics,62
+1587,Machine Learning,67
+1587,Computer Networks,87
+1588,Python Programming,75
+1588,DBMS,60
+1588,Mathematics,77
+1588,Machine Learning,75
+1588,Computer Networks,71
+1589,Python Programming,53
+1589,DBMS,70
+1589,Mathematics,58
+1589,Machine Learning,75
+1589,Computer Networks,64
+1590,Python Programming,59
+1590,DBMS,70
+1590,Mathematics,61
+1590,Machine Learning,81
+1590,Computer Networks,61
+1591,Python Programming,97
+1591,DBMS,100
+1591,Mathematics,100
+1591,Machine Learning,96
+1591,Computer Networks,92
+1592,Python Programming,69
+1592,DBMS,85
+1592,Mathematics,78
+1592,Machine Learning,88
+1592,Computer Networks,78
+1593,Python Programming,57
+1593,DBMS,67
+1593,Mathematics,58
+1593,Machine Learning,54
+1593,Computer Networks,64
+1594,Python Programming,67
+1594,DBMS,78
+1594,Mathematics,64
+1594,Machine Learning,66
+1594,Computer Networks,55
+1595,Python Programming,50
+1595,DBMS,44
+1595,Mathematics,60
+1595,Machine Learning,59
+1595,Computer Networks,62
+1596,Python Programming,79
+1596,DBMS,63
+1596,Mathematics,60
+1596,Machine Learning,74
+1596,Computer Networks,67
+1597,Python Programming,98
+1597,DBMS,99
+1597,Mathematics,100
+1597,Machine Learning,81
+1597,Computer Networks,91
+1598,Python Programming,86
+1598,DBMS,88
+1598,Mathematics,83
+1598,Machine Learning,84
+1598,Computer Networks,89
+1599,Python Programming,87
+1599,DBMS,68
+1599,Mathematics,67
+1599,Machine Learning,79
+1599,Computer Networks,85
+1600,Python Programming,57
+1600,DBMS,56
+1600,Mathematics,62
+1600,Machine Learning,59
+1600,Computer Networks,48
+1601,Python Programming,94
+1601,DBMS,99
+1601,Mathematics,100
+1601,Machine Learning,89
+1601,Computer Networks,88
+1602,Python Programming,61
+1602,DBMS,45
+1602,Mathematics,50
+1602,Machine Learning,59
+1602,Computer Networks,57
+1603,Python Programming,72
+1603,DBMS,86
+1603,Mathematics,77
+1603,Machine Learning,62
+1603,Computer Networks,94
+1604,Python Programming,69
+1604,DBMS,78
+1604,Mathematics,80
+1604,Machine Learning,88
+1604,Computer Networks,79
+1605,Python Programming,54
+1605,DBMS,58
+1605,Mathematics,50
+1605,Machine Learning,47
+1605,Computer Networks,69
+1606,Python Programming,95
+1606,DBMS,82
+1606,Mathematics,80
+1606,Machine Learning,83
+1606,Computer Networks,89
+1607,Python Programming,70
+1607,DBMS,63
+1607,Mathematics,63
+1607,Machine Learning,75
+1607,Computer Networks,61
+1608,Python Programming,64
+1608,DBMS,84
+1608,Mathematics,63
+1608,Machine Learning,68
+1608,Computer Networks,61
+1609,Python Programming,81
+1609,DBMS,63
+1609,Mathematics,65
+1609,Machine Learning,76
+1609,Computer Networks,82
+1610,Python Programming,86
+1610,DBMS,84
+1610,Mathematics,97
+1610,Machine Learning,95
+1610,Computer Networks,89
+1611,Python Programming,63
+1611,DBMS,72
+1611,Mathematics,68
+1611,Machine Learning,65
+1611,Computer Networks,62
+1612,Python Programming,75
+1612,DBMS,56
+1612,Mathematics,71
+1612,Machine Learning,79
+1612,Computer Networks,67
+1613,Python Programming,88
+1613,DBMS,97
+1613,Mathematics,95
+1613,Machine Learning,87
+1613,Computer Networks,86
+1614,Python Programming,88
+1614,DBMS,83
+1614,Mathematics,90
+1614,Machine Learning,61
+1614,Computer Networks,76
+1615,Python Programming,58
+1615,DBMS,64
+1615,Mathematics,62
+1615,Machine Learning,71
+1615,Computer Networks,40
+1616,Python Programming,79
+1616,DBMS,80
+1616,Mathematics,63
+1616,Machine Learning,78
+1616,Computer Networks,67
+1617,Python Programming,81
+1617,DBMS,59
+1617,Mathematics,76
+1617,Machine Learning,61
+1617,Computer Networks,71
+1618,Python Programming,63
+1618,DBMS,75
+1618,Mathematics,57
+1618,Machine Learning,75
+1618,Computer Networks,58
+1619,Python Programming,94
+1619,DBMS,78
+1619,Mathematics,68
+1619,Machine Learning,70
+1619,Computer Networks,88
+1620,Python Programming,91
+1620,DBMS,80
+1620,Mathematics,85
+1620,Machine Learning,89
+1620,Computer Networks,89
+1621,Python Programming,81
+1621,DBMS,99
+1621,Mathematics,86
+1621,Machine Learning,77
+1621,Computer Networks,73
+1622,Python Programming,84
+1622,DBMS,88
+1622,Mathematics,90
+1622,Machine Learning,85
+1622,Computer Networks,80
+1623,Python Programming,95
+1623,DBMS,100
+1623,Mathematics,89
+1623,Machine Learning,88
+1623,Computer Networks,93
+1624,Python Programming,58
+1624,DBMS,65
+1624,Mathematics,71
+1624,Machine Learning,65
+1624,Computer Networks,79
+1625,Python Programming,76
+1625,DBMS,91
+1625,Mathematics,86
+1625,Machine Learning,99
+1625,Computer Networks,72
+1626,Python Programming,59
+1626,DBMS,67
+1626,Mathematics,68
+1626,Machine Learning,77
+1626,Computer Networks,53
+1627,Python Programming,70
+1627,DBMS,58
+1627,Mathematics,53
+1627,Machine Learning,43
+1627,Computer Networks,48
+1628,Python Programming,84
+1628,DBMS,77
+1628,Mathematics,70
+1628,Machine Learning,86
+1628,Computer Networks,82
+1629,Python Programming,44
+1629,DBMS,63
+1629,Mathematics,48
+1629,Machine Learning,59
+1629,Computer Networks,73
+1630,Python Programming,65
+1630,DBMS,67
+1630,Mathematics,69
+1630,Machine Learning,83
+1630,Computer Networks,58
+1631,Python Programming,81
+1631,DBMS,61
+1631,Mathematics,84
+1631,Machine Learning,75
+1631,Computer Networks,85
+1632,Python Programming,84
+1632,DBMS,100
+1632,Mathematics,83
+1632,Machine Learning,89
+1632,Computer Networks,99
+1633,Python Programming,85
+1633,DBMS,62
+1633,Mathematics,73
+1633,Machine Learning,74
+1633,Computer Networks,67
+1634,Python Programming,100
+1634,DBMS,100
+1634,Mathematics,90
+1634,Machine Learning,91
+1634,Computer Networks,92
+1635,Python Programming,60
+1635,DBMS,80
+1635,Mathematics,60
+1635,Machine Learning,57
+1635,Computer Networks,70
+1636,Python Programming,91
+1636,DBMS,86
+1636,Mathematics,92
+1636,Machine Learning,91
+1636,Computer Networks,78
+1637,Python Programming,74
+1637,DBMS,82
+1637,Mathematics,86
+1637,Machine Learning,93
+1637,Computer Networks,81
+1638,Python Programming,70
+1638,DBMS,62
+1638,Mathematics,61
+1638,Machine Learning,70
+1638,Computer Networks,56
+1639,Python Programming,78
+1639,DBMS,94
+1639,Mathematics,76
+1639,Machine Learning,86
+1639,Computer Networks,66
+1640,Python Programming,87
+1640,DBMS,91
+1640,Mathematics,82
+1640,Machine Learning,84
+1640,Computer Networks,88
+1641,Python Programming,69
+1641,DBMS,49
+1641,Mathematics,58
+1641,Machine Learning,71
+1641,Computer Networks,75
+1642,Python Programming,67
+1642,DBMS,68
+1642,Mathematics,80
+1642,Machine Learning,56
+1642,Computer Networks,61
+1643,Python Programming,100
+1643,DBMS,88
+1643,Mathematics,96
+1643,Machine Learning,88
+1643,Computer Networks,89
+1644,Python Programming,100
+1644,DBMS,100
+1644,Mathematics,86
+1644,Machine Learning,100
+1644,Computer Networks,100
+1645,Python Programming,56
+1645,DBMS,53
+1645,Mathematics,51
+1645,Machine Learning,56
+1645,Computer Networks,58
+1646,Python Programming,86
+1646,DBMS,99
+1646,Mathematics,100
+1646,Machine Learning,91
+1646,Computer Networks,96
+1647,Python Programming,60
+1647,DBMS,66
+1647,Mathematics,64
+1647,Machine Learning,67
+1647,Computer Networks,60
+1648,Python Programming,87
+1648,DBMS,82
+1648,Mathematics,90
+1648,Machine Learning,100
+1648,Computer Networks,87
+1649,Python Programming,42
+1649,DBMS,40
+1649,Mathematics,52
+1649,Machine Learning,41
+1649,Computer Networks,58
+1650,Python Programming,57
+1650,DBMS,70
+1650,Mathematics,73
+1650,Machine Learning,56
+1650,Computer Networks,66
+1651,Python Programming,91
+1651,DBMS,80
+1651,Mathematics,70
+1651,Machine Learning,80
+1651,Computer Networks,80
+1652,Python Programming,73
+1652,DBMS,78
+1652,Mathematics,81
+1652,Machine Learning,76
+1652,Computer Networks,70
+1653,Python Programming,86
+1653,DBMS,81
+1653,Mathematics,79
+1653,Machine Learning,89
+1653,Computer Networks,80
+1654,Python Programming,95
+1654,DBMS,93
+1654,Mathematics,100
+1654,Machine Learning,95
+1654,Computer Networks,98
+1655,Python Programming,91
+1655,DBMS,94
+1655,Mathematics,66
+1655,Machine Learning,91
+1655,Computer Networks,80
+1656,Python Programming,89
+1656,DBMS,88
+1656,Mathematics,94
+1656,Machine Learning,93
+1656,Computer Networks,83
+1657,Python Programming,69
+1657,DBMS,68
+1657,Mathematics,60
+1657,Machine Learning,68
+1657,Computer Networks,60
+1658,Python Programming,85
+1658,DBMS,72
+1658,Mathematics,93
+1658,Machine Learning,85
+1658,Computer Networks,79
+1659,Python Programming,100
+1659,DBMS,100
+1659,Mathematics,95
+1659,Machine Learning,82
+1659,Computer Networks,100
+1660,Python Programming,100
+1660,DBMS,100
+1660,Mathematics,98
+1660,Machine Learning,87
+1660,Computer Networks,87
+1661,Python Programming,100
+1661,DBMS,93
+1661,Mathematics,100
+1661,Machine Learning,100
+1661,Computer Networks,91
+1662,Python Programming,65
+1662,DBMS,67
+1662,Mathematics,65
+1662,Machine Learning,74
+1662,Computer Networks,64
+1663,Python Programming,56
+1663,DBMS,48
+1663,Mathematics,48
+1663,Machine Learning,46
+1663,Computer Networks,72
+1664,Python Programming,100
+1664,DBMS,81
+1664,Mathematics,91
+1664,Machine Learning,100
+1664,Computer Networks,92
+1665,Python Programming,74
+1665,DBMS,65
+1665,Mathematics,86
+1665,Machine Learning,75
+1665,Computer Networks,54
+1666,Python Programming,89
+1666,DBMS,92
+1666,Mathematics,98
+1666,Machine Learning,100
+1666,Computer Networks,79
+1667,Python Programming,63
+1667,DBMS,65
+1667,Mathematics,59
+1667,Machine Learning,65
+1667,Computer Networks,58
+1668,Python Programming,57
+1668,DBMS,68
+1668,Mathematics,59
+1668,Machine Learning,62
+1668,Computer Networks,63
+1669,Python Programming,78
+1669,DBMS,84
+1669,Mathematics,100
+1669,Machine Learning,97
+1669,Computer Networks,79
+1670,Python Programming,87
+1670,DBMS,94
+1670,Mathematics,100
+1670,Machine Learning,100
+1670,Computer Networks,100
+1671,Python Programming,61
+1671,DBMS,59
+1671,Mathematics,67
+1671,Machine Learning,61
+1671,Computer Networks,60
+1672,Python Programming,70
+1672,DBMS,80
+1672,Mathematics,79
+1672,Machine Learning,82
+1672,Computer Networks,73
+1673,Python Programming,99
+1673,DBMS,77
+1673,Mathematics,89
+1673,Machine Learning,85
+1673,Computer Networks,78
+1674,Python Programming,72
+1674,DBMS,66
+1674,Mathematics,74
+1674,Machine Learning,81
+1674,Computer Networks,73
+1675,Python Programming,61
+1675,DBMS,75
+1675,Mathematics,67
+1675,Machine Learning,66
+1675,Computer Networks,54
+1676,Python Programming,74
+1676,DBMS,97
+1676,Mathematics,88
+1676,Machine Learning,84
+1676,Computer Networks,85
+1677,Python Programming,80
+1677,DBMS,68
+1677,Mathematics,87
+1677,Machine Learning,87
+1677,Computer Networks,65
+1678,Python Programming,71
+1678,DBMS,52
+1678,Mathematics,66
+1678,Machine Learning,72
+1678,Computer Networks,73
+1679,Python Programming,60
+1679,DBMS,62
+1679,Mathematics,77
+1679,Machine Learning,51
+1679,Computer Networks,55
+1680,Python Programming,67
+1680,DBMS,76
+1680,Mathematics,49
+1680,Machine Learning,59
+1680,Computer Networks,60
+1681,Python Programming,86
+1681,DBMS,87
+1681,Mathematics,90
+1681,Machine Learning,81
+1681,Computer Networks,84
+1682,Python Programming,93
+1682,DBMS,96
+1682,Mathematics,81
+1682,Machine Learning,84
+1682,Computer Networks,96
+1683,Python Programming,74
+1683,DBMS,80
+1683,Mathematics,72
+1683,Machine Learning,74
+1683,Computer Networks,86
+1684,Python Programming,79
+1684,DBMS,79
+1684,Mathematics,61
+1684,Machine Learning,89
+1684,Computer Networks,72
+1685,Python Programming,89
+1685,DBMS,96
+1685,Mathematics,92
+1685,Machine Learning,71
+1685,Computer Networks,98
+1686,Python Programming,80
+1686,DBMS,96
+1686,Mathematics,82
+1686,Machine Learning,82
+1686,Computer Networks,95
+1687,Python Programming,75
+1687,DBMS,82
+1687,Mathematics,84
+1687,Machine Learning,75
+1687,Computer Networks,81
+1688,Python Programming,56
+1688,DBMS,68
+1688,Mathematics,53
+1688,Machine Learning,59
+1688,Computer Networks,58
+1689,Python Programming,62
+1689,DBMS,66
+1689,Mathematics,54
+1689,Machine Learning,48
+1689,Computer Networks,55
+1690,Python Programming,81
+1690,DBMS,87
+1690,Mathematics,71
+1690,Machine Learning,63
+1690,Computer Networks,75
+1691,Python Programming,72
+1691,DBMS,61
+1691,Mathematics,84
+1691,Machine Learning,84
+1691,Computer Networks,61
+1692,Python Programming,67
+1692,DBMS,48
+1692,Mathematics,69
+1692,Machine Learning,68
+1692,Computer Networks,40
+1693,Python Programming,64
+1693,DBMS,64
+1693,Mathematics,59
+1693,Machine Learning,59
+1693,Computer Networks,58
+1694,Python Programming,76
+1694,DBMS,84
+1694,Mathematics,78
+1694,Machine Learning,95
+1694,Computer Networks,100
+1695,Python Programming,66
+1695,DBMS,66
+1695,Mathematics,81
+1695,Machine Learning,99
+1695,Computer Networks,79
+1696,Python Programming,78
+1696,DBMS,66
+1696,Mathematics,79
+1696,Machine Learning,78
+1696,Computer Networks,78
+1697,Python Programming,83
+1697,DBMS,70
+1697,Mathematics,76
+1697,Machine Learning,76
+1697,Computer Networks,67
+1698,Python Programming,79
+1698,DBMS,84
+1698,Mathematics,92
+1698,Machine Learning,74
+1698,Computer Networks,70
+1699,Python Programming,74
+1699,DBMS,79
+1699,Mathematics,69
+1699,Machine Learning,65
+1699,Computer Networks,84
+1700,Python Programming,88
+1700,DBMS,100
+1700,Mathematics,86
+1700,Machine Learning,92
+1700,Computer Networks,100
+1701,Python Programming,77
+1701,DBMS,59
+1701,Mathematics,51
+1701,Machine Learning,46
+1701,Computer Networks,49
+1702,Python Programming,73
+1702,DBMS,96
+1702,Mathematics,88
+1702,Machine Learning,82
+1702,Computer Networks,77
+1703,Python Programming,100
+1703,DBMS,92
+1703,Mathematics,100
+1703,Machine Learning,90
+1703,Computer Networks,100
+1704,Python Programming,99
+1704,DBMS,82
+1704,Mathematics,92
+1704,Machine Learning,100
+1704,Computer Networks,95
+1705,Python Programming,75
+1705,DBMS,63
+1705,Mathematics,51
+1705,Machine Learning,57
+1705,Computer Networks,52
+1706,Python Programming,87
+1706,DBMS,93
+1706,Mathematics,73
+1706,Machine Learning,88
+1706,Computer Networks,82
+1707,Python Programming,55
+1707,DBMS,44
+1707,Mathematics,67
+1707,Machine Learning,60
+1707,Computer Networks,61
+1708,Python Programming,80
+1708,DBMS,76
+1708,Mathematics,76
+1708,Machine Learning,76
+1708,Computer Networks,78
+1709,Python Programming,92
+1709,DBMS,69
+1709,Mathematics,90
+1709,Machine Learning,82
+1709,Computer Networks,67
+1710,Python Programming,87
+1710,DBMS,91
+1710,Mathematics,71
+1710,Machine Learning,78
+1710,Computer Networks,83
+1711,Python Programming,87
+1711,DBMS,82
+1711,Mathematics,74
+1711,Machine Learning,79
+1711,Computer Networks,74
+1712,Python Programming,76
+1712,DBMS,92
+1712,Mathematics,71
+1712,Machine Learning,62
+1712,Computer Networks,86
+1713,Python Programming,58
+1713,DBMS,49
+1713,Mathematics,76
+1713,Machine Learning,68
+1713,Computer Networks,73
+1714,Python Programming,93
+1714,DBMS,86
+1714,Mathematics,91
+1714,Machine Learning,92
+1714,Computer Networks,90
+1715,Python Programming,70
+1715,DBMS,58
+1715,Mathematics,59
+1715,Machine Learning,59
+1715,Computer Networks,74
+1716,Python Programming,69
+1716,DBMS,74
+1716,Mathematics,74
+1716,Machine Learning,72
+1716,Computer Networks,82
+1717,Python Programming,62
+1717,DBMS,62
+1717,Mathematics,58
+1717,Machine Learning,55
+1717,Computer Networks,75
+1718,Python Programming,75
+1718,DBMS,70
+1718,Mathematics,71
+1718,Machine Learning,86
+1718,Computer Networks,74
+1719,Python Programming,74
+1719,DBMS,78
+1719,Mathematics,90
+1719,Machine Learning,85
+1719,Computer Networks,79
+1720,Python Programming,76
+1720,DBMS,65
+1720,Mathematics,77
+1720,Machine Learning,78
+1720,Computer Networks,80
+1721,Python Programming,94
+1721,DBMS,91
+1721,Mathematics,81
+1721,Machine Learning,85
+1721,Computer Networks,85
+1722,Python Programming,73
+1722,DBMS,71
+1722,Mathematics,74
+1722,Machine Learning,85
+1722,Computer Networks,86
+1723,Python Programming,62
+1723,DBMS,63
+1723,Mathematics,77
+1723,Machine Learning,66
+1723,Computer Networks,65
+1724,Python Programming,69
+1724,DBMS,73
+1724,Mathematics,87
+1724,Machine Learning,70
+1724,Computer Networks,71
+1725,Python Programming,66
+1725,DBMS,97
+1725,Mathematics,75
+1725,Machine Learning,74
+1725,Computer Networks,83
+1726,Python Programming,84
+1726,DBMS,69
+1726,Mathematics,83
+1726,Machine Learning,69
+1726,Computer Networks,84
+1727,Python Programming,63
+1727,DBMS,48
+1727,Mathematics,53
+1727,Machine Learning,62
+1727,Computer Networks,55
+1728,Python Programming,92
+1728,DBMS,100
+1728,Mathematics,76
+1728,Machine Learning,70
+1728,Computer Networks,89
+1729,Python Programming,64
+1729,DBMS,63
+1729,Mathematics,67
+1729,Machine Learning,73
+1729,Computer Networks,59
+1730,Python Programming,64
+1730,DBMS,68
+1730,Mathematics,49
+1730,Machine Learning,57
+1730,Computer Networks,68
+1731,Python Programming,65
+1731,DBMS,64
+1731,Mathematics,72
+1731,Machine Learning,65
+1731,Computer Networks,61
+1732,Python Programming,90
+1732,DBMS,81
+1732,Mathematics,96
+1732,Machine Learning,98
+1732,Computer Networks,87
+1733,Python Programming,99
+1733,DBMS,93
+1733,Mathematics,93
+1733,Machine Learning,99
+1733,Computer Networks,93
+1734,Python Programming,100
+1734,DBMS,100
+1734,Mathematics,91
+1734,Machine Learning,98
+1734,Computer Networks,100
+1735,Python Programming,71
+1735,DBMS,75
+1735,Mathematics,73
+1735,Machine Learning,67
+1735,Computer Networks,62
+1736,Python Programming,55
+1736,DBMS,66
+1736,Mathematics,73
+1736,Machine Learning,61
+1736,Computer Networks,71
+1737,Python Programming,87
+1737,DBMS,94
+1737,Mathematics,77
+1737,Machine Learning,88
+1737,Computer Networks,85
+1738,Python Programming,51
+1738,DBMS,56
+1738,Mathematics,53
+1738,Machine Learning,60
+1738,Computer Networks,54
+1739,Python Programming,96
+1739,DBMS,100
+1739,Mathematics,90
+1739,Machine Learning,86
+1739,Computer Networks,82
+1740,Python Programming,80
+1740,DBMS,87
+1740,Mathematics,69
+1740,Machine Learning,62
+1740,Computer Networks,67
+1741,Python Programming,94
+1741,DBMS,100
+1741,Mathematics,96
+1741,Machine Learning,100
+1741,Computer Networks,95
+1742,Python Programming,99
+1742,DBMS,84
+1742,Mathematics,94
+1742,Machine Learning,82
+1742,Computer Networks,96
+1743,Python Programming,97
+1743,DBMS,80
+1743,Mathematics,90
+1743,Machine Learning,91
+1743,Computer Networks,81
+1744,Python Programming,82
+1744,DBMS,72
+1744,Mathematics,64
+1744,Machine Learning,67
+1744,Computer Networks,71
+1745,Python Programming,86
+1745,DBMS,78
+1745,Mathematics,68
+1745,Machine Learning,90
+1745,Computer Networks,77
+1746,Python Programming,79
+1746,DBMS,68
+1746,Mathematics,67
+1746,Machine Learning,74
+1746,Computer Networks,73
+1747,Python Programming,73
+1747,DBMS,60
+1747,Mathematics,66
+1747,Machine Learning,71
+1747,Computer Networks,59
+1748,Python Programming,78
+1748,DBMS,83
+1748,Mathematics,87
+1748,Machine Learning,74
+1748,Computer Networks,78
+1749,Python Programming,94
+1749,DBMS,87
+1749,Mathematics,88
+1749,Machine Learning,93
+1749,Computer Networks,100
+1750,Python Programming,75
+1750,DBMS,68
+1750,Mathematics,80
+1750,Machine Learning,65
+1750,Computer Networks,75
+1751,Python Programming,80
+1751,DBMS,86
+1751,Mathematics,95
+1751,Machine Learning,88
+1751,Computer Networks,86
+1752,Python Programming,81
+1752,DBMS,84
+1752,Mathematics,74
+1752,Machine Learning,68
+1752,Computer Networks,78
+1753,Python Programming,73
+1753,DBMS,70
+1753,Mathematics,68
+1753,Machine Learning,71
+1753,Computer Networks,61
+1754,Python Programming,72
+1754,DBMS,58
+1754,Mathematics,75
+1754,Machine Learning,64
+1754,Computer Networks,78
+1755,Python Programming,78
+1755,DBMS,61
+1755,Mathematics,80
+1755,Machine Learning,86
+1755,Computer Networks,86
+1756,Python Programming,99
+1756,DBMS,85
+1756,Mathematics,78
+1756,Machine Learning,86
+1756,Computer Networks,100
+1757,Python Programming,73
+1757,DBMS,82
+1757,Mathematics,94
+1757,Machine Learning,74
+1757,Computer Networks,80
+1758,Python Programming,48
+1758,DBMS,72
+1758,Mathematics,61
+1758,Machine Learning,80
+1758,Computer Networks,59
+1759,Python Programming,66
+1759,DBMS,58
+1759,Mathematics,61
+1759,Machine Learning,57
+1759,Computer Networks,63
+1760,Python Programming,88
+1760,DBMS,68
+1760,Mathematics,74
+1760,Machine Learning,80
+1760,Computer Networks,70
+1761,Python Programming,100
+1761,DBMS,95
+1761,Mathematics,70
+1761,Machine Learning,96
+1761,Computer Networks,80
+1762,Python Programming,95
+1762,DBMS,92
+1762,Mathematics,89
+1762,Machine Learning,100
+1762,Computer Networks,100
+1763,Python Programming,80
+1763,DBMS,97
+1763,Mathematics,73
+1763,Machine Learning,85
+1763,Computer Networks,81
+1764,Python Programming,81
+1764,DBMS,64
+1764,Mathematics,82
+1764,Machine Learning,77
+1764,Computer Networks,64
+1765,Python Programming,78
+1765,DBMS,91
+1765,Mathematics,79
+1765,Machine Learning,80
+1765,Computer Networks,95
+1766,Python Programming,100
+1766,DBMS,93
+1766,Mathematics,82
+1766,Machine Learning,88
+1766,Computer Networks,66
+1767,Python Programming,70
+1767,DBMS,74
+1767,Mathematics,63
+1767,Machine Learning,91
+1767,Computer Networks,85
+1768,Python Programming,58
+1768,DBMS,48
+1768,Mathematics,56
+1768,Machine Learning,66
+1768,Computer Networks,52
+1769,Python Programming,54
+1769,DBMS,60
+1769,Mathematics,53
+1769,Machine Learning,51
+1769,Computer Networks,60
+1770,Python Programming,49
+1770,DBMS,64
+1770,Mathematics,60
+1770,Machine Learning,66
+1770,Computer Networks,55
+1771,Python Programming,67
+1771,DBMS,71
+1771,Mathematics,56
+1771,Machine Learning,64
+1771,Computer Networks,64
+1772,Python Programming,90
+1772,DBMS,81
+1772,Mathematics,100
+1772,Machine Learning,71
+1772,Computer Networks,100
+1773,Python Programming,64
+1773,DBMS,64
+1773,Mathematics,58
+1773,Machine Learning,50
+1773,Computer Networks,62
+1774,Python Programming,76
+1774,DBMS,84
+1774,Mathematics,74
+1774,Machine Learning,84
+1774,Computer Networks,68
+1775,Python Programming,90
+1775,DBMS,93
+1775,Mathematics,82
+1775,Machine Learning,89
+1775,Computer Networks,82
+1776,Python Programming,50
+1776,DBMS,66
+1776,Mathematics,82
+1776,Machine Learning,44
+1776,Computer Networks,63
+1777,Python Programming,74
+1777,DBMS,75
+1777,Mathematics,73
+1777,Machine Learning,87
+1777,Computer Networks,69
+1778,Python Programming,85
+1778,DBMS,88
+1778,Mathematics,86
+1778,Machine Learning,74
+1778,Computer Networks,70
+1779,Python Programming,82
+1779,DBMS,100
+1779,Mathematics,93
+1779,Machine Learning,83
+1779,Computer Networks,98
+1780,Python Programming,79
+1780,DBMS,89
+1780,Mathematics,96
+1780,Machine Learning,87
+1780,Computer Networks,87
+1781,Python Programming,55
+1781,DBMS,71
+1781,Mathematics,62
+1781,Machine Learning,60
+1781,Computer Networks,63
+1782,Python Programming,64
+1782,DBMS,70
+1782,Mathematics,63
+1782,Machine Learning,74
+1782,Computer Networks,60
+1783,Python Programming,92
+1783,DBMS,91
+1783,Mathematics,91
+1783,Machine Learning,76
+1783,Computer Networks,100
+1784,Python Programming,58
+1784,DBMS,63
+1784,Mathematics,58
+1784,Machine Learning,53
+1784,Computer Networks,72
+1785,Python Programming,82
+1785,DBMS,95
+1785,Mathematics,92
+1785,Machine Learning,98
+1785,Computer Networks,96
+1786,Python Programming,89
+1786,DBMS,98
+1786,Mathematics,89
+1786,Machine Learning,83
+1786,Computer Networks,79
+1787,Python Programming,63
+1787,DBMS,74
+1787,Mathematics,68
+1787,Machine Learning,69
+1787,Computer Networks,67
+1788,Python Programming,91
+1788,DBMS,87
+1788,Mathematics,88
+1788,Machine Learning,70
+1788,Computer Networks,81
+1789,Python Programming,81
+1789,DBMS,77
+1789,Mathematics,69
+1789,Machine Learning,63
+1789,Computer Networks,65
+1790,Python Programming,77
+1790,DBMS,84
+1790,Mathematics,89
+1790,Machine Learning,72
+1790,Computer Networks,73
+1791,Python Programming,68
+1791,DBMS,68
+1791,Mathematics,65
+1791,Machine Learning,69
+1791,Computer Networks,65
+1792,Python Programming,70
+1792,DBMS,64
+1792,Mathematics,71
+1792,Machine Learning,65
+1792,Computer Networks,53
+1793,Python Programming,88
+1793,DBMS,94
+1793,Mathematics,100
+1793,Machine Learning,100
+1793,Computer Networks,85
+1794,Python Programming,80
+1794,DBMS,80
+1794,Mathematics,79
+1794,Machine Learning,79
+1794,Computer Networks,74
+1795,Python Programming,62
+1795,DBMS,63
+1795,Mathematics,60
+1795,Machine Learning,68
+1795,Computer Networks,64
+1796,Python Programming,91
+1796,DBMS,74
+1796,Mathematics,74
+1796,Machine Learning,74
+1796,Computer Networks,73
+1797,Python Programming,63
+1797,DBMS,47
+1797,Mathematics,77
+1797,Machine Learning,66
+1797,Computer Networks,71
+1798,Python Programming,97
+1798,DBMS,82
+1798,Mathematics,78
+1798,Machine Learning,98
+1798,Computer Networks,91
+1799,Python Programming,69
+1799,DBMS,60
+1799,Mathematics,58
+1799,Machine Learning,58
+1799,Computer Networks,73
+1800,Python Programming,83
+1800,DBMS,81
+1800,Mathematics,89
+1800,Machine Learning,92
+1800,Computer Networks,91
+1801,Python Programming,71
+1801,DBMS,60
+1801,Mathematics,65
+1801,Machine Learning,60
+1801,Computer Networks,61
+1802,Python Programming,85
+1802,DBMS,72
+1802,Mathematics,85
+1802,Machine Learning,90
+1802,Computer Networks,78
+1803,Python Programming,49
+1803,DBMS,67
+1803,Mathematics,40
+1803,Machine Learning,60
+1803,Computer Networks,57
+1804,Python Programming,60
+1804,DBMS,83
+1804,Mathematics,69
+1804,Machine Learning,74
+1804,Computer Networks,77
+1805,Python Programming,54
+1805,DBMS,69
+1805,Mathematics,45
+1805,Machine Learning,71
+1805,Computer Networks,59
+1806,Python Programming,74
+1806,DBMS,84
+1806,Mathematics,90
+1806,Machine Learning,70
+1806,Computer Networks,58
+1807,Python Programming,90
+1807,DBMS,89
+1807,Mathematics,100
+1807,Machine Learning,94
+1807,Computer Networks,83
+1808,Python Programming,75
+1808,DBMS,72
+1808,Mathematics,63
+1808,Machine Learning,72
+1808,Computer Networks,71
+1809,Python Programming,92
+1809,DBMS,81
+1809,Mathematics,83
+1809,Machine Learning,83
+1809,Computer Networks,74
+1810,Python Programming,64
+1810,DBMS,66
+1810,Mathematics,64
+1810,Machine Learning,56
+1810,Computer Networks,62
+1811,Python Programming,58
+1811,DBMS,74
+1811,Mathematics,67
+1811,Machine Learning,79
+1811,Computer Networks,75
+1812,Python Programming,61
+1812,DBMS,65
+1812,Mathematics,59
+1812,Machine Learning,56
+1812,Computer Networks,75
+1813,Python Programming,81
+1813,DBMS,71
+1813,Mathematics,55
+1813,Machine Learning,75
+1813,Computer Networks,67
+1814,Python Programming,60
+1814,DBMS,65
+1814,Mathematics,58
+1814,Machine Learning,66
+1814,Computer Networks,68
+1815,Python Programming,100
+1815,DBMS,68
+1815,Mathematics,84
+1815,Machine Learning,68
+1815,Computer Networks,83
+1816,Python Programming,75
+1816,DBMS,54
+1816,Mathematics,58
+1816,Machine Learning,57
+1816,Computer Networks,57
+1817,Python Programming,75
+1817,DBMS,96
+1817,Mathematics,100
+1817,Machine Learning,100
+1817,Computer Networks,99
+1818,Python Programming,88
+1818,DBMS,94
+1818,Mathematics,98
+1818,Machine Learning,91
+1818,Computer Networks,84
+1819,Python Programming,60
+1819,DBMS,69
+1819,Mathematics,64
+1819,Machine Learning,70
+1819,Computer Networks,72
+1820,Python Programming,75
+1820,DBMS,62
+1820,Mathematics,63
+1820,Machine Learning,49
+1820,Computer Networks,58
+1821,Python Programming,80
+1821,DBMS,90
+1821,Mathematics,56
+1821,Machine Learning,77
+1821,Computer Networks,70
+1822,Python Programming,100
+1822,DBMS,88
+1822,Mathematics,98
+1822,Machine Learning,90
+1822,Computer Networks,91
+1823,Python Programming,100
+1823,DBMS,100
+1823,Mathematics,83
+1823,Machine Learning,98
+1823,Computer Networks,93
+1824,Python Programming,72
+1824,DBMS,76
+1824,Mathematics,67
+1824,Machine Learning,61
+1824,Computer Networks,68
+1825,Python Programming,63
+1825,DBMS,66
+1825,Mathematics,57
+1825,Machine Learning,66
+1825,Computer Networks,51
+1826,Python Programming,77
+1826,DBMS,74
+1826,Mathematics,91
+1826,Machine Learning,86
+1826,Computer Networks,97
+1827,Python Programming,100
+1827,DBMS,84
+1827,Mathematics,83
+1827,Machine Learning,76
+1827,Computer Networks,77
+1828,Python Programming,100
+1828,DBMS,85
+1828,Mathematics,100
+1828,Machine Learning,90
+1828,Computer Networks,100
+1829,Python Programming,76
+1829,DBMS,73
+1829,Mathematics,92
+1829,Machine Learning,57
+1829,Computer Networks,87
+1830,Python Programming,100
+1830,DBMS,97
+1830,Mathematics,100
+1830,Machine Learning,100
+1830,Computer Networks,86
+1831,Python Programming,61
+1831,DBMS,53
+1831,Mathematics,58
+1831,Machine Learning,50
+1831,Computer Networks,59
+1832,Python Programming,67
+1832,DBMS,59
+1832,Mathematics,71
+1832,Machine Learning,66
+1832,Computer Networks,75
+1833,Python Programming,95
+1833,DBMS,85
+1833,Mathematics,88
+1833,Machine Learning,87
+1833,Computer Networks,86
+1834,Python Programming,93
+1834,DBMS,82
+1834,Mathematics,85
+1834,Machine Learning,100
+1834,Computer Networks,100
+1835,Python Programming,67
+1835,DBMS,72
+1835,Mathematics,80
+1835,Machine Learning,81
+1835,Computer Networks,88
+1836,Python Programming,95
+1836,DBMS,79
+1836,Mathematics,97
+1836,Machine Learning,92
+1836,Computer Networks,88
+1837,Python Programming,73
+1837,DBMS,50
+1837,Mathematics,63
+1837,Machine Learning,66
+1837,Computer Networks,56
+1838,Python Programming,53
+1838,DBMS,45
+1838,Mathematics,58
+1838,Machine Learning,51
+1838,Computer Networks,55
+1839,Python Programming,79
+1839,DBMS,61
+1839,Mathematics,81
+1839,Machine Learning,76
+1839,Computer Networks,66
+1840,Python Programming,90
+1840,DBMS,98
+1840,Mathematics,90
+1840,Machine Learning,99
+1840,Computer Networks,100
+1841,Python Programming,55
+1841,DBMS,54
+1841,Mathematics,60
+1841,Machine Learning,63
+1841,Computer Networks,66
+1842,Python Programming,84
+1842,DBMS,69
+1842,Mathematics,81
+1842,Machine Learning,74
+1842,Computer Networks,85
+1843,Python Programming,76
+1843,DBMS,78
+1843,Mathematics,80
+1843,Machine Learning,81
+1843,Computer Networks,70
+1844,Python Programming,88
+1844,DBMS,83
+1844,Mathematics,85
+1844,Machine Learning,92
+1844,Computer Networks,100
+1845,Python Programming,71
+1845,DBMS,64
+1845,Mathematics,85
+1845,Machine Learning,68
+1845,Computer Networks,53
+1846,Python Programming,65
+1846,DBMS,68
+1846,Mathematics,66
+1846,Machine Learning,62
+1846,Computer Networks,61
+1847,Python Programming,62
+1847,DBMS,62
+1847,Mathematics,65
+1847,Machine Learning,61
+1847,Computer Networks,46
+1848,Python Programming,69
+1848,DBMS,74
+1848,Mathematics,68
+1848,Machine Learning,79
+1848,Computer Networks,65
+1849,Python Programming,77
+1849,DBMS,75
+1849,Mathematics,80
+1849,Machine Learning,91
+1849,Computer Networks,70
+1850,Python Programming,66
+1850,DBMS,65
+1850,Mathematics,57
+1850,Machine Learning,45
+1850,Computer Networks,60
+1851,Python Programming,52
+1851,DBMS,53
+1851,Mathematics,54
+1851,Machine Learning,51
+1851,Computer Networks,55
+1852,Python Programming,61
+1852,DBMS,50
+1852,Mathematics,62
+1852,Machine Learning,40
+1852,Computer Networks,42
+1853,Python Programming,94
+1853,DBMS,73
+1853,Mathematics,100
+1853,Machine Learning,84
+1853,Computer Networks,71
+1854,Python Programming,85
+1854,DBMS,78
+1854,Mathematics,76
+1854,Machine Learning,84
+1854,Computer Networks,84
+1855,Python Programming,81
+1855,DBMS,65
+1855,Mathematics,69
+1855,Machine Learning,77
+1855,Computer Networks,62
+1856,Python Programming,50
+1856,DBMS,53
+1856,Mathematics,63
+1856,Machine Learning,76
+1856,Computer Networks,65
+1857,Python Programming,69
+1857,DBMS,60
+1857,Mathematics,52
+1857,Machine Learning,50
+1857,Computer Networks,75
+1858,Python Programming,53
+1858,DBMS,53
+1858,Mathematics,51
+1858,Machine Learning,43
+1858,Computer Networks,57
+1859,Python Programming,76
+1859,DBMS,67
+1859,Mathematics,91
+1859,Machine Learning,67
+1859,Computer Networks,62
+1860,Python Programming,56
+1860,DBMS,54
+1860,Mathematics,51
+1860,Machine Learning,47
+1860,Computer Networks,62
+1861,Python Programming,63
+1861,DBMS,51
+1861,Mathematics,76
+1861,Machine Learning,57
+1861,Computer Networks,66
+1862,Python Programming,87
+1862,DBMS,85
+1862,Mathematics,89
+1862,Machine Learning,100
+1862,Computer Networks,66
+1863,Python Programming,79
+1863,DBMS,69
+1863,Mathematics,86
+1863,Machine Learning,58
+1863,Computer Networks,60
+1864,Python Programming,61
+1864,DBMS,60
+1864,Mathematics,64
+1864,Machine Learning,71
+1864,Computer Networks,55
+1865,Python Programming,100
+1865,DBMS,96
+1865,Mathematics,98
+1865,Machine Learning,84
+1865,Computer Networks,77
+1866,Python Programming,87
+1866,DBMS,77
+1866,Mathematics,92
+1866,Machine Learning,70
+1866,Computer Networks,63
+1867,Python Programming,85
+1867,DBMS,81
+1867,Mathematics,100
+1867,Machine Learning,86
+1867,Computer Networks,77
+1868,Python Programming,90
+1868,DBMS,87
+1868,Mathematics,94
+1868,Machine Learning,73
+1868,Computer Networks,81
+1869,Python Programming,90
+1869,DBMS,86
+1869,Mathematics,95
+1869,Machine Learning,76
+1869,Computer Networks,82
+1870,Python Programming,53
+1870,DBMS,69
+1870,Mathematics,44
+1870,Machine Learning,59
+1870,Computer Networks,67
+1871,Python Programming,70
+1871,DBMS,77
+1871,Mathematics,76
+1871,Machine Learning,75
+1871,Computer Networks,66
+1872,Python Programming,70
+1872,DBMS,82
+1872,Mathematics,69
+1872,Machine Learning,77
+1872,Computer Networks,77
+1873,Python Programming,63
+1873,DBMS,82
+1873,Mathematics,69
+1873,Machine Learning,83
+1873,Computer Networks,76
+1874,Python Programming,86
+1874,DBMS,66
+1874,Mathematics,85
+1874,Machine Learning,84
+1874,Computer Networks,61
+1875,Python Programming,69
+1875,DBMS,69
+1875,Mathematics,57
+1875,Machine Learning,58
+1875,Computer Networks,76
+1876,Python Programming,82
+1876,DBMS,75
+1876,Mathematics,95
+1876,Machine Learning,79
+1876,Computer Networks,86
+1877,Python Programming,73
+1877,DBMS,71
+1877,Mathematics,73
+1877,Machine Learning,88
+1877,Computer Networks,84
+1878,Python Programming,84
+1878,DBMS,100
+1878,Mathematics,97
+1878,Machine Learning,84
+1878,Computer Networks,96
+1879,Python Programming,70
+1879,DBMS,87
+1879,Mathematics,62
+1879,Machine Learning,67
+1879,Computer Networks,74
+1880,Python Programming,91
+1880,DBMS,88
+1880,Mathematics,84
+1880,Machine Learning,87
+1880,Computer Networks,81
+1881,Python Programming,58
+1881,DBMS,47
+1881,Mathematics,67
+1881,Machine Learning,59
+1881,Computer Networks,60
+1882,Python Programming,71
+1882,DBMS,91
+1882,Mathematics,73
+1882,Machine Learning,88
+1882,Computer Networks,82
+1883,Python Programming,63
+1883,DBMS,40
+1883,Mathematics,57
+1883,Machine Learning,57
+1883,Computer Networks,49
+1884,Python Programming,67
+1884,DBMS,54
+1884,Mathematics,63
+1884,Machine Learning,59
+1884,Computer Networks,64
+1885,Python Programming,77
+1885,DBMS,72
+1885,Mathematics,89
+1885,Machine Learning,72
+1885,Computer Networks,75
+1886,Python Programming,65
+1886,DBMS,60
+1886,Mathematics,79
+1886,Machine Learning,68
+1886,Computer Networks,64
+1887,Python Programming,84
+1887,DBMS,75
+1887,Mathematics,72
+1887,Machine Learning,69
+1887,Computer Networks,69
+1888,Python Programming,81
+1888,DBMS,82
+1888,Mathematics,75
+1888,Machine Learning,80
+1888,Computer Networks,73
+1889,Python Programming,82
+1889,DBMS,80
+1889,Mathematics,88
+1889,Machine Learning,83
+1889,Computer Networks,90
+1890,Python Programming,77
+1890,DBMS,76
+1890,Mathematics,100
+1890,Machine Learning,90
+1890,Computer Networks,88
+1891,Python Programming,73
+1891,DBMS,68
+1891,Mathematics,47
+1891,Machine Learning,69
+1891,Computer Networks,73
+1892,Python Programming,98
+1892,DBMS,87
+1892,Mathematics,99
+1892,Machine Learning,99
+1892,Computer Networks,100
+1893,Python Programming,64
+1893,DBMS,68
+1893,Mathematics,58
+1893,Machine Learning,68
+1893,Computer Networks,59
+1894,Python Programming,89
+1894,DBMS,91
+1894,Mathematics,78
+1894,Machine Learning,100
+1894,Computer Networks,91
+1895,Python Programming,69
+1895,DBMS,66
+1895,Mathematics,65
+1895,Machine Learning,54
+1895,Computer Networks,56
+1896,Python Programming,83
+1896,DBMS,93
+1896,Mathematics,90
+1896,Machine Learning,98
+1896,Computer Networks,97
+1897,Python Programming,82
+1897,DBMS,74
+1897,Mathematics,57
+1897,Machine Learning,65
+1897,Computer Networks,65
+1898,Python Programming,70
+1898,DBMS,77
+1898,Mathematics,74
+1898,Machine Learning,42
+1898,Computer Networks,92
+1899,Python Programming,77
+1899,DBMS,73
+1899,Mathematics,84
+1899,Machine Learning,84
+1899,Computer Networks,76
+1900,Python Programming,45
+1900,DBMS,52
+1900,Mathematics,58
+1900,Machine Learning,58
+1900,Computer Networks,53
+1901,Python Programming,100
+1901,DBMS,84
+1901,Mathematics,94
+1901,Machine Learning,97
+1901,Computer Networks,100
+1902,Python Programming,57
+1902,DBMS,70
+1902,Mathematics,55
+1902,Machine Learning,65
+1902,Computer Networks,60
+1903,Python Programming,85
+1903,DBMS,84
+1903,Mathematics,95
+1903,Machine Learning,78
+1903,Computer Networks,96
+1904,Python Programming,61
+1904,DBMS,60
+1904,Mathematics,63
+1904,Machine Learning,50
+1904,Computer Networks,55
+1905,Python Programming,76
+1905,DBMS,74
+1905,Mathematics,71
+1905,Machine Learning,67
+1905,Computer Networks,75
+1906,Python Programming,77
+1906,DBMS,77
+1906,Mathematics,71
+1906,Machine Learning,83
+1906,Computer Networks,70
+1907,Python Programming,74
+1907,DBMS,77
+1907,Mathematics,90
+1907,Machine Learning,68
+1907,Computer Networks,71
+1908,Python Programming,89
+1908,DBMS,85
+1908,Mathematics,87
+1908,Machine Learning,73
+1908,Computer Networks,96
+1909,Python Programming,93
+1909,DBMS,82
+1909,Mathematics,70
+1909,Machine Learning,81
+1909,Computer Networks,81
+1910,Python Programming,87
+1910,DBMS,93
+1910,Mathematics,90
+1910,Machine Learning,92
+1910,Computer Networks,84
+1911,Python Programming,100
+1911,DBMS,100
+1911,Mathematics,91
+1911,Machine Learning,93
+1911,Computer Networks,95
+1912,Python Programming,58
+1912,DBMS,60
+1912,Mathematics,64
+1912,Machine Learning,63
+1912,Computer Networks,62
+1913,Python Programming,59
+1913,DBMS,83
+1913,Mathematics,70
+1913,Machine Learning,61
+1913,Computer Networks,81
+1914,Python Programming,93
+1914,DBMS,84
+1914,Mathematics,84
+1914,Machine Learning,81
+1914,Computer Networks,80
+1915,Python Programming,57
+1915,DBMS,49
+1915,Mathematics,53
+1915,Machine Learning,51
+1915,Computer Networks,66
+1916,Python Programming,73
+1916,DBMS,54
+1916,Mathematics,73
+1916,Machine Learning,45
+1916,Computer Networks,74
+1917,Python Programming,74
+1917,DBMS,80
+1917,Mathematics,62
+1917,Machine Learning,72
+1917,Computer Networks,68
+1918,Python Programming,100
+1918,DBMS,100
+1918,Mathematics,100
+1918,Machine Learning,98
+1918,Computer Networks,93
+1919,Python Programming,63
+1919,DBMS,55
+1919,Mathematics,80
+1919,Machine Learning,74
+1919,Computer Networks,65
+1920,Python Programming,100
+1920,DBMS,83
+1920,Mathematics,79
+1920,Machine Learning,66
+1920,Computer Networks,80
+1921,Python Programming,58
+1921,DBMS,63
+1921,Mathematics,77
+1921,Machine Learning,75
+1921,Computer Networks,65
+1922,Python Programming,69
+1922,DBMS,71
+1922,Mathematics,75
+1922,Machine Learning,78
+1922,Computer Networks,74
+1923,Python Programming,73
+1923,DBMS,68
+1923,Mathematics,77
+1923,Machine Learning,62
+1923,Computer Networks,75
+1924,Python Programming,45
+1924,DBMS,60
+1924,Mathematics,49
+1924,Machine Learning,49
+1924,Computer Networks,51
+1925,Python Programming,55
+1925,DBMS,49
+1925,Mathematics,58
+1925,Machine Learning,56
+1925,Computer Networks,54
+1926,Python Programming,52
+1926,DBMS,65
+1926,Mathematics,49
+1926,Machine Learning,45
+1926,Computer Networks,65
+1927,Python Programming,93
+1927,DBMS,90
+1927,Mathematics,89
+1927,Machine Learning,99
+1927,Computer Networks,92
+1928,Python Programming,82
+1928,DBMS,70
+1928,Mathematics,94
+1928,Machine Learning,62
+1928,Computer Networks,73
+1929,Python Programming,63
+1929,DBMS,56
+1929,Mathematics,56
+1929,Machine Learning,56
+1929,Computer Networks,54
+1930,Python Programming,81
+1930,DBMS,74
+1930,Mathematics,59
+1930,Machine Learning,73
+1930,Computer Networks,71
+1931,Python Programming,80
+1931,DBMS,77
+1931,Mathematics,77
+1931,Machine Learning,74
+1931,Computer Networks,84
+1932,Python Programming,51
+1932,DBMS,77
+1932,Mathematics,59
+1932,Machine Learning,49
+1932,Computer Networks,41
+1933,Python Programming,87
+1933,DBMS,88
+1933,Mathematics,76
+1933,Machine Learning,70
+1933,Computer Networks,77
+1934,Python Programming,69
+1934,DBMS,75
+1934,Mathematics,70
+1934,Machine Learning,70
+1934,Computer Networks,69
+1935,Python Programming,85
+1935,DBMS,99
+1935,Mathematics,80
+1935,Machine Learning,100
+1935,Computer Networks,85
+1936,Python Programming,76
+1936,DBMS,100
+1936,Mathematics,91
+1936,Machine Learning,91
+1936,Computer Networks,89
+1937,Python Programming,56
+1937,DBMS,62
+1937,Mathematics,73
+1937,Machine Learning,55
+1937,Computer Networks,65
+1938,Python Programming,67
+1938,DBMS,67
+1938,Mathematics,73
+1938,Machine Learning,68
+1938,Computer Networks,72
+1939,Python Programming,84
+1939,DBMS,89
+1939,Mathematics,96
+1939,Machine Learning,87
+1939,Computer Networks,82
+1940,Python Programming,69
+1940,DBMS,92
+1940,Mathematics,69
+1940,Machine Learning,80
+1940,Computer Networks,91
+1941,Python Programming,88
+1941,DBMS,89
+1941,Mathematics,83
+1941,Machine Learning,82
+1941,Computer Networks,100
+1942,Python Programming,55
+1942,DBMS,73
+1942,Mathematics,61
+1942,Machine Learning,78
+1942,Computer Networks,52
+1943,Python Programming,99
+1943,DBMS,77
+1943,Mathematics,88
+1943,Machine Learning,87
+1943,Computer Networks,80
+1944,Python Programming,90
+1944,DBMS,94
+1944,Mathematics,93
+1944,Machine Learning,87
+1944,Computer Networks,80
+1945,Python Programming,80
+1945,DBMS,72
+1945,Mathematics,74
+1945,Machine Learning,80
+1945,Computer Networks,78
+1946,Python Programming,77
+1946,DBMS,83
+1946,Mathematics,81
+1946,Machine Learning,83
+1946,Computer Networks,76
+1947,Python Programming,89
+1947,DBMS,98
+1947,Mathematics,86
+1947,Machine Learning,100
+1947,Computer Networks,91
+1948,Python Programming,70
+1948,DBMS,83
+1948,Mathematics,70
+1948,Machine Learning,67
+1948,Computer Networks,73
+1949,Python Programming,70
+1949,DBMS,69
+1949,Mathematics,80
+1949,Machine Learning,62
+1949,Computer Networks,75
+1950,Python Programming,100
+1950,DBMS,100
+1950,Mathematics,100
+1950,Machine Learning,95
+1950,Computer Networks,97
+1951,Python Programming,70
+1951,DBMS,63
+1951,Mathematics,100
+1951,Machine Learning,74
+1951,Computer Networks,87
+1952,Python Programming,70
+1952,DBMS,52
+1952,Mathematics,64
+1952,Machine Learning,73
+1952,Computer Networks,73
+1953,Python Programming,78
+1953,DBMS,68
+1953,Mathematics,74
+1953,Machine Learning,63
+1953,Computer Networks,78
+1954,Python Programming,69
+1954,DBMS,86
+1954,Mathematics,69
+1954,Machine Learning,78
+1954,Computer Networks,78
+1955,Python Programming,94
+1955,DBMS,83
+1955,Mathematics,96
+1955,Machine Learning,87
+1955,Computer Networks,72
+1956,Python Programming,71
+1956,DBMS,76
+1956,Mathematics,67
+1956,Machine Learning,66
+1956,Computer Networks,70
+1957,Python Programming,66
+1957,DBMS,81
+1957,Mathematics,76
+1957,Machine Learning,71
+1957,Computer Networks,76
+1958,Python Programming,81
+1958,DBMS,77
+1958,Mathematics,90
+1958,Machine Learning,73
+1958,Computer Networks,70
+1959,Python Programming,54
+1959,DBMS,70
+1959,Mathematics,78
+1959,Machine Learning,76
+1959,Computer Networks,64
+1960,Python Programming,54
+1960,DBMS,64
+1960,Mathematics,48
+1960,Machine Learning,59
+1960,Computer Networks,60
+1961,Python Programming,54
+1961,DBMS,63
+1961,Mathematics,61
+1961,Machine Learning,64
+1961,Computer Networks,65
+1962,Python Programming,68
+1962,DBMS,73
+1962,Mathematics,62
+1962,Machine Learning,56
+1962,Computer Networks,66
+1963,Python Programming,61
+1963,DBMS,54
+1963,Mathematics,52
+1963,Machine Learning,56
+1963,Computer Networks,53
+1964,Python Programming,63
+1964,DBMS,67
+1964,Mathematics,66
+1964,Machine Learning,73
+1964,Computer Networks,57
+1965,Python Programming,62
+1965,DBMS,79
+1965,Mathematics,62
+1965,Machine Learning,62
+1965,Computer Networks,58
+1966,Python Programming,80
+1966,DBMS,85
+1966,Mathematics,92
+1966,Machine Learning,79
+1966,Computer Networks,81
+1967,Python Programming,69
+1967,DBMS,78
+1967,Mathematics,67
+1967,Machine Learning,72
+1967,Computer Networks,63
+1968,Python Programming,66
+1968,DBMS,78
+1968,Mathematics,73
+1968,Machine Learning,68
+1968,Computer Networks,88
+1969,Python Programming,75
+1969,DBMS,65
+1969,Mathematics,71
+1969,Machine Learning,72
+1969,Computer Networks,74
+1970,Python Programming,67
+1970,DBMS,60
+1970,Mathematics,59
+1970,Machine Learning,49
+1970,Computer Networks,49
+1971,Python Programming,91
+1971,DBMS,76
+1971,Mathematics,81
+1971,Machine Learning,60
+1971,Computer Networks,73
+1972,Python Programming,100
+1972,DBMS,100
+1972,Mathematics,100
+1972,Machine Learning,88
+1972,Computer Networks,88
+1973,Python Programming,73
+1973,DBMS,89
+1973,Mathematics,82
+1973,Machine Learning,85
+1973,Computer Networks,92
+1974,Python Programming,97
+1974,DBMS,87
+1974,Mathematics,75
+1974,Machine Learning,92
+1974,Computer Networks,76
+1975,Python Programming,50
+1975,DBMS,54
+1975,Mathematics,49
+1975,Machine Learning,65
+1975,Computer Networks,63
+1976,Python Programming,100
+1976,DBMS,84
+1976,Mathematics,95
+1976,Machine Learning,100
+1976,Computer Networks,90
+1977,Python Programming,81
+1977,DBMS,84
+1977,Mathematics,85
+1977,Machine Learning,77
+1977,Computer Networks,81
+1978,Python Programming,68
+1978,DBMS,73
+1978,Mathematics,67
+1978,Machine Learning,72
+1978,Computer Networks,60
+1979,Python Programming,57
+1979,DBMS,64
+1979,Mathematics,74
+1979,Machine Learning,70
+1979,Computer Networks,56
+1980,Python Programming,59
+1980,DBMS,51
+1980,Mathematics,67
+1980,Machine Learning,60
+1980,Computer Networks,60
+1981,Python Programming,54
+1981,DBMS,59
+1981,Mathematics,82
+1981,Machine Learning,65
+1981,Computer Networks,55
+1982,Python Programming,95
+1982,DBMS,94
+1982,Mathematics,89
+1982,Machine Learning,100
+1982,Computer Networks,90
+1983,Python Programming,91
+1983,DBMS,96
+1983,Mathematics,93
+1983,Machine Learning,100
+1983,Computer Networks,89
+1984,Python Programming,69
+1984,DBMS,64
+1984,Mathematics,56
+1984,Machine Learning,69
+1984,Computer Networks,70
+1985,Python Programming,92
+1985,DBMS,78
+1985,Mathematics,76
+1985,Machine Learning,70
+1985,Computer Networks,79
+1986,Python Programming,94
+1986,DBMS,72
+1986,Mathematics,70
+1986,Machine Learning,78
+1986,Computer Networks,100
+1987,Python Programming,75
+1987,DBMS,66
+1987,Mathematics,82
+1987,Machine Learning,83
+1987,Computer Networks,64
+1988,Python Programming,100
+1988,DBMS,85
+1988,Mathematics,85
+1988,Machine Learning,78
+1988,Computer Networks,96
+1989,Python Programming,60
+1989,DBMS,67
+1989,Mathematics,73
+1989,Machine Learning,62
+1989,Computer Networks,74
+1990,Python Programming,51
+1990,DBMS,53
+1990,Mathematics,58
+1990,Machine Learning,57
+1990,Computer Networks,47
+1991,Python Programming,95
+1991,DBMS,100
+1991,Mathematics,91
+1991,Machine Learning,92
+1991,Computer Networks,89
+1992,Python Programming,94
+1992,DBMS,94
+1992,Mathematics,100
+1992,Machine Learning,96
+1992,Computer Networks,85
+1993,Python Programming,51
+1993,DBMS,68
+1993,Mathematics,59
+1993,Machine Learning,65
+1993,Computer Networks,54
+1994,Python Programming,77
+1994,DBMS,61
+1994,Mathematics,79
+1994,Machine Learning,80
+1994,Computer Networks,85
+1995,Python Programming,90
+1995,DBMS,83
+1995,Mathematics,84
+1995,Machine Learning,92
+1995,Computer Networks,96
+1996,Python Programming,84
+1996,DBMS,92
+1996,Mathematics,89
+1996,Machine Learning,99
+1996,Computer Networks,100
+1997,Python Programming,74
+1997,DBMS,88
+1997,Mathematics,74
+1997,Machine Learning,92
+1997,Computer Networks,93
+1998,Python Programming,100
+1998,DBMS,100
+1998,Mathematics,97
+1998,Machine Learning,94
+1998,Computer Networks,99
+1999,Python Programming,91
+1999,DBMS,77
+1999,Mathematics,80
+1999,Machine Learning,75
+1999,Computer Networks,77
+2000,Python Programming,74
+2000,DBMS,90
+2000,Mathematics,76
+2000,Machine Learning,80
+2000,Computer Networks,79
